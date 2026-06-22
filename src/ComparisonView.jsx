@@ -102,6 +102,33 @@ const ComparisonView = () => {
     });
   };
 
+  const renderText = (text) => {
+    if (!text) return null;
+    const lines = text.split('\n');
+    return lines.map((line, idx) => {
+      const trimmed = line.trim();
+      if (!trimmed) return <br key={idx} />;
+      
+      const isBullet = trimmed.startsWith('•');
+      const content = isBullet ? trimmed.substring(1).trim() : trimmed;
+
+      if (isBullet) {
+        return (
+          <div key={idx} className="flex mb-2">
+            <span className="mr-3 font-bold text-blue-400">•</span>
+            <div>{content}</div>
+          </div>
+        );
+      }
+
+      return (
+        <span key={idx} className="block mb-3 last:mb-0">
+          {content}
+        </span>
+      );
+    });
+  };
+
   const renderSection = (section, isBase) => {
     return (
       <section key={section.id} className="mb-12">
@@ -113,9 +140,11 @@ const ComparisonView = () => {
             if (block.type === 'paragraph') {
               return (
                 <div key={index} className="mb-6">
+                  {/* English text gets rendered normally (no diffing) */}
                   <div className="text-gray-900 font-serif text-sm leading-relaxed mb-2">
-                    {renderTextWithDiff(block.en, section.id, index, isBase, 'en')}
+                    {renderText(block.en)}
                   </div>
+                  {/* Translated text gets diffing applied */}
                   {block.id && (
                     <div className="bg-blue-50 border-l-4 border-blue-500 p-3 rounded-r-md">
                       <div className="text-gray-700 font-serif text-sm leading-relaxed">
@@ -216,8 +245,8 @@ const ComparisonView = () => {
                 <strong>3. Proper Noun Preservation:</strong> Specific company entities (e.g., <em>Olam Group Limited</em>, <em>Olam Brands B.V.</em>), proprietary platforms (e.g., <em>AtSource</em>, <em>OFIS</em>), and financial institutions remain untranslated to maintain legal accuracy.
               </p>
               <p>
-                <strong>4. Diff Analysis:</strong> We perform a word-by-word comparison between TR23 and the target document. 
-                <br/>• <span className="bg-yellow-200 px-1 rounded shadow-sm border border-yellow-300 text-yellow-900">Yellow</span> means the text is identical.
+                <strong>4. Diff Analysis (Translations):</strong> We perform a word-by-word comparison on the translated text (Bahasa Indonesia) between TR23 and the target document. The English text is left plain for clarity.
+                <br/>• <span className="bg-yellow-200 px-1 rounded shadow-sm border border-yellow-300 text-yellow-900">Yellow</span> means the translation is identical.
                 <br/>• <span className="bg-red-200 text-red-900 px-1 rounded line-through decoration-red-500">Red strike</span> means text was removed from TR23.
                 <br/>• <span className="bg-green-200 text-green-900 px-1 rounded font-medium">Green</span> means text was added or changed in the target.
               </p>
