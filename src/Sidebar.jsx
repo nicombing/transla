@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { documentLibrary } from './data';
 import { X, ChevronDown, ChevronRight, FileText, Folder } from 'lucide-react';
 
-const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersionId, setActiveVersionId }) => {
+const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersionId, setActiveVersionId, viewMode, setViewMode }) => {
   // Track which document folders are expanded
   const [expandedDocs, setExpandedDocs] = useState({ [activeDocId]: true });
   // Track which versions are expanded to show their TOC
@@ -19,6 +19,7 @@ const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersion
     // Set active document and version when clicking a version
     setActiveDocId(docId);
     setActiveVersionId(versionId);
+    setViewMode('document');
   };
 
   const handleScroll = (id) => {
@@ -49,7 +50,7 @@ const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersion
         }`}
       >
         <div className="flex items-center justify-between p-6 border-b border-gray-200 shrink-0 bg-white">
-          <h2 className="font-sans text-lg font-bold text-gray-800">Document Library</h2>
+          <h2 className="font-sans text-lg font-bold text-gray-800">Transfer Pricing</h2>
           <button 
             className="lg:hidden text-gray-500 hover:text-gray-800 focus:outline-none"
             onClick={() => setIsOpen(false)}
@@ -60,6 +61,19 @@ const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersion
         </div>
 
         <nav className="p-4 overflow-y-auto flex-1">
+          <div className="mb-4 pb-4 border-b border-gray-200">
+            <button
+              onClick={() => { setViewMode('comparison'); if(window.innerWidth < 1024) setIsOpen(false); }}
+              className={`w-full flex items-center text-left font-sans text-sm font-semibold px-2 py-2 rounded-md transition-colors ${
+                viewMode === 'comparison' ? 'bg-blue-100 text-blue-700' : 'text-gray-800 hover:bg-gray-200'
+              }`}
+            >
+              <FileText size={16} className={`mr-2 ${viewMode === 'comparison' ? 'text-blue-600' : 'text-blue-500'}`} />
+              Comparison Analysis
+            </button>
+          </div>
+
+          <h3 className="font-sans text-xs font-bold text-gray-500 uppercase tracking-wider mb-2 px-2">Document Library</h3>
           <ul className="space-y-1">
             {Object.keys(documentLibrary).map((docId) => {
               const isDocExpanded = expandedDocs[docId];

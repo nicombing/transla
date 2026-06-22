@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import Sidebar from './Sidebar';
 import DocumentView from './DocumentView';
+import ComparisonView from './ComparisonView';
 import { Menu } from 'lucide-react';
 
 function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [activeDocId, setActiveDocId] = useState('TR23');
   const [activeVersionId, setActiveVersionId] = useState('V1');
+  const [viewMode, setViewMode] = useState('document'); // 'document' or 'comparison'
 
   return (
     <div className="flex h-screen bg-white font-sans overflow-hidden">
@@ -20,7 +22,7 @@ function App() {
           <Menu size={24} />
         </button>
         <span className="ml-4 font-bold text-gray-800 font-sans truncate">
-          Transfer Pricing {activeDocId} ({activeVersionId})
+          {viewMode === 'comparison' ? 'Comparison Analysis' : `Transfer Pricing ${activeDocId} (${activeVersionId})`}
         </span>
       </header>
 
@@ -31,11 +33,17 @@ function App() {
         setActiveDocId={setActiveDocId}
         activeVersionId={activeVersionId}
         setActiveVersionId={setActiveVersionId}
+        viewMode={viewMode}
+        setViewMode={setViewMode}
       />
-      <DocumentView 
-        activeDocId={activeDocId}
-        activeVersionId={activeVersionId}
-      />
+      {viewMode === 'comparison' ? (
+        <ComparisonView />
+      ) : (
+        <DocumentView 
+          activeDocId={activeDocId}
+          activeVersionId={activeVersionId}
+        />
+      )}
     </div>
   );
 }
