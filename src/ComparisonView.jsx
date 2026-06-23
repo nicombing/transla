@@ -20,7 +20,26 @@ const ComparisonView = () => {
     return block[lang];
   };
 
-  const renderDiffText = (text, correspondingText, isBase) => {
+  const handlePinkClick = (sectionId, blockIndex, isBaseClicked) => {
+    const targetPrefix = isBaseClicked ? 'target' : 'base';
+    const targetElementId = `${targetPrefix}-${sectionId}-block-${blockIndex}-id`;
+    const element = document.getElementById(targetElementId);
+    
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      
+      // Add a temporary highlight effect to draw attention
+      element.classList.add('bg-indigo-100', 'border-indigo-500');
+      element.classList.remove('bg-blue-50', 'border-blue-500');
+      
+      setTimeout(() => {
+        element.classList.add('bg-blue-50', 'border-blue-500');
+        element.classList.remove('bg-indigo-100', 'border-indigo-500');
+      }, 2000);
+    }
+  };
+
+  const renderDiffText = (text, correspondingText, isBase, sectionId, blockIndex) => {
     if (!text) return null;
     
     // If no corresponding text, just render normally (no highlight)
@@ -45,7 +64,15 @@ const ComparisonView = () => {
     
     // If similarity is low but it exists, it means it's a rewritten paragraph with similar context
     if (similarity < 0.4) {
-      return <span className="bg-pink-200 text-pink-900 px-1 rounded">{text}</span>;
+      return (
+        <span 
+          className="bg-pink-200 text-pink-900 px-1 rounded cursor-pointer hover:bg-pink-300 transition-colors inline-block" 
+          onClick={() => handlePinkClick(sectionId, blockIndex, isBase)}
+          title="Click to scroll to corresponding paragraph"
+        >
+          {text}
+        </span>
+      );
     }
 
     return diffs.map((part, index) => {
@@ -83,7 +110,7 @@ const ComparisonView = () => {
       const corrLine = correspondingLines[idx] || '';
       const corrContent = corrLine.trim().startsWith('•') ? corrLine.trim().substring(1).trim() : corrLine.trim();
 
-      const renderedContent = renderDiffText(content, corrContent, isBase);
+      const renderedContent = renderDiffText(content, corrContent, isBase, sectionId, blockIndex);
 
       if (isBullet) {
         return (
@@ -146,7 +173,10 @@ const ComparisonView = () => {
                   </div>
                   {/* Translated text gets diffing applied */}
                   {block.id && (
-                    <div className="bg-blue-50 border-l-4 border-blue-500 p-3 rounded-r-md">
+                    <div 
+                      id={`${isBase ? 'base' : 'target'}-${section.id}-block-${index}-id`}
+                      className="bg-blue-50 border-l-4 border-blue-500 p-3 rounded-r-md transition-colors duration-500"
+                    >
                       <div className="text-gray-700 font-serif text-sm leading-relaxed">
                         {renderTextWithDiff(block.id, section.id, index, isBase, 'id')}
                       </div>
@@ -249,7 +279,7 @@ const ComparisonView = () => {
                 <br/>• <span className="bg-yellow-200 px-1 rounded shadow-sm border border-yellow-300 text-yellow-900">Yellow</span> means the translation is identical.
                 <br/>• <span className="bg-red-200 text-red-900 px-1 rounded line-through decoration-red-500">Red strike</span> means text was removed from TR23.
                 <br/>• <span className="bg-green-200 text-green-900 px-1 rounded font-medium">Green</span> means text was added or changed in the target.
-                <br/>• <span className="bg-pink-200 text-pink-900 px-1 rounded font-medium">Pink</span> indicates the paragraph was significantly rewritten, but addresses the same context.
+                <br/>• <span className="bg-pink-200 text-pink-900 px-1 rounded font-medium">Pink</span> indicates the paragraph was significantly rewritten, but addresses the same context. <strong>(Click any pink paragraph to automatically scroll to its counterpart!)</strong>
               </p>
             </div>
           </div>
