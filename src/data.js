@@ -16657,12 +16657,12 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": "1. Executive summary",
-              "id": "1. Ringkasan eksekutif"
+              "id": "1. Ringkasan Eksekutif"
             },
             {
               "type": "paragraph",
               "en": " Introduction",
-              "id": " Pendahuluan"
+              "id": " Perkenalan"
             },
             {
               "type": "paragraph",
@@ -16677,7 +16677,7 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": "2. Organisational structure",
-              "id": "2. Struktur organisasi"
+              "id": "2. Struktur Organisasi"
             },
             {
               "type": "paragraph",
@@ -16697,12 +16697,12 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": "3. ofi Group's business",
-              "id": "3. Bisnis Grup ofi"
+              "id": "3. Bisnis ofi Group"
             },
             {
               "type": "paragraph",
               "en": " Overview of ofi Group's business",
-              "id": " Gambaran umum bisnis Grup ofi"
+              "id": " Sekilas tentang bisnis ofi Group"
             },
             {
               "type": "paragraph",
@@ -16727,12 +16727,12 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": "4. Intangibles",
-              "id": "4. Barang Tidak Berwujud"
+              "id": "4. Aktiva Tidak Berwujud"
             },
             {
               "type": "paragraph",
               "en": " Overview & Group Strategy",
-              "id": " Gambaran Umum & Strategi Grup"
+              "id": " Tinjauan Umum & Strategi Grup"
             },
             {
               "type": "paragraph",
@@ -16742,7 +16742,7 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": " Details of major intangibles",
-              "id": " Rincian barang tidak berwujud utama"
+              "id": " Rincian aktiva tidak berwujud utama"
             },
             {
               "type": "paragraph",
@@ -16752,17 +16752,17 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": " Important transfers of intangibles",
-              "id": " Transfer penting dari barang tidak berwujud"
+              "id": " Transfer penting dari aktiva tidak berwujud"
             },
             {
               "type": "paragraph",
               "en": "5. Intercompany Financial Activities",
-              "id": "5. Aktivitas Keuangan Antarperusahaan"
+              "id": "5. Aktivitas Keuangan Antar Perusahaan"
             },
             {
               "type": "paragraph",
               "en": " Group financing overview",
-              "id": " Gambaran umum pembiayaan grup"
+              "id": " Tinjauan pembiayaan grup"
             },
             {
               "type": "paragraph",
@@ -16777,7 +16777,7 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": " Intercompany financing – transfer pricing policy",
-              "id": " Pembiayaan antarperusahaan – kebijakan penentuan harga transfer"
+              "id": " Pembiayaan antar perusahaan – kebijakan penentuan harga transfer"
             },
             {
               "type": "paragraph",
@@ -16787,7 +16787,7 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": "7. Financial and tax position",
-              "id": "7. Posisi keuangan dan pajak"
+              "id": "7. Posisi keuangan dan perpajakan"
             },
             {
               "type": "paragraph",
@@ -16797,12 +16797,12 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": " Advance Pricing Arrangements (\"APAs\") and other tax rulings",
-              "id": " Kesepakatan Harga Transfer (\"APA\") dan keputusan pajak lainnya"
+              "id": " Perjanjian Harga di Muka (\"APA\") dan peraturan perpajakan lainnya"
             },
             {
               "type": "paragraph",
               "en": "8. Scope",
-              "id": "8. Ruang lingkup"
+              "id": "8. Ruang Lingkup"
             },
             {
               "type": "paragraph",
@@ -16812,7 +16812,7 @@ export const documentLibrary = {
             {
               "type": "paragraph",
               "en": " Work performed",
-              "id": " Pekerjaan yang dilakukan"
+              "id": " Pekerjaan dilakukan"
             },
             {
               "type": "paragraph",
@@ -21207,11 +21207,11 @@ export const documentLibrary = {
           "content": [
             {
               "type": "paragraph",
-              "en": "1. Ringkasan eksekutif"
+              "en": "1. Ringkasan Eksekutif"
             },
             {
               "type": "paragraph",
-              "en": " Pendahuluan"
+              "en": " Perkenalan"
             },
             {
               "type": "paragraph",
@@ -21223,7 +21223,7 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": "2. Struktur organisasi"
+              "en": "2. Struktur Organisasi"
             },
             {
               "type": "paragraph",
@@ -21239,11 +21239,11 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": "3. Bisnis Grup ofi"
+              "en": "3. Bisnis ofi Group"
             },
             {
               "type": "paragraph",
-              "en": " Gambaran umum bisnis Grup ofi"
+              "en": " Sekilas tentang bisnis ofi Group"
             },
             {
               "type": "paragraph",
@@ -21263,11 +21263,11 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": "4. Barang Tidak Berwujud"
+              "en": "4. Aktiva Tidak Berwujud"
             },
             {
               "type": "paragraph",
-              "en": " Gambaran Umum & Strategi Grup"
+              "en": " Tinjauan Umum & Strategi Grup"
             },
             {
               "type": "paragraph",
@@ -21275,7 +21275,7 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": " Rincian barang tidak berwujud utama"
+              "en": " Rincian aktiva tidak berwujud utama"
             },
             {
               "type": "paragraph",
@@ -21283,15 +21283,15 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": " Transfer penting dari barang tidak berwujud"
+              "en": " Transfer penting dari aktiva tidak berwujud"
             },
             {
               "type": "paragraph",
-              "en": "5. Aktivitas Keuangan Antarperusahaan"
+              "en": "5. Aktivitas Keuangan Antar Perusahaan"
             },
             {
               "type": "paragraph",
-              "en": " Gambaran umum pembiayaan grup"
+              "en": " Tinjauan pembiayaan grup"
             },
             {
               "type": "paragraph",
@@ -21303,7 +21303,7 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": " Pembiayaan antarperusahaan – kebijakan penentuan harga transfer"
+              "en": " Pembiayaan antar perusahaan – kebijakan penentuan harga transfer"
             },
             {
               "type": "paragraph",
@@ -21311,7 +21311,7 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": "7. Posisi keuangan dan pajak"
+              "en": "7. Posisi keuangan dan perpajakan"
             },
             {
               "type": "paragraph",
@@ -21319,11 +21319,11 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": " Kesepakatan Harga Transfer (\"APA\") dan keputusan pajak lainnya"
+              "en": " Perjanjian Harga di Muka (\"APA\") dan peraturan perpajakan lainnya"
             },
             {
               "type": "paragraph",
-              "en": "8. Ruang lingkup"
+              "en": "8. Ruang Lingkup"
             },
             {
               "type": "paragraph",
@@ -21331,7 +21331,7 @@ export const documentLibrary = {
             },
             {
               "type": "paragraph",
-              "en": " Pekerjaan yang dilakukan"
+              "en": " Pekerjaan dilakukan"
             },
             {
               "type": "paragraph",
