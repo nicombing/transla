@@ -5612,6 +5612,8394 @@ export const documentLibrary = {
             }
           ]
         }
+      ],
+      "V3": [
+        {
+          "id": "table-of-contents",
+          "title": "2 Table of contents",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "1. Executive summary",
+              "id": "1. Ringkasan Eksekutif"
+            },
+            {
+              "type": "paragraph",
+              "en": " Introduction",
+              "id": " Perkenalan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Purpose and scope",
+              "id": " Tujuan dan ruang lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Master File content requirements",
+              "id": " Persyaratan konten Master File"
+            },
+            {
+              "type": "paragraph",
+              "en": "2. Organisational structure",
+              "id": "2. Struktur Organisasi"
+            },
+            {
+              "type": "paragraph",
+              "en": " Background",
+              "id": " Latar belakang"
+            },
+            {
+              "type": "paragraph",
+              "en": " Legal and ownership structure",
+              "id": " Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Geographic locations",
+              "id": " Lokasi geografis"
+            },
+            {
+              "type": "paragraph",
+              "en": "3. ofi Group's business",
+              "id": "3. Bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": " Overview of ofi Group's business",
+              "id": " Sekilas tentang bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": " Products / Business segments / Markets",
+              "id": " Produk / Segmen bisnis / Pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": " Important drivers of business profit",
+              "id": " Penggerak penting laba bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": " Summary of functional analysis",
+              "id": " Ringkasan analisis fungsional"
+            },
+            {
+              "type": "paragraph",
+              "en": " Acquisitions and divestitures",
+              "id": " Akuisisi dan divestasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "4. Intangibles",
+              "id": "4. Aktiva Tidak Berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": " Overview & Group Strategy",
+              "id": " Tinjauan Umum & Strategi Grup"
+            },
+            {
+              "type": "paragraph",
+              "en": " R&D organisation",
+              "id": " Organisasi Litbang"
+            },
+            {
+              "type": "paragraph",
+              "en": " Details of major intangibles",
+              "id": " Rincian aktiva tidak berwujud utama"
+            },
+            {
+              "type": "paragraph",
+              "en": " Important agreements and transfer pricing policy",
+              "id": " Perjanjian penting dan kebijakan penentuan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": " Important transfers of intangibles",
+              "id": " Transfer penting dari aktiva tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "5. Intercompany Financial Activities",
+              "id": "5. Aktivitas Keuangan Antar Perusahaan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Group financing overview",
+              "id": " Tinjauan pembiayaan grup"
+            },
+            {
+              "type": "paragraph",
+              "en": " External financing arrangements",
+              "id": " Pengaturan pembiayaan eksternal"
+            },
+            {
+              "type": "paragraph",
+              "en": " Central financing functions",
+              "id": " Fungsi pembiayaan terpusat"
+            },
+            {
+              "type": "paragraph",
+              "en": " Intercompany financing – transfer pricing policy",
+              "id": " Pembiayaan antar perusahaan – kebijakan penentuan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "6. Important Service Agreements",
+              "id": "6. Perjanjian Layanan Penting"
+            },
+            {
+              "type": "paragraph",
+              "en": "7. Financial and tax position",
+              "id": "7. Posisi keuangan dan perpajakan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Financial results",
+              "id": " Hasil keuangan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Advance Pricing Arrangements (\"APAs\") and other tax rulings",
+              "id": " Perjanjian Harga di Muka (\"APA\") dan peraturan perpajakan lainnya"
+            },
+            {
+              "type": "paragraph",
+              "en": "8. Scope",
+              "id": "8. Ruang Lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Scope of the report",
+              "id": " Ruang lingkup laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Work performed",
+              "id": " Pekerjaan dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Limitations of the report",
+              "id": " Keterbatasan laporan"
+            }
+          ]
+        },
+        {
+          "id": "list-of-appendices",
+          "title": "3 List of appendices",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Appendix A. ofi Group – Legal and ownership structure",
+              "id": "Lampiran A. Grup ofi – Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Appendix B. List of key ofi Group entities",
+              "id": "Lampiran B. Daftar entitas utama Grup ofi"
+            }
+          ]
+        },
+        {
+          "id": "glossary",
+          "title": "4 Glossary",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Abbreviations",
+                  "id": "Singkatan"
+                },
+                {
+                  "en": "Full name / description",
+                  "id": "Nama lengkap / deskripsi"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "APA",
+                    "id": "APA"
+                  },
+                  {
+                    "en": "Advance Pricing Arrangement",
+                    "id": "Kesepakatan Harga Transfer (Advance Pricing Arrangement)"
+                  }
+                ],
+                [
+                  {
+                    "en": "B2B",
+                    "id": "B2B"
+                  },
+                  {
+                    "en": "Business-to-Business",
+                    "id": "Bisnis-ke-Bisnis"
+                  }
+                ],
+                [
+                  {
+                    "en": "B2C",
+                    "id": "B2C"
+                  },
+                  {
+                    "en": "Business-to-Consumer",
+                    "id": "Bisnis-ke-Konsumen"
+                  }
+                ],
+                [
+                  {
+                    "en": "BEPS",
+                    "id": "BEPS"
+                  },
+                  {
+                    "en": "Base Erosion Profit Shifting",
+                    "id": "Penggerusan Basis Pengenaan Pajak dan Penggeseran Laba (Base Erosion Profit Shifting)"
+                  }
+                ],
+                [
+                  {
+                    "en": "CSC",
+                    "id": "CSC"
+                  },
+                  {
+                    "en": "Customer Solutions Centre",
+                    "id": "Pusat Solusi Pelanggan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Deloitte Singapore, we or our",
+                    "id": "Deloitte Singapore, kami atau milik kami"
+                  },
+                  {
+                    "en": "Deloitte Singapore Tax Services Pte. Ltd.",
+                    "id": "Deloitte Singapore Tax Services Pte. Ltd."
+                  }
+                ],
+                [
+                  {
+                    "en": "GKAM",
+                    "id": "GKAM"
+                  },
+                  {
+                    "en": "Global Key Account Managers",
+                    "id": "Manajer Akun Utama Global"
+                  }
+                ],
+                [
+                  {
+                    "en": "IEC",
+                    "id": "IEC"
+                  },
+                  {
+                    "en": "Ingredient Excellence Centre",
+                    "id": "Pusat Keunggulan Bahan (Ingredient Excellence Centre)"
+                  }
+                ],
+                [
+                  {
+                    "en": "IP",
+                    "id": "IP"
+                  },
+                  {
+                    "en": "Intellectual Property",
+                    "id": "Kekayaan Intelektual"
+                  }
+                ],
+                [
+                  {
+                    "en": "MTN",
+                    "id": "MTN"
+                  },
+                  {
+                    "en": "Medium-term notes",
+                    "id": "Wesel bayar jangka menengah"
+                  }
+                ],
+                [
+                  {
+                    "en": "Incoterms",
+                    "id": "Incoterms"
+                  },
+                  {
+                    "en": "International Commercial Terms",
+                    "id": "Syarat Perdagangan Internasional"
+                  }
+                ],
+                [
+                  {
+                    "en": "M&A",
+                    "id": "M&A"
+                  },
+                  {
+                    "en": "Merger & Acquisition",
+                    "id": "Penggabungan & Akuisisi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OECD",
+                    "id": "OECD"
+                  },
+                  {
+                    "en": "Organisation for Economic Co-operation and Development",
+                    "id": "Organisasi Kerja Sama dan Pembangunan Ekonomi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OECD TP Guidelines",
+                    "id": "OECD TP Guidelines"
+                  },
+                  {
+                    "en": "OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations",
+                    "id": "Pedoman Penentuan Harga Transfer OECD untuk Perusahaan Multinasional dan Administrasi Pajak"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFIS",
+                    "id": "OFIS"
+                  },
+                  {
+                    "en": "Olam Farmer Information System",
+                    "id": "Sistem Informasi Petani Olam"
+                  }
+                ],
+                [
+                  {
+                    "en": "OGL",
+                    "id": "OGL"
+                  },
+                  {
+                    "en": "Olam Group Limited",
+                    "id": "Olam Group Limited"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agri",
+                    "id": "Olam Agri"
+                  },
+                  {
+                    "en": "Olam Agri Group",
+                    "id": "Grup Olam Agri"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Group or the Group",
+                    "id": "ofi Group atau Grup"
+                  },
+                  {
+                    "en": "Olam Food Ingredients",
+                    "id": "Olam Food Ingredients"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Olam International Limited",
+                    "id": "Olam International Limited"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL",
+                    "id": "OTPL"
+                  },
+                  {
+                    "en": "Olam Treasury Pte Ltd",
+                    "id": "Olam Treasury Pte Ltd"
+                  }
+                ],
+                [
+                  {
+                    "en": "p.a.",
+                    "id": "p.a."
+                  },
+                  {
+                    "en": "per annum",
+                    "id": "per tahun"
+                  }
+                ],
+                [
+                  {
+                    "en": "OHBV",
+                    "id": "OHBV"
+                  },
+                  {
+                    "en": "Olam Holdings B.V.",
+                    "id": "Olam Holdings B.V."
+                  }
+                ],
+                [
+                  {
+                    "en": "R&D",
+                    "id": "R&D"
+                  },
+                  {
+                    "en": "Research and Development",
+                    "id": "Penelitian dan Pengembangan"
+                  }
+                ],
+                [
+                  {
+                    "en": "SALIC",
+                    "id": "SALIC"
+                  },
+                  {
+                    "en": "Saudi Agricultural and Livestock Investment Company",
+                    "id": "Saudi Agricultural and Livestock Investment Company"
+                  }
+                ],
+                [
+                  {
+                    "en": "TP",
+                    "id": "TP"
+                  },
+                  {
+                    "en": "Transfer Pricing",
+                    "id": "Penentuan Harga Transfer"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "title": "1. Executive summary - Ringkasan Eksekutif",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "1.1. Introduction",
+              "id": "1.1. Perkenalan"
+            },
+            {
+              "type": "paragraph",
+              "en": "The Olam Group (together with its worldwide affiliates) is a leading food and agri-business supplying food, ingredients, feed and fibre to customers worldwide. The Group’s value chain spans over 60 countries and includes farming, origination, processing and distribution operations.",
+              "id": "Olam Group (bersama dengan afiliasinya di seluruh dunia) adalah perusahaan pangan dan agrobisnis terkemuka yang memasok makanan, bahan-bahan, pakan, dan serat kepada pelanggan di seluruh dunia. Rantai nilai Grup mencakup lebih dari 60 negara dan mencakup operasi pertanian, produksi, pemrosesan, dan distribusi."
+            },
+            {
+              "type": "paragraph",
+              "en": "The Olam Group is listed on the main board of the Singapore Exchange and is supported by large shareholders namely, Temasek Holdings (51.8%), Mitsubishi Corporation (14.6%), Kewalram Chanrai Group (7.0%) and Olam’s Directors (4.4%). 1",
+              "id": "Olam Group terdaftar di papan utama Singapore Exchange dan didukung oleh pemegang saham besar yaitu, Temasek Holdings (51,8%), Mitsubishi Corporation (14,6%), Kewalram Chanrai Group (7,0%) dan Direktur Olam (4,4%). 1"
+            },
+            {
+              "type": "paragraph",
+              "en": "In January 2020, Olam Group announced a transformational re-organisation plan to split the Group into three distinct and coherent operating groups that are Purpose-led and future ready, in order to maximise Olam Group’s long-term value on a sustained basis. In January 2022, the Olam Group substantially completed the carve-out and separation of its business into three operating groups - Olam Agri (“Olam Agri Group”), Olam Food Ingredients (“ofi Group” or the “Group”), and the Remaining Olam Group. 2",
+              "id": "Pada bulan Januari 2020, Olam Group mengumumkan rencana reorganisasi transformasional untuk membagi Grup menjadi tiga grup operasi yang berbeda dan koheren yang dipimpin oleh Tujuan dan siap menghadapi masa depan, guna memaksimalkan nilai jangka panjang Olam Group secara berkelanjutan. Pada bulan Januari 2022, Olam Group secara substansial telah menyelesaikan pemisahan bisnisnya menjadi tiga grup operasi - Olam Agri (“Olam Agri Group”), Olam Food Ingredients (“ofi Group” atau “Grup”), dan Sisa Olam Group. 2"
+            },
+            {
+              "type": "paragraph",
+              "en": "On February 18, 2022, shareholders approved the proposed restructuring of the Group by way of a Scheme of Arrangement, which became effective on March 15, 2022, with Olam Group Limited (“OGL”) as the new parent company holding 100% each of ofi Group, Olam Agri Group, and the Remaining Olam Group. 3 Shares of OGL were listed on the mainboard of the SGX-ST on March 16, 2022, with Olam International Limited (“OIL”) delisted at the same time.",
+              "id": "Pada tanggal 18 Februari 2022, pemegang saham menyetujui usulan restrukturisasi Grup melalui Skema Pengaturan, yang mulai berlaku pada tanggal 15 Maret 2022, dengan Olam Group Limited (“OGL”) sebagai perusahaan induk baru yang masing-masing memegang 100% ofi Group, Olam Agri Group, dan Sisa Olam Group. 3 Saham OGL dicatatkan di papan utama SGX-ST pada tanggal 16 Maret 2022, dengan Olam International Limited (“OIL”) dihapuskan pencatatannya pada saat yang bersamaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "This Master File is prepared to cover the business/ commercial arrangements (including intercompany financial activities, transfer pricing policies and intangibles, etc.) of the ofi Group only. 4",
+              "id": "Dokumen Induk ini disiapkan untuk mencakup pengaturan bisnis/komersial (termasuk aktivitas keuangan antar perusahaan, kebijakan harga transfer dan aktiva tidak berwujud, dll.) dari ofi Group saja. 4"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group is a leading integrated solutions and ingredient supplier in food and beverage, offering sustainable, natural and value-added food ingredients and solutions. As of end of FY 2024, ofi Group was operating in 50 countries and had a workforce of 18,000 employees. 5",
+              "id": "ofi Group adalah pemasok bahan dan solusi terintegrasi terkemuka di bidang makanan dan minuman, menawarkan bahan makanan dan solusi yang berkelanjutan, alami, dan bernilai tambah. Pada akhir TA 2024, ofi Group beroperasi di 50 negara dan memiliki tenaga kerja sebanyak 18.000 karyawan. 5"
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Tax Solutions Pte. Ltd. (“Deloitte Singapore”, “we” or “our”) was engaged by OIL to prepare the Master File for the ofi Group – a transfer pricing (“TP”) document which describes the operations and common transfer pricing policies of ofi Group.",
+              "id": "Deloitte Tax Solutions Pte. Ltd. (“Deloitte Singapore”, “kami”) ditunjuk oleh OIL untuk menyiapkan Dokumen Induk untuk ofi Group – sebuah dokumen Penentuan Harga Transfer (“TP”) yang menjelaskan operasi dan kebijakan harga transfer umum ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "This report (hereinafter referred to as “Report” or “ofi Group Master File”) was prepared in accordance with the Organisation for Economic Co-operation and Development (“OECD”) Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations (“OECD TP Guidelines”), published by the Organization for Economic Co-operation and Development in July 1995, and subsequently amended on January 20, 2022. The documentation approach applied hereunder is in line with the recommendations of the OECD’s Base Erosion Profit Shifting (“BEPS”) Action 13, 2015 Final Report on Transfer Pricing Documentation and Country-by-Country Reporting.",
+              "id": "Laporan ini (selanjutnya disebut sebagai “Laporan” atau “Dokumen Induk ofi Group”) disusun berdasarkan Organisasi untuk Kerja Sama Ekonomi dan Pembangunan (“OECD”) Pedoman Harga Transfer untuk Perusahaan Multinasional dan Administrasi Pajak (“Pedoman TP OECD”), yang diterbitkan oleh Organisasi untuk Kerja Sama Ekonomi dan Pembangunan pada bulan Juli 1995, dan kemudian diubah pada tanggal 20 Januari 2022. Pendekatan dokumentasi yang diterapkan di bawah ini sejalan dengan rekomendasi Laporan Akhir Pengikisan Basis Pengalihan Laba (“BEPS”) Aksi 13 OECD tahun 2015 tentang Dokumentasi Harga Transfer dan Pelaporan per Negara."
+            },
+            {
+              "type": "paragraph",
+              "en": "1.2. Purpose and scope",
+              "id": "1.2. Tujuan dan ruang lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": "This Master File provides an overview of ofi Group’s business, including the nature of its global business operations, its overall transfer pricing policies, and its global allocation of income and economic activity. It intends to provide a high-level summary in order to place ofi Group's transfer pricing practices in its global economic, legal, financial and tax context.",
+              "id": "Dokumen Induk ini memberikan gambaran umum mengenai bisnis ofi Group, termasuk sifat operasi bisnis globalnya, kebijakan penetapan harga transfer secara keseluruhan, dan alokasi pendapatan dan aktivitas ekonomi global. Dokumen ini bermaksud untuk memberikan ringkasan tingkat tinggi untuk menempatkan praktik penetapan harga transfer ofi Group dalam konteks ekonomi, hukum, keuangan, dan pajak global."
+            },
+            {
+              "type": "paragraph",
+              "en": "The Master File sits alongside the individual transfer pricing Local Files for various ofi Group’s entities and assists ofi Group in demonstrating that it has complied with the arm's length principle as provided by the OECD Guidelines.",
+              "id": "Dokumen Induk selaras dengan Dokumen Lokal harga transfer individu untuk berbagai entitas ofi Group dan membantu ofi Group dalam menunjukkan bahwa Grup telah mematuhi prinsip kewajaran dan kelaziman usaha sebagaimana diatur dalam Pedoman OECD."
+            },
+            {
+              "type": "paragraph",
+              "en": "This Master File provides an overview of ofi Group’s global business for FY 2024. Accordingly, information regarding each operating territory will be found in the corresponding Local files.",
+              "id": "Dokumen Induk ini memberikan ikhtisar bisnis global ofi Group untuk TA 2024. Oleh karena itu, informasi mengenai setiap wilayah operasi dapat ditemukan di Dokumen Lokal terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "1.3. Master File content requirements",
+              "id": "1.3. Persyaratan konten Dokumen Induk"
+            },
+            {
+              "type": "paragraph",
+              "en": "The below table presents a summary of the Master File requirements laid down in Annex I of Chapter V of the OECD TP Guidelines and indicates where in this document each of these requirements is fulfilled.",
+              "id": "Tabel di bawah ini menyajikan ringkasan persyaratan Dokumen Induk yang tercantum dalam Lampiran I Bab V Pedoman TP OECD dan menunjukkan di bagian mana dalam dokumen ini masing-masing persyaratan tersebut dipenuhi."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Requirement",
+                  "id": "Persyaratan"
+                },
+                {
+                  "en": "Section Reference",
+                  "id": "Referensi Bagian"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Organisational structure\n• Chart illustrating the MNE’s legal and ownership structure and geographical location of operating entities.",
+                    "id": "Struktur organisasi\n• Bagan yang menggambarkan struktur hukum dan kepemilikan MNE serta lokasi geografis entitas operasi."
+                  },
+                  {
+                    "en": "Section 2",
+                    "id": "Bagian 2"
+                  }
+                ],
+                [
+                  {
+                    "en": "Description of MNE’s business(es) – General written description of the MNE’s business including:\n• Important drivers of business profit.",
+                    "id": "Deskripsi bisnis MNE – Uraian tertulis umum mengenai bisnis MNE meliputi:\n• Penggerak penting keuntungan bisnis."
+                  },
+                  {
+                    "en": "Section 3.3",
+                    "id": "Bagian 3.3"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A description of the supply chain for the group’s five largest products and/ or service offerings by turnover plus any other products and/or services amounting to more than 5 percent of group turnover. The required description could take the form of a chart or a diagram.",
+                    "id": "• Deskripsi rantai pasokan untuk lima produk dan/atau layanan terbesar yang ditawarkan grup berdasarkan omset ditambah produk dan/atau layanan lainnya yang berjumlah lebih dari 5 persen omset grup. Uraian yang diperlukan dapat berbentuk bagan atau diagram."
+                  },
+                  {
+                    "en": "Sections 3.1, 3.2",
+                    "id": "Bagian 3.1, 3.2"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A description of the main geographic markets for the group’s products and services that are referred to in the point above.",
+                    "id": "• Uraian mengenai pasar geografis utama untuk produk dan layanan grup yang dimaksud pada poin di atas."
+                  },
+                  {
+                    "en": "Section 3.2",
+                    "id": "Bagian 3.2"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A brief written functional analysis describing the principal contributions to value creation by individual entities within the group, i.e. key functions performed, important risks assumed, and important assets used.",
+                    "id": "• Analisis fungsional tertulis singkat yang menggambarkan kontribusi utama terhadap penciptaan nilai oleh masing-masing entitas dalam grup, yaitu fungsi-fungsi utama yang dijalankan, risiko-risiko penting yang diambil, dan aset-aset penting yang digunakan."
+                  },
+                  {
+                    "en": "Section 3.4",
+                    "id": "Bagian 3.4"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A description of important business restructuring transactions, acquisitions and divestitures occurring during the fiscal year.",
+                    "id": "• Deskripsi transaksi restrukturisasi bisnis penting, akuisisi dan divestasi yang terjadi selama tahun fiskal."
+                  },
+                  {
+                    "en": "Section 3.5",
+                    "id": "Bagian 3.5"
+                  }
+                ],
+                [
+                  {
+                    "en": "MNE’s intangibles\n• A general description of the MNE’s overall strategy for the development, ownership and exploitation of intangibles, including location of principal R&D facilities and location of R&D management.",
+                    "id": "Aktiva tidak berwujud MNE\n• Gambaran umum mengenai keseluruhan strategi MNE untuk pengembangan, kepemilikan dan eksploitasi aset tidak berwujud, termasuk lokasi fasilitas penelitian dan pengembangan utama dan lokasi manajemen penelitian dan pengembangan."
+                  },
+                  {
+                    "en": "Section 4",
+                    "id": "Bagian 4"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A list of intangibles or groups of intangibles of the MNE group that are important for transfer pricing purposes and which entities legally own them.\n• A list of important agreements among identified associated enterprises related to intangibles, including cost contribution arrangements, principal research service agreements and license agreements.\n• A general description of the group’s transfer pricing policies related to R&D and intangibles.\n• A general description of any important transfers of interests in intangibles among associated enterprises during the fiscal year concerned, including the entities, countries, and compensation involved.",
+                    "id": "• Daftar aktiva tidak berwujud atau kelompok aktiva tidak berwujud grup MNE yang penting untuk tujuan transfer pricing dan entitas mana yang memilikinya secara sah.\n• Daftar perjanjian penting di antara perusahaan asosiasi yang teridentifikasi terkait dengan aset tidak berwujud, termasuk pengaturan kontribusi biaya, perjanjian layanan penelitian utama, dan perjanjian lisensi.\n• Gambaran umum tentang kebijakan penetapan harga transfer grup terkait dengan penelitian dan pengembangan dan aktiva tidak berwujud.\n• Gambaran umum mengenai setiap pengalihan kepentingan tidak berwujud yang penting di antara perusahaan asosiasi selama tahun fiskal yang bersangkutan, termasuk entitas, negara, dan kompensasi yang terlibat."
+                  },
+                  {
+                    "en": "",
+                    "id": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "MNE’s intercompany financial activities\n• A general description of how the group is financed, including important financing arrangements with unrelated lenders.",
+                    "id": "Aktivitas keuangan antar perusahaan MNE\n• Gambaran umum tentang bagaimana kelompok ini dibiayai, termasuk pengaturan pembiayaan penting dengan pemberi pinjaman yang tidak terkait."
+                  },
+                  {
+                    "en": "Section 5",
+                    "id": "Bagian 5"
+                  }
+                ],
+                [
+                  {
+                    "en": "• The identification of any members of the MNE group that provide a central financing function for the group, including the country under whose laws the entity is organised and the place of effective management of such entities.\n• A general description of the MNE’s general transfer pricing policies related to financing arrangements between associated enterprises.",
+                    "id": "• Identifikasi setiap anggota grup MNE yang menyediakan fungsi pendanaan sentral bagi grup tersebut, termasuk negara yang berdasarkan undang-undangnya entitas tersebut didirikan dan tempat pengelolaan efektif entitas tersebut.\n• Gambaran umum kebijakan umum penetapan harga transfer MNE terkait dengan pengaturan pembiayaan antar perusahaan asosiasi."
+                  },
+                  {
+                    "en": "",
+                    "id": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "MNE’s Important service agreements\n• A list and brief description of important service arrangements between members of the MNE group, other than research and development (R&D) services, including a description of the capabilities of the principal locations providing important services and transfer pricing policies for allocating services costs and determining prices to be paid for intra-group services.",
+                    "id": "Perjanjian layanan penting MNE\n• Daftar dan deskripsi singkat mengenai pengaturan layanan penting antar anggota grup MNE, selain layanan penelitian dan pengembangan (R&D), termasuk deskripsi kemampuan lokasi utama yang menyediakan layanan penting dan kebijakan harga transfer untuk mengalokasikan biaya layanan dan menentukan harga yang harus dibayar untuk layanan intra-grup."
+                  },
+                  {
+                    "en": "Section 6",
+                    "id": "Bagian 6"
+                  }
+                ],
+                [
+                  {
+                    "en": "MNE’s financial and tax positions\n• The MNE’s annual consolidated financial statement for the fiscal year concerned if otherwise prepared for financial reporting, regulatory, internal management, tax or other purposes.",
+                    "id": "posisi keuangan dan pajak MNE\n• Laporan keuangan konsolidasi tahunan MNE untuk tahun fiskal yang bersangkutan jika disusun lain untuk pelaporan keuangan, peraturan, manajemen internal, perpajakan atau tujuan lainnya."
+                  },
+                  {
+                    "en": "Section 7.1",
+                    "id": "Bagian 7.1"
+                  }
+                ],
+                [
+                  {
+                    "en": "• A list and brief description of the MNE group’s existing unilateral advance pricing agreements (APAs) and other tax rulings relating to the allocation of income among countries.",
+                    "id": "• Daftar dan deskripsi singkat mengenai perjanjian penetapan harga dimuka (APA) sepihak yang dimiliki grup MNE dan peraturan pajak lainnya yang berkaitan dengan alokasi pendapatan antar negara."
+                  },
+                  {
+                    "en": "Section 7.2",
+                    "id": "Bagian 7.2"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "2. Organisational structure - Struktur Organisasi",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "2.1. Background",
+              "id": "2.1. Latar belakang"
+            },
+            {
+              "type": "paragraph",
+              "en": "In January 2020, Olam Group announced a transformational re-organisation plan to split the Group into three distinct and coherent operating groups that are Purpose-led and future ready, in order to maximise Olam Group’s long-term value on a sustained basis. In January 2022, the Olam Group substantially completed the carve-out and separation of its business into three operating groups - Olam Agri Group, ofi Group, and the Remaining Olam Group. 6",
+              "id": "Pada bulan Januari 2020, Olam Group mengumumkan rencana reorganisasi transformasional untuk membagi Grup menjadi tiga grup operasi yang berbeda dan koheren yang dipimpin oleh Tujuan dan siap menghadapi masa depan, guna memaksimalkan nilai jangka panjang Olam Group secara berkelanjutan. Pada bulan Januari 2022, Olam Group secara substansial telah menyelesaikan pemisahan bisnisnya menjadi tiga grup operasi - Olam Agri Group, ofi Group, dan Sisa Olam Group. 6"
+            },
+            {
+              "type": "paragraph",
+              "en": "On February 18, 2022, shareholders approved the proposed restructuring of the Group by way of a Scheme of Arrangement, which became effective on March 15, 2022, with OGL as the new parent company holding 100% each of ofi Group, Olam Agri Group, and the Remaining Olam Group. 7 Shares of OGL were listed on the mainboard of the SGX-ST on March 16, 2022, with OIL delisted at the same time.",
+              "id": "Pada tanggal 18 Februari 2022, pemegang saham menyetujui usulan restrukturisasi Grup melalui Skema Pengaturan, yang mulai berlaku pada tanggal 15 Maret 2022, dengan OGL sebagai perusahaan induk baru yang masing-masing memegang 100% ofi Group, Olam Agri Group, dan Sisa Olam Group. 7 Saham OGL dicatatkan di papan utama SGX-ST pada tanggal 16 Maret 2022, dengan OIL dihapuskan pencatatannya pada saat yang bersamaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "The group chart of Olam Group is provided below.",
+              "id": "Bagan grup Olam Group disediakan di bawah ini."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-2.png",
+              "alt": "Olam Group chart",
+              "caption": {
+                "en": "Exhibit 2: Olam Group chart",
+                "id": "Exhibit 2: Bagan Olam Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "The sections below provide an overview of the organisational structure of ofi Group.",
+              "id": "Bagian di bawah memberikan ikhtisar struktur organisasi ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "2.2. Legal and ownership structure",
+              "id": "2.2. Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "A table setting out the ofi Group’s legal and ownership structure as of 31 December 2024, is included in Appendix A.",
+              "id": "Tabel yang berisi daftar struktur hukum dan kepemilikan ofi Group per 31 Desember 2024, disertakan dalam Lampiran A."
+            },
+            {
+              "type": "paragraph",
+              "en": "2.3. Geographic locations",
+              "id": "2.3. Lokasi geografis"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group continues to be invested in origins, while building capacity in destination markets. The Group is renowned for leveraging its global supply chain network and local knowledge to offer a secure supply of traceable and sustainable ingredients. 8",
+              "id": "ofi Group terus berinvestasi di negara asal, sambil membangun kapasitas di pasar tujuan. Grup ini terkenal karena memanfaatkan jaringan rantai pasokan global dan pengetahuan lokalnya untuk menawarkan pasokan bahan-bahan yang dapat dilacak dan berkelanjutan secara aman. 8"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Origination – Farmers & Origination: For quality and traceability\nQuality, traceability, and reliability of supply are driven from the farms. ofi Group is both a buyer of crops, as well as an owner of its own farms. It sources directly or indirectly from approximately 2.4m farmers across the globe. Worldwide, ofi Group runs sustainability programs designed to help farmers to improve yield & quality, thereby increasing their incomes. Overall, the ofi Group provides sustainability support to more than 532,000 farmers and their communities. 9",
+              "id": "• Originasi – Petani & Originasi: Untuk kualitas dan ketertelusuran\nKualitas, ketertelusuran, dan keandalan pasokan didorong dari peternakan. ofi Group adalah pembeli hasil panen dan juga pemilik lahan pertaniannya sendiri. Sumbernya secara langsung atau tidak langsung berasal dari sekitar 2,4 juta petani di seluruh dunia. Di seluruh dunia, ofi Group menjalankan program keberlanjutan yang dirancang untuk membantu petani meningkatkan hasil & kualitas, sehingga meningkatkan pendapatan mereka. Secara keseluruhan, ofi Group memberikan dukungan keberlanjutan kepada lebih dari 532.000 petani dan komunitas mereka. 9"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Manufacturing – Processing & Manufacturing: Transforming raw materials into ingredients\nWith manufacturing and processing facilities around the world, ofi Group offers choice, control and flexibility to its customers. ofi Group owns over 120 manufacturing and processing facilities around the world. ofi Group ensures that it invests in the latest technology and always maintains the highest food safety and quality standards. To improve efficiency and transparency, ofi Group’s facilities are strategically located in the country of origin or close to major consumption markets.",
+              "id": "• Manufaktur – Pemrosesan & Manufaktur: Mengubah bahan mentah menjadi bahan\nDengan fasilitas manufaktur dan pemrosesan di seluruh dunia, ofi Group menawarkan pilihan, kendali, dan fleksibilitas kepada pelanggannya. ofi Group memiliki lebih dari 120 fasilitas manufaktur dan pemrosesan di seluruh dunia. ofi Group memastikan bahwa mereka berinvestasi pada teknologi terkini dan selalu menjaga standar keamanan dan kualitas pangan tertinggi. Untuk meningkatkan efisiensi dan transparansi, fasilitas ofi Group berlokasi strategis di negara asal atau dekat dengan pasar konsumsi utama."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Innovation Centers – Global Innovation Centers: Co-create to grow customers’ businesses\nofi Group has 19 Innovation Centers near major consumption markets which focus on continuous innovation and customisation, enabling customers to continually meet the market demand and to grow their businesses. The Innovation Centers focus on:\n• Co-creating brand extensions and reformulating existing customer products;\n• Developing new products for various categories;\n• Creating consumer feel-good products in line with health and dietary needs;\n• Developing the right sensory experience in line with customer brands;\n• Developing clean label recipes, replacing additives and chemicals with natural ingredients; and\n• Developing natural and plant-based alternatives to fit into existing customer brand families.",
+              "id": "• Pusat Inovasi – Pusat Inovasi Global: Berkreasi bersama untuk mengembangkan bisnis pelanggan\nofi Group memiliki 19 Pusat Inovasi di dekat pasar konsumsi utama yang berfokus pada inovasi dan penyesuaian berkelanjutan, memungkinkan pelanggan untuk terus memenuhi permintaan pasar dan mengembangkan bisnis mereka. Pusat Inovasi fokus pada:\n• Menciptakan perluasan merek bersama dan memformulasi ulang produk pelanggan yang sudah ada;\n• Mengembangkan produk baru untuk berbagai kategori;\n• Menciptakan produk yang menyenangkan konsumen sesuai dengan kebutuhan kesehatan dan pola makan;\n• Mengembangkan pengalaman sensorik yang tepat sejalan dengan merek pelanggan;\n• Mengembangkan resep label yang bersih, mengganti bahan tambahan dan bahan kimia dengan bahan alami; Dan\n• Mengembangkan alternatif alami dan nabati agar sesuai dengan kelompok merek pelanggan yang ada."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Marketing & Sales\nofi Group’s customer teams provide detailed knowledge of ofi Group’s products and an understanding of how these products can fit into customers’ applications, and act as the bridge connecting customers to the origins of their ingredients. The ofi Group’s sales teams are involved in discussions with customers on ingredient quality, innovation and recipe development.",
+              "id": "• Pemasaran & Penjualan\ntim pelanggan ofi Group memberikan pengetahuan terperinci tentang produk-produk ofi Group dan pemahaman tentang bagaimana produk-produk ini dapat disesuaikan dengan aplikasi pelanggan, dan bertindak sebagai jembatan yang menghubungkan pelanggan dengan asal-usul bahan-bahan mereka. Tim penjualan ofi Group terlibat dalam diskusi dengan pelanggan mengenai kualitas bahan, inovasi, dan pengembangan resep."
+            },
+            {
+              "type": "paragraph",
+              "en": "The figure below depicts the ofi Group’s sourcing and processing locations globally.",
+              "id": "Gambar di bawah menggambarkan lokasi pengadaan dan pemrosesan ofi Group secara global."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-3.png",
+              "alt": "Sourcing and Processing geographic locations",
+              "caption": {
+                "en": "Exhibit 3: Sourcing and Processing geographic locations10",
+                "id": "Exhibit 3: Lokasi geografis Pengadaan dan Pemrosesan10"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "A list of key ofi Group entities, showing their principal activities and geographic locations, is included in Appendix B.",
+              "id": "Daftar entitas utama ofi Group, yang menunjukkan kegiatan utama dan lokasi geografisnya, disertakan dalam Lampiran B."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "3. ofi Group’s business operations - Operasi bisnis ofi Group",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "3.1. Overview of ofi Group’s business",
+              "id": "3.1. Sekilas tentang bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group is a vertically integrated solutions and ingredient supplier in food and beverage, offering sustainable, natural, value-added food ingredients and solutions. The ofi Group offers its customers end-to-end solutions within and across five complementary product platforms (Cocoa, Coffee, Dairy, Nuts, and Spices), that leverage deep sourcing foundations. Its presence across the supply chain enables ofi to innovate and add value at each stage.",
+              "id": "ofi Group adalah pemasok bahan dan solusi terintegrasi vertikal di bidang makanan dan minuman, menawarkan bahan makanan dan solusi yang berkelanjutan, alami, dan bernilai tambah. Grup ofi menawarkan kepada pelanggannya solusi menyeluruh di dalam dan di seluruh lima platform produk yang saling melengkapi (Kakao, Kopi, Susu, Kacang-kacangan, dan Rempah-rempah), yang memanfaatkan fondasi pengadaan yang mendalam. Kehadirannya di seluruh rantai pasokan memungkinkan ofi untuk berinovasi dan memberikan nilai tambah pada setiap tahap."
+            },
+            {
+              "type": "paragraph",
+              "en": "The key features of its business strategy include:",
+              "id": "Fitur utama dari strategi bisnisnya meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Leading on-trend portfolio, serving large, attractive and growing end-use categories;\n• Delivering global, innovative and integrated solutions;\n• Differentiated customer propositions, offering end-to-end traceability and sustainability impact;\n• Trusted Partner to a global and diversified customer base;\n• Experienced, global, and inspired talent pool; and\n• Proven and repeatable growth model.",
+              "id": "• Portofolio terdepan yang sedang tren, melayani kategori pengguna akhir yang besar, menarik, dan terus berkembang;\n• Memberikan solusi global, inovatif dan terintegrasi;\n• Proposisi pelanggan yang berbeda, menawarkan ketertelusuran menyeluruh dan dampak keberlanjutan;\n• Mitra Tepercaya untuk basis pelanggan global dan terdiversifikasi;\n• Kumpulan talenta yang berpengalaman, global, dan terinspirasi; Dan\n• Model pertumbuhan yang terbukti dan dapat diulang."
+            },
+            {
+              "type": "paragraph",
+              "en": "The diagram below provides an overview of the business segments and key elements of ofi Group’s supply chain.",
+              "id": "Diagram di bawah memberikan ikhtisar segmen bisnis dan elemen utama rantai pasokan ofi Group."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-4.png",
+              "alt": "ofi Group business segments and supply chain",
+              "caption": {
+                "en": "Exhibit 4: ofi Group business segments and supply chain",
+                "id": "Exhibit 4: segmen bisnis dan rantai pasokan ofi Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "3.2. Products / Business segments / Markets",
+              "id": "3.2. Produk / Segmen Usaha / Pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group’s product platforms include cocoa, coffee, dairy, nuts, and spices which span across two reporting segments – Global Sourcing, and Ingredients & Solutions. The Group partners with customers to co-create solutions that anticipate and meet changing consumer preferences as demand increases for healthier food that is both traceable and sustainable.",
+              "id": "Platform produk ofi Group mencakup kakao, kopi, susu, kacang-kacangan, dan rempah-rempah yang tersebar di dua segmen pelaporan – Pengadaan Global, dan Bahan & Solusi. Grup bermitra dengan pelanggan untuk bersama-sama menciptakan solusi yang mengantisipasi dan memenuhi perubahan preferensi konsumen seiring dengan meningkatnya permintaan akan makanan sehat yang dapat ditelusuri dan berkelanjutan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Cocoa: ofi Group supplies cocoa ingredients to customers all over the world, working with partners across the supply chain to create indulgent treats for consumers. The product categories under cocoa include beans, butter, liquor, powder, and specialty fats.",
+              "id": "• Kakao: ofi Group memasok bahan-bahan kakao kepada pelanggan di seluruh dunia, bekerja sama dengan mitra di seluruh rantai pasokan untuk menciptakan suguhan yang memanjakan bagi konsumen. Kategori produk kakao meliputi biji, mentega, minuman keras, bubuk, dan lemak khusus."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Coffee: ofi Group is one of the leading green coffee origin exporters in the world, with year-round presence in origin. The Group provides sustainable and traceable coffee that supports both producers and coffee consumers. The product categories include green coffee, soluble coffee, and soluble cascara powder.",
+              "id": "• Kopi: ofi Group adalah salah satu eksportir asal kopi hijau terkemuka di dunia, yang hadir sepanjang tahun di negara asal. Grup ini menyediakan kopi berkelanjutan dan dapat dilacak yang mendukung produsen dan konsumen kopi. Kategori produknya meliputi kopi hijau, kopi larut, dan bubuk cascara larut."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Dairy: ofi Group offers an extensive range of dairy ingredients from milk powders and derivatives in a variety of compositions to origins and packaging sizes. It partners with players positioned at each stage of the dairy supply chain, from milk production to processing, and provides quality dairy products.",
+              "id": "• Produk susu: ofi Group menawarkan beragam bahan susu mulai dari susu bubuk dan turunannya dalam berbagai komposisi hingga asal dan ukuran kemasan. Perusahaan ini bermitra dengan pemain yang berada di setiap tahap rantai pasokan susu, mulai dari produksi susu hingga pemrosesan, dan menyediakan produk susu berkualitas."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Nuts: ofi Group offers most popular nuts in a wide variety of formats. The product categories include almonds, peanuts, cashews, walnut, hazelnuts, pistachios, macadamias, and customised formats.",
+              "id": "• Kacang-kacangan: ofi Group menawarkan kacang paling populer dalam berbagai format. Kategori produk meliputi almond, kacang tanah, kacang mete, kenari, hazelnut, pistachio, macadamia, dan format yang disesuaikan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Spices: ofi Group delivers highest-quality spice ingredients in bulk, directly from the source. The team at ofi Group (trusted spice experts) helps customers find the right product, specification and certification to meet their needs. The product categories include onion, garlic, chiles, herbs, tropical spices, pepper, purees, spice blends, tomatillos, sauces, and organic products.",
+              "id": "• Rempah-rempah: ofi Group mengirimkan bahan rempah berkualitas tinggi dalam jumlah besar, langsung dari sumbernya. Tim di ofi Group (ahli rempah terpercaya) membantu pelanggan menemukan produk, spesifikasi, dan sertifikasi yang tepat untuk memenuhi kebutuhan mereka. Kategori produknya meliputi bawang merah, bawang putih, cabai, herba, rempah-rempah tropis, lada, bubur, campuran rempah, tomatillo, saus, dan produk organik."
+            },
+            {
+              "type": "paragraph",
+              "en": "The top five products by turnover for the ofi Group in FY 2024 are provided in the table below.",
+              "id": "Lima produk teratas berdasarkan omset Grup ofi pada TA 2024 disajikan dalam tabel di bawah ini."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Product",
+                  "id": "Produk"
+                },
+                {
+                  "en": "FY 2024 Turnover (USD million)",
+                  "id": "Omzet TA 2024 (USD juta)"
+                },
+                {
+                  "en": "Percentage of total ofi Group revenue",
+                  "id": "Persentase terhadap total pendapatan Grup ofi"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Cocoa",
+                    "id": "Kakao"
+                  },
+                  {
+                    "en": "6,849",
+                    "id": "6.849"
+                  },
+                  {
+                    "en": "42%",
+                    "id": "42%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Coffee",
+                    "id": "Kopi"
+                  },
+                  {
+                    "en": "4,738",
+                    "id": "4.738"
+                  },
+                  {
+                    "en": "29%",
+                    "id": "29%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Dairy",
+                    "id": "Produk susu"
+                  },
+                  {
+                    "en": "904",
+                    "id": "904"
+                  },
+                  {
+                    "en": "6%",
+                    "id": "6%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Nuts",
+                    "id": "Kacang-kacangan"
+                  },
+                  {
+                    "en": "2,573",
+                    "id": "2.573"
+                  },
+                  {
+                    "en": "16%",
+                    "id": "16%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Spices",
+                    "id": "Rempah-rempah"
+                  },
+                  {
+                    "en": "1,290",
+                    "id": "1.290"
+                  },
+                  {
+                    "en": "8%",
+                    "id": "8%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Total",
+                    "id": "Total"
+                  },
+                  {
+                    "en": "16,353",
+                    "id": "16.353"
+                  },
+                  {
+                    "en": "100%",
+                    "id": "100%"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "The performance of the ofi Group across its Global Sourcing and Ingredients & Solutions reporting segments is described below.",
+              "id": "Kinerja ofi Group di seluruh segmen pelaporan Pengadaan Global dan Bahan & Solusi dijelaskan di bawah ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Global Sourcing: In FY 2024, the Global Sourcing segment reported a volume growth of 0.3% year-on-year to 2.7 million metric tonne (“MT”), which reflects increases in coffee and dairy, offset by reduced cocoa volumes. Revenue grew by 43.5% to S$14.1 billion, driven by the pass-through of raw material price increases, particularly in cocoa and coffee.",
+              "id": "• Sumber Global: Pada TA 2024, segmen Pengadaan Global melaporkan pertumbuhan volume sebesar 0,3% dari tahun ke tahun menjadi 2,7 juta metrik ton (“MT”), yang mencerminkan peningkatan kopi dan produk susu, diimbangi oleh penurunan volume kakao. Pendapatan tumbuh sebesar 43,5% menjadi S$14,1 miliar, didorong oleh pengalihan kenaikan harga bahan mentah, khususnya pada kakao dan kopi."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Ingredients & Solutions: In FY 2024, the Ingredients & Solutions segment delivered a volume growth of 4.1% year-on-year to 1.3 million MT, driven by dairy, nuts, and spices. Cocoa and coffee volumes remained broadly stable, benefitting from ofi’s integrated supply chain and the strength of its Global Sourcing platform. Segment revenue increased by 51.8% to S$12.6 billion, driven by strong price growth, particularly in cocoa and coffee from the pass-through of higher input raw material prices.",
+              "id": "• Bahan & Solusi: Pada TA 2024, segmen Bahan & Solusi menghasilkan pertumbuhan volume sebesar 4,1% dari tahun ke tahun menjadi 1,3 juta MT, didorong oleh susu, kacang-kacangan, dan rempah-rempah. Volume kakao dan kopi secara umum tetap stabil, diuntungkan oleh rantai pasokan terintegrasi ofi dan kekuatan platform Pengadaan Globalnya. Pendapatan segmen meningkat sebesar 51,8% menjadi S$12,6 miliar, didorong oleh pertumbuhan harga yang kuat, khususnya pada kakao dan kopi akibat peralihan harga bahan baku input yang lebih tinggi."
+            },
+            {
+              "type": "paragraph",
+              "en": "The table below provides information about the geographic segments of ofi Group during FY 2024.",
+              "id": "Tabel di bawah ini memberikan informasi tentang segmen geografis ofi Group selama TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Geographical segment",
+                  "id": "Segmen geografis"
+                },
+                {
+                  "en": "FY 2024 (USD million)",
+                  "id": "TA 2024 (USD juta)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Asia, Middle East and Australia",
+                    "id": "Asia, Timur Tengah dan Australia"
+                  },
+                  {
+                    "en": "3,519",
+                    "id": "3.519"
+                  }
+                ],
+                [
+                  {
+                    "en": "Africa",
+                    "id": "Afrika"
+                  },
+                  {
+                    "en": "928",
+                    "id": "928"
+                  }
+                ],
+                [
+                  {
+                    "en": "Europe",
+                    "id": "Eropa"
+                  },
+                  {
+                    "en": "7,022",
+                    "id": "7.022"
+                  }
+                ],
+                [
+                  {
+                    "en": "America",
+                    "id": "Amerika"
+                  },
+                  {
+                    "en": "4,890",
+                    "id": "4.890"
+                  }
+                ],
+                [
+                  {
+                    "en": "Total",
+                    "id": "Total"
+                  },
+                  {
+                    "en": "16,359",
+                    "id": "16.359"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3. Important drivers of business profit",
+              "id": "3.3. Penggerak penting keuntungan bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.1. Growth strategy",
+              "id": "3.3.1. Strategi pertumbuhan"
+            },
+            {
+              "type": "paragraph",
+              "en": "The growth strategy of ofi includes both organic and inorganic strategic focuses:",
+              "id": "Strategi pertumbuhan ofi mencakup fokus strategis organik dan anorganik:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Organic: Growth and extending the core\n  o Extracting full value from current investments\n  o Increasing share of value with targeted strategic customers\n  o Focus on cost competitiveness\n  o Expand innovation and sustainability solutions",
+              "id": "• Organik: Pertumbuhan dan perluasan inti\n  o Mengekstraksi nilai penuh dari investasi saat ini\n  o Meningkatkan pangsa nilai dengan pelanggan strategis yang ditargetkan\n  o Fokus pada daya saing biaya\n  o Memperluas inovasi dan solusi keberlanjutan"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Inorganic: Disciplined buying\nAccelerated Merger & Acquisition (“M&A”) opportunities in higher value products, categories, and channels, including:\n  o Channel Expansion – e.g., private label, food service and e-commerce channels.\n  o Product Extension – e.g., nut ingredients and spice blend products.\n  o Category Solutions – e.g., beverages, bakery & confectionary, snacks and culinary categories.",
+              "id": "• Anorganik: Pembelian yang disiplin\nPeluang Merger & Akuisisi (“M&A”) yang dipercepat pada produk, kategori, dan saluran bernilai lebih tinggi, termasuk:\n  o Perluasan Saluran – misalnya, saluran private label, layanan makanan, dan e-commerce.\n  o Perluasan Produk – misalnya, bahan kacang-kacangan dan produk campuran rempah-rempah.\n  o Kategori Solusi – misalnya, kategori minuman, roti & penganan, makanan ringan dan kuliner."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.2. Sales strategy",
+              "id": "3.3.2. Strategi penjualan"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi aims to be a trusted partner to a global and diversified customer base. The sales strategy of ofi focuses on prioritization and segmentation of its customers into (i) global priority accounts, (ii) regional priority accounts, and (iii) product platform priority accounts; with differentiated approaches through (i) selling more, (ii) up-selling, and (iii) cross-selling; and a combination of forces across ofi’s Sales teams & channels, Innovation, as well as Marketing.",
+              "id": "ofi bertujuan untuk menjadi mitra tepercaya bagi basis pelanggan global dan terdiversifikasi. Strategi penjualan ofi berfokus pada prioritas dan segmentasi pelanggannya menjadi (i) akun prioritas global, (ii) akun prioritas regional, dan (iii) akun prioritas platform produk; dengan pendekatan yang berbeda melalui (i) penjualan lebih banyak, (ii) penjualan lebih mahal (up-selling), dan (iii) penjualan silang (cross-selling); dan kombinasi kekuatan di seluruh tim Penjualan & saluran, Inovasi, serta Pemasaran ofi."
+            },
+            {
+              "type": "paragraph",
+              "en": "The figure below provides further details on ofi’s sales strategy.",
+              "id": "Gambar di bawah memberikan rincian lebih lanjut mengenai strategi penjualan ofi."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-7.png",
+              "alt": "ofi's sales strategy",
+              "caption": {
+                "en": "Exhibit 7: ofi's sales strategy",
+                "id": "Exhibit 7: strategi penjualan ofi"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "In order to achieve ofi’s sales strategy, ofi is focused on building on its know-how across the farmgate, origination, and sourcing portion of the value chain, while seeking to deepen its relationships with its customers in order to gain market insights; and building up its innovation capabilities to ensure that it is able to provide creative, innovative solutions to meet the evolving needs of its customers and the markets in which ofi operates in.",
+              "id": "Dalam rangka mencapai strategi penjualan ofi, ofi berfokus pada pengembangan pengetahuannya di seluruh bagian farmgate, originasi, dan pengadaan dari rantai nilai, sambil berupaya memperdalam hubungannya dengan para pelanggannya untuk mendapatkan wawasan pasar; dan membangun kemampuan inovasinya untuk memastikan bahwa ofi mampu memberikan solusi yang kreatif dan inovatif untuk memenuhi kebutuhan pelanggannya yang terus berkembang dan pasar di mana ofi beroperasi."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.3. Critical success factors",
+              "id": "3.3.3. Faktor penentu keberhasilan"
+            },
+            {
+              "type": "paragraph",
+              "en": "The critical success factors essential for the ofi Group’s business include:",
+              "id": "Faktor penentu keberhasilan yang penting bagi bisnis Grup ofi meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Reliable and traceable supply: The success of ofi depends on its ability to provide a dependable supply of an acceptable quality and purity which deliver improved levels of value for the customer. Moreover, geographical diversity in supplier base can be key to ensuring the consistency of supply in the form of anticipating and compensating for unexpected weather conditions that may be detrimental to the quality of a crop. By focusing on these factors, ofi may generate consistent or higher profits, driven by the supply and demand good quality products. The ofi Group has a variety of suppliers globally (including local farmers and own plantations) which helps insulate the ofi Group from external supply shocks and reduces the ofi Group’s exposure to volatility in agricultural commodity prices. It also enables ofi Group to offer certainty of supply and provide the requisite food safety and quality assurance to its customers through adaptive solutions.",
+              "id": "• Pasokan yang andal dan dapat dilacak: Keberhasilan ofi bergantung pada kemampuannya untuk menyediakan pasokan yang dapat diandalkan dengan kualitas dan kemurnian yang dapat diterima yang memberikan tingkat nilai yang lebih baik bagi pelanggan. Selain itu, keragaman geografis dalam basis pemasok dapat menjadi kunci untuk memastikan konsistensi pasokan dalam bentuk mengantisipasi dan mengkompensasi kondisi cuaca tak terduga yang mungkin merugikan kualitas tanaman. Dengan berfokus pada faktor-faktor ini, ofi dapat menghasilkan keuntungan yang konsisten atau lebih tinggi, didorong oleh pasokan dan permintaan produk berkualitas baik. Grup ofi memiliki berbagai pemasok secara global (termasuk petani lokal dan perkebunan sendiri) yang membantu melindungi Grup ofi dari guncangan pasokan eksternal dan mengurangi paparan Grup ofi terhadap volatilitas harga komoditas pertanian. Hal ini juga memungkinkan ofi Group untuk menawarkan kepastian pasokan dan memberikan jaminan keamanan dan kualitas pangan yang diperlukan kepada pelanggannya melalui solusi adaptif."
+            },
+            {
+              "type": "paragraph",
+              "en": "Providing traceability for agricultural raw materials can be challenging given the complex and fragmented nature of many ingredient supply chains. ofi Group reduces the complexity in its supply chain and works directly with farmers, organising buying stations and local cooperatives. This provides ofi Group with the data needed to trace its supply back to the farmer groups it works with, and also provides opportunities to create positive impact by implementing sustainability programmes with customer, government, not for profit and development finance institution partners.",
+              "id": "Memberikan ketertelusuran bahan mentah pertanian dapat menjadi tantangan mengingat sifat rantai pasokan bahan yang kompleks dan terfragmentasi. ofi Group mengurangi kompleksitas dalam rantai pasokannya dan bekerja secara langsung dengan petani, mengatur tempat pembelian dan koperasi lokal. Hal ini memberikan ofi Group data yang diperlukan untuk menelusuri pasokannya kembali ke kelompok petani tempat mereka bekerja, dan juga memberikan peluang untuk menciptakan dampak positif dengan menerapkan program keberlanjutan dengan pelanggan, pemerintah, lembaga nirlaba dan mitra lembaga pembiayaan pembangunan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Risk management\nThe ofi Group has a dedicated risk management team which monitors and controls the variety of political and market risks, including prices of commodities, exchange rates and credit risk. The ofi Group’s risk management value proposition is supported by this team of risk experts who have deep understanding of agricultural commodities and financial instruments trading to help manage the price changes and volatility that can create a difficult operating environment for producers and supply chain participants.",
+              "id": "• Manajemen risiko\nGrup ofi memiliki tim manajemen risiko khusus yang memantau dan mengendalikan berbagai risiko politik dan pasar, termasuk harga komoditas, nilai tukar, dan risiko kredit. Proposisi nilai manajemen risiko ofi Group didukung oleh tim ahli risiko yang memiliki pemahaman mendalam tentang komoditas pertanian dan perdagangan instrumen keuangan untuk membantu mengelola perubahan harga dan volatilitas yang dapat menciptakan lingkungan operasi yang sulit bagi produsen dan peserta rantai pasokan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Integrated and robust supply chain: In optimising its profitability, ofi concentrates its efforts in managing and controlling the logistical supply chain required to physically move the commodities from the farmer to the customer and make informed decisions on the timing of the purchase and selling prices of the relevant commodities. Given the complexity in the supply chain, considerable planning has to be conducted to achieve optimality in (1) the number of distribution points; (2) transportation costs; and (3) customer service targets, while ensuring that its supply chain is sustainable and traceable. This means ofi Group needs to make strategic decisions about the organisation of the distribution network as well as raising the required funds for these activities.",
+              "id": "• Rantai pasokan yang terintegrasi dan kuat: Dalam mengoptimalkan profitabilitasnya, ofi memusatkan upayanya dalam mengelola dan mengendalikan rantai pasokan logistik yang diperlukan untuk memindahkan komoditas secara fisik dari petani ke pelanggan dan membuat keputusan yang tepat mengenai waktu pembelian dan harga jual komoditas yang relevan. Mengingat kompleksitas dalam rantai pasokan, perencanaan yang cukup besar harus dilakukan untuk mencapai optimalitas dalam (1) jumlah titik distribusi; (2) biaya transportasi; dan (3) target layanan pelanggan, sambil memastikan bahwa rantai pasokannya berkelanjutan dan dapat dilacak. Ini berarti ofi Group perlu membuat keputusan strategis tentang organisasi jaringan distribusi serta mengumpulkan dana yang diperlukan untuk aktivitas tersebut."
+            },
+            {
+              "type": "paragraph",
+              "en": "In addition to the management and control of the logistical supply chain, ofi’s supply chain capabilities from farmgate to destination are also critical in ensuring its success as an integrated solutions and ingredient supplier which delivers ingredients and solutions without contamination or adulteration. Such capabilities span areas including non-commodity procurement, manufacturing and operational excellence, inventory management, and quality and food safety.",
+              "id": "Selain pengelolaan dan pengendalian rantai pasokan logistik, kemampuan rantai pasokan ofi dari tingkat petani hingga tujuan juga penting dalam memastikan keberhasilannya sebagai solusi terintegrasi dan pemasok bahan yang memberikan bahan dan solusi tanpa kontaminasi atau pemalsuan. Kemampuan tersebut mencakup bidang-bidang termasuk pengadaan non-komoditas, keunggulan manufaktur dan operasional, manajemen persediaan, serta kualitas dan keamanan pangan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Market intelligence and innovation: As sales volumes of products are subject to demand factors, it is important to ensure that the demand for these products is robust. Significant effort is required to keep ahead of competitors in terms of knowledge of market trends and shifts in consumer patterns. This is not only important in meeting the demands of the customers and hence ensuring a strong demand for its products, but also important in penetrating new markets where the product did not previously have a presence. As markets have different preferences and needs, it is critical for companies to have an in-depth understanding of current trends and to capture new trends more efficiently than its competitors. The ofi Group has in-depth understanding of the markets in which it deals in, and focuses on tracking current health trends and consumer behaviours, which ensure that ofi Group is able to provide creative, innovative solutions to meet the evolving needs of its customers.",
+              "id": "• Intelijen pasar dan inovasi: Karena volume penjualan produk tunduk pada faktor permintaan, penting untuk memastikan bahwa permintaan akan produk-produk ini kuat. Upaya yang signifikan diperlukan untuk tetap unggul dari pesaing dalam hal pengetahuan tentang tren pasar dan pergeseran pola konsumen. Hal ini tidak hanya penting dalam memenuhi permintaan pelanggan dan karenanya memastikan permintaan yang kuat terhadap produknya, tetapi juga penting dalam menembus pasar baru di mana produk tersebut sebelumnya tidak ada. Karena pasar memiliki preferensi dan kebutuhan yang berbeda, sangat penting bagi perusahaan untuk memiliki pemahaman mendalam tentang tren saat ini dan untuk menangkap tren baru secara lebih efisien daripada pesaingnya. Grup ofi memiliki pemahaman mendalam tentang pasar di mana grup tersebut bertransaksi, dan berfokus pada pelacakan tren kesehatan saat ini dan perilaku konsumen, yang memastikan bahwa Grup ofi mampu memberikan solusi yang kreatif dan inovatif untuk memenuhi kebutuhan pelanggannya yang terus berkembang."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4. Summary of functional analysis",
+              "id": "3.4. Ringkasan analisis fungsional"
+            },
+            {
+              "type": "paragraph",
+              "en": "The following sub-sections provide a brief functional analysis describing the principal contributions to value creation by individual entities within the ofi Group, i.e., key functions performed, important risks assumed, and important assets used.",
+              "id": "Sub-bagian berikut memberikan analisis fungsional singkat yang menggambarkan kontribusi utama terhadap penciptaan nilai oleh masing-masing entitas dalam Grup ofi, yaitu fungsi-fungsi utama yang dijalankan, risiko-risiko penting yang diambil, dan aset-aset penting yang digunakan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1. Functions performed",
+              "id": "3.4.1. Fungsi dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.1. Business strategy",
+              "id": "3.4.1.1. Strategi bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "As the global headquarters and principal trading entity of the ofi Group, OIL is responsible for developing and implementing the ofi business strategy on a worldwide basis and providing strategic management of its consolidated worldwide subsidiaries.",
+              "id": "Sebagai kantor pusat global dan entitas perdagangan utama Grup ofi, OIL bertanggung jawab untuk mengembangkan dan menerapkan strategi bisnis ofi di seluruh dunia dan menyediakan manajemen strategis untuk anak perusahaan konsolidasinya di seluruh dunia."
+            },
+            {
+              "type": "paragraph",
+              "en": "The senior management of OIL is responsible for strategic decisions and provides inputs to various businesses, geographies and functions. The business strategy is then cascaded and executed through the related entities globally. The senior management of OIL organises and attends regular calls (i.e., weekly or monthly depending on location and functions) with its related entities.",
+              "id": "Manajemen senior OIL bertanggung jawab atas keputusan strategis dan memberikan masukan kepada berbagai bisnis, wilayah dan fungsi. Strategi bisnis tersebut kemudian disalurkan dan dieksekusi melalui entitas terkait secara global. Manajemen senior OIL mengatur dan menghadiri pertemuan rutin (misalnya mingguan atau bulanan tergantung pada lokasi dan fungsi) dengan entitas terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.2. Risk management",
+              "id": "3.4.1.2. Manajemen risiko"
+            },
+            {
+              "type": "paragraph",
+              "en": "Risk management activities such as risk monitoring and risk assessments are undertaken centrally by the Risk Office located in OIL. The OIL team is responsible for supporting the related entities within the ofi Group to achieve their strategic goals, monitor and allocate risk capital and risk return, build risk awareness and compliance culture within the Group, perform internal controls and support statutory and corporate governance requirements.",
+              "id": "Kegiatan manajemen risiko seperti pemantauan risiko dan penilaian risiko dilakukan secara terpusat oleh Kantor Risiko yang berlokasi di OIL. Tim OIL bertanggung jawab untuk mendukung entitas terkait dalam Grup ofi untuk mencapai tujuan strategis mereka, memantau dan mengalokasikan modal risiko dan pengembalian risiko, membangun kesadaran risiko dan budaya kepatuhan dalam Grup, melakukan pengendalian internal dan mendukung persyaratan perundang-undangan dan tata kelola perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "The ofi Group continually upgrades its risk management methodology to keep in line with industry best practices. The risk management framework is designed to rigorously identify and assess the likelihood and impact of risks, and to manage the actions necessary to mitigate impact. The process identifies risk from a top-down strategic perspective and a bottom-up business perspective. OIL takes a holistic approach to enterprise-wide risk, monitoring across each value-chain step and a wide range of both quantifiable and non-quantifiable risks.",
+              "id": "Grup ofi terus meningkatkan metodologi manajemen risikonya agar sejalan dengan praktik terbaik industri. Kerangka kerja manajemen risiko dirancang untuk secara ketat mengidentifikasi dan menilai kemungkinan dan dampak risiko, dan untuk mengelola tindakan yang diperlukan untuk memitigasi dampak. Proses ini mengidentifikasi risiko dari perspektif strategis top-down dan perspektif bisnis bottom up. OIL mengambil pendekatan holistik terhadap risiko di seluruh perusahaan, memantau seluruh langkah rantai nilai dan berbagai risiko yang dapat diukur dan tidak dapat diukur."
+            },
+            {
+              "type": "paragraph",
+              "en": "The ofi Group has a rigorous Enterprise Risk Management framework which defines risks across various categories including but not limited to: trading risks, operational risks, currency risks, reputational risks, agricultural risks among others. The quantitative risks are reported as part of a quarterly Executive Risk Summary, looking at the likelihood of their occurrence and their potential impact. The summary is intended to assist the Board with examining the effectiveness of the risk management processes, systems and mitigation plans. Oversight of the risks is divided between the board and three Board Committees.",
+              "id": "Grup ofi memiliki kerangka Manajemen Risiko Perusahaan yang ketat yang mendefinisikan risiko di berbagai kategori termasuk namun tidak terbatas pada: risiko perdagangan, risiko operasional, risiko mata uang, risiko reputasi, risiko pertanian, dan lain-lain. Risiko kuantitatif dilaporkan sebagai bagian dari Ringkasan Risiko Eksekutif triwulanan, dengan mempertimbangkan kemungkinan terjadinya dan potensi dampaknya. Ringkasan ini dimaksudkan untuk membantu Dewan dalam memeriksa efektivitas proses manajemen risiko, sistem dan rencana mitigasi. Pengawasan risiko dibagi antara dewan dan tiga Komite Dewan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.3. Farming",
+              "id": "3.4.1.3. Pertanian"
+            },
+            {
+              "type": "paragraph",
+              "en": "Farming of commodities is conducted by both third-party suppliers or at the respective plantations and farms of the ofi Group. The traders in OIL have the knowledge and experience of the crop cycles for the respective commodities as well as the periods of demand from final customers. This knowledge and experience helps determine when OIL undertakes transactions with related and third-party suppliers to procure specific commodities so that they can satisfy the anticipated demand from destination entities and maximise returns by meeting market demands.",
+              "id": "Pertanian komoditas dilakukan oleh pemasok pihak ketiga atau di perkebunan dan peternakan milik Grup ofi. Para pedagang di OIL mempunyai pengetahuan dan pengalaman mengenai siklus panen untuk masing-masing komoditas serta periode permintaan dari pelanggan akhir. Pengetahuan dan pengalaman ini membantu menentukan kapan OIL melakukan transaksi dengan pemasok terkait dan pihak ketiga untuk mendapatkan komoditas tertentu sehingga mereka dapat memenuhi antisipasi permintaan dari entitas tujuan dan memaksimalkan keuntungan dengan memenuhi permintaan pasar."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.4. Sourcing / Origination",
+              "id": "3.4.1.4. Sumber / Asal"
+            },
+            {
+              "type": "paragraph",
+              "en": "The quantum of goods to be procured is determined by OIL based on historical trends or demand patterns. The purchase of goods is executed via a purchase contract between the respective suppliers and OIL, or between the suppliers and the local ofi Group entity. The goods are mostly sourced from third party local suppliers with a certain amount from the ofi Group plantations and farms.",
+              "id": "Jumlah barang yang akan dibeli ditentukan oleh OIL berdasarkan tren historis atau pola permintaan. Pembelian barang dilakukan melalui kontrak pembelian antara masing-masing pemasok dan OIL, atau antara pemasok dan entitas ofi Group setempat. Barang-barang tersebut sebagian besar bersumber dari pemasok lokal pihak ketiga dengan jumlah tertentu dari perkebunan dan peternakan ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Related party suppliers are primarily responsible for conducting groundwork and surveys at the plantations and farms and accordingly, provide feedback to the Business Unit heads and traders in OIL. Given the geographical proximity of the related party suppliers to third party suppliers as well as the ofi Group’s plantations and farms, the related party suppliers have first-hand information on the crop supply and quality of the goods. As an example, the related party supplier may share feedback on periods where a bumper crop is expected as consequently, prices may face downward pressure due to the higher supply of the agricultural commodity. The Business Unit heads and traders in OIL will take this into consideration when making purchase and sale decisions for the ofi Group.",
+              "id": "Pemasok pihak terkait terutama bertanggung jawab untuk melakukan pekerjaan dasar dan survei di perkebunan dan peternakan dan oleh karena itu, memberikan umpan balik kepada Kepala Unit Bisnis dan pedagang di OIL. Mengingat kedekatan geografis pemasok pihak berelasi dengan pemasok pihak ketiga serta perkebunan dan peternakan ofi Group, pemasok pihak berelasi memiliki informasi langsung mengenai pasokan tanaman dan kualitas barang. Sebagai contoh, pemasok pihak terkait dapat membagikan umpan balik pada periode dimana panen besar diharapkan terjadi karena sebagai konsekuensinya, harga mungkin menghadapi tekanan penurunan karena pasokan komoditas pertanian yang lebih tinggi. Kepala Unit Bisnis dan pedagang di OIL akan mempertimbangkan hal ini ketika membuat keputusan pembelian dan penjualan untuk ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "The related party suppliers have the day-to-day authority to decide on third party suppliers as long it is within the supplier qualification framework set up by OIL. Third party suppliers are typically evaluated based on factors such as quality, timeliness, and price to maximise profitability and to support the purchase and sale activities of the ofi Group with an uninterrupted flow of goods.",
+              "id": "Pemasok pihak terkait mempunyai wewenang sehari-hari untuk memutuskan pemasok pihak ketiga sepanjang masih dalam kerangka kualifikasi pemasok yang ditetapkan oleh OIL. Pemasok pihak ketiga biasanya dievaluasi berdasarkan faktor-faktor seperti kualitas, ketepatan waktu, dan harga untuk memaksimalkan profitabilitas dan untuk mendukung aktivitas pembelian dan penjualan ofi Group dengan aliran barang yang tidak terputus."
+            },
+            {
+              "type": "paragraph",
+              "en": "In conducting its sourcing function, the ofi Group may also use third party agents in place of its related entities. These third-party agents operate in countries where the ofi Group does not have a local presence.",
+              "id": "Dalam menjalankan fungsi pengadaannya, ofi Group juga dapat menggunakan agen pihak ketiga sebagai pengganti entitas terkaitnya. Agen pihak ketiga ini beroperasi di negara-negara di mana ofi Group tidak memiliki kehadiran lokal."
+            },
+            {
+              "type": "paragraph",
+              "en": "In some instances, the Business Unit heads may personally perform the groundwork by travelling to the origin country plantations and farms to evaluate the quality of crops with the local third-party suppliers.",
+              "id": "Dalam beberapa kasus, Kepala Unit Bisnis dapat secara pribadi melakukan pekerjaan dasar dengan melakukan perjalanan ke perkebunan dan peternakan di negara asal untuk mengevaluasi kualitas tanaman dengan pemasok pihak ketiga setempat."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.5. Processing",
+              "id": "3.4.1.5. Pengolahan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Certain products distributed by ofi Group may require various degrees of primary and secondary processing. Primary processing activities are performed within the upstream supply chain segment near the farms and plantations and involve the conversion of raw materials to food commodities (for example, cleaning and drying of cherry beans to coffee beans, sorting and grading of cashews, cocoa beans etc.). Secondary processing activities involve the conversion of food commodities into food ingredients (for example, alkalising process in cocoa processing, production of soluble coffee, etc., conversion of raw cashew nuts to cashew kernels, or blanching/ dicing of nuts to paste etc.).",
+              "id": "Produk tertentu yang didistribusikan oleh ofi Group mungkin memerlukan berbagai tingkat pemrosesan primer dan sekunder. Kegiatan pemrosesan primer dilakukan dalam segmen rantai pasokan hulu di dekat peternakan dan perkebunan dan melibatkan konversi bahan mentah menjadi komoditas pangan (misalnya, pembersihan dan pengeringan biji ceri menjadi biji kopi, penyortiran dan penilaian kacang mete, biji kakao, dll.). Kegiatan pemrosesan sekunder melibatkan konversi komoditas makanan menjadi bahan makanan (misalnya, proses alkalisasi dalam pemrosesan kakao, produksi kopi larut, dll., konversi kacang mete mentah menjadi inti kacang mete, atau merebus/memotong kacang menjadi pasta, dll.)."
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group entities across the globe are involved in the aforementioned primary and secondary processing activities, either by utilising inhouse facilities, or, by outsourcing to third parties.",
+              "id": "Entitas ofi Group di seluruh dunia terlibat dalam kegiatan pemrosesan primer dan sekunder yang disebutkan di atas, baik dengan memanfaatkan fasilitas inhouse, atau, dengan melakukan outsourcing ke pihak ketiga."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.6. Logistics",
+              "id": "3.4.1.6. Logistik"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL purchases goods from its related and third parties in the origin countries for sale to its related and third parties in the destination countries. OIL follows the International Commercial Terms (“Incoterms”) in its purchase and sale transactions.",
+              "id": "OIL membeli barang dari pihak terkait dan pihak ketiga di negara asal untuk dijual kepada pihak terkait dan pihak ketiga di negara tujuan. OIL mengikuti Ketentuan Komersial Internasional (“Incoterms”) dalam transaksi pembelian dan penjualannya."
+            },
+            {
+              "type": "paragraph",
+              "en": "For purchases and sales of goods, OIL adopts various different Incoterms; these are negotiated on a transaction-by-transaction basis. In most cases, goods are shipped directly from origin countries to related or third-party customers in the destination countries.",
+              "id": "Untuk pembelian dan penjualan barang, OIL mengadopsi berbagai Incoterms yang berbeda; ini dinegosiasikan berdasarkan transaksi demi transaksi. Dalam kebanyakan kasus, barang dikirim langsung dari negara asal ke pelanggan terkait atau pihak ketiga di negara tujuan."
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL is also responsible for shipping and transportation of goods from origination countries / to destination countries with assistance from other related entities within the Group.",
+              "id": "OIL juga bertanggung jawab atas pengiriman dan pengangkutan barang dari negara asal / ke negara tujuan dengan bantuan dari entitas terkait lainnya di dalam Grup."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.7. Sales, marketing, and distribution",
+              "id": "3.4.1.7. Penjualan, pemasaran, dan distribusi"
+            },
+            {
+              "type": "paragraph",
+              "en": "Purchases and sales of goods are concluded by OIL with third party and related party customers and suppliers.",
+              "id": "Pembelian dan penjualan barang diselesaikan oleh OIL dengan pelanggan dan pemasok pihak ketiga dan pihak terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL undertakes much of the sales and marketing function within the value chain. OIL is supported by local marketing teams in identifying new business leads and defining the target market. For sales made directly to third party customers, local marketing teams assist with maintaining local customer relationships, understanding customers’ requirements, etc. Any negotiation undertaken by the local marketing teams with customers are performed within pre-defined limits set by OIL. Any deviation from the price parameters requires approval and sign-off from OIL’s management.",
+              "id": "OIL menjalankan sebagian besar fungsi penjualan dan pemasaran dalam rantai nilai. OIL didukung oleh tim pemasaran lokal dalam mengidentifikasi prospek bisnis baru dan menentukan target pasar. Untuk penjualan yang dilakukan langsung ke pelanggan pihak ketiga, tim pemasaran lokal membantu menjaga hubungan pelanggan lokal, memahami kebutuhan pelanggan, dll. Setiap negosiasi yang dilakukan oleh tim pemasaran lokal dengan pelanggan dilakukan dalam batas yang telah ditentukan sebelumnya yang ditetapkan oleh OIL. Setiap penyimpangan dari parameter harga memerlukan persetujuan dan pengesahan dari manajemen OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "For customers with global presence, customer relationships are managed centrally by the Business Unit heads, supported by the Global Key Account Managers (“GKAMs”). In such cases, to ensure that the customer relationship is maintained on an ongoing basis, the Business Unit heads and GKAMs actively maintain contact with the customers over the course of the transactions. In addition, the Business Unit heads with assistance from the GKAMs and local marketing teams keep customers updated on the latest developments, handle customer requests and monitor product stock for the customers to ensure the supply of products can be adequately met. The local marketing teams participate in regular update calls with OIL’s management.",
+              "id": "Untuk pelanggan dengan kehadiran global, hubungan pelanggan dikelola secara terpusat oleh Kepala Unit Bisnis, didukung oleh Manajer Akun Kunci Global (“GKAMs”). Dalam kasus seperti itu, untuk memastikan bahwa hubungan pelanggan tetap terjaga secara berkelanjutan, Kepala Unit Bisnis dan GKAM secara aktif menjaga kontak dengan pelanggan selama transaksi. Selain itu, Kepala Unit Bisnis dengan bantuan dari GKAM dan tim pemasaran lokal terus memperbarui informasi perkembangan terbaru kepada pelanggan, menangani permintaan pelanggan, dan memantau stok produk bagi pelanggan untuk memastikan pasokan produk dapat dipenuhi secara memadai. Tim pemasaran lokal berpartisipasi dalam panggilan pembaruan rutin dengan manajemen OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.8. Innovation",
+              "id": "3.4.1.8. Inovasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group collaborates and co-creates with brands, grocery retailers and foodservice companies and to develop the pipeline for future growth in Ingredients & Solutions. The Customer Solutions Centres (“CSCs”) are responsible for the development and management of customer-led solutions along key application categories, and are supported by the Ingredient Excellence Centre’s (“IECs”), which provide deep ingredients expertise. The CSCs are organised regionally, to be closer to the ofi Group’s key customer markets.",
+              "id": "ofi Group berkolaborasi dan berkreasi bersama dengan merek, pengecer bahan makanan, dan perusahaan layanan makanan dan mengembangkan jalur untuk pertumbuhan masa depan di Bahan & Solusi. Pusat Solusi Pelanggan (“CSC”) bertanggung jawab atas pengembangan dan manajemen solusi yang dipimpin pelanggan di sepanjang kategori aplikasi utama, dan didukung oleh Pusat Keunggulan Bahan (“IEC”), yang memberikan keahlian bahan yang mendalam. CSC diselenggarakan secara regional, agar lebih dekat dengan pasar pelanggan utama ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.9. Supply chain management",
+              "id": "3.4.1.9. Manajemen rantai pasokan"
+            },
+            {
+              "type": "paragraph",
+              "en": "As a vertically integrated business, ofi’s supply chain management activities span across (i) Plan; (ii) Source; (iii) Make; and (iv) Deliver. Aside from the product sourcing and processing activities described above, the ofi Group continually develops its manufacturing and supply chain capabilities involving non-commodity procurement, improvement of manufacturing standards and efficiencies, inventory management, logistics, and safety. The Business Unit heads, Global Operations and Global Quality and Food Safety (“QFS”) teams (supported through Regional teams) are responsible for supply chain management activities and decisions.",
+              "id": "Sebagai bisnis yang terintegrasi secara vertikal, kegiatan manajemen rantai pasokan ofi mencakup (i) Perencanaan; (ii) Sumber; (iii) Pembuatan; dan (iv) Pengiriman. Selain aktivitas pencarian sumber produk dan pemrosesan yang dijelaskan di atas, ofi Group terus mengembangkan kemampuan manufaktur dan rantai pasokannya yang melibatkan pengadaan non-komoditas, peningkatan standar dan efisiensi manufaktur, manajemen persediaan, logistik, dan keselamatan. Kepala Unit Bisnis, tim Operasi Global dan tim Kualitas Global dan Keamanan Pangan (“QFS”) (didukung oleh tim Regional) bertanggung jawab atas kegiatan dan keputusan manajemen rantai pasokan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2. Assets employed",
+              "id": "3.4.2. Aset yang digunakan"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2.1. Tangible assets",
+              "id": "3.4.2.1. Aset berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL employs routine tangible assets such as buildings, plant and machinery, motor vehicles, office equipment, furniture and fittings, computers, which are necessary for the functioning of the business and to facilitate their day-to-day activities. Biological assets such as bearer plants consisting of both mature and immature almond orchards, coffee and pepper plantations are also owned by the related entities within the ofi Group.",
+              "id": "OIL mempekerjakan aset berwujud rutin seperti bangunan, pabrik dan mesin, kendaraan bermotor, peralatan kantor, furnitur dan perlengkapan, komputer, yang diperlukan untuk berfungsinya bisnis dan untuk memfasilitasi aktivitas mereka sehari-hari. Aset biologis seperti tanaman produktif yang terdiri dari kebun almond yang sudah matang dan yang belum matang, perkebunan kopi dan lada juga dimiliki oleh entitas terkait dalam ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Local land, farming assets and warehouses used in the course of business are owned or managed by the related entities within the ofi Group.",
+              "id": "Lahan lokal, aset pertanian, dan gudang yang digunakan dalam menjalankan bisnis dimiliki atau dikelola oleh entitas terkait di dalam ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2.2. Intangible assets",
+              "id": "3.4.2.2. Aset tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL owns most of the Group’s intangible assets such as trademarks, key customer relationships and certain customer lists. Other owners of intangible assets within ofi Group are described below in Section 4 of this report.",
+              "id": "OIL memiliki sebagian besar aset tidak berwujud Grup seperti merek dagang, hubungan pelanggan utama, dan daftar pelanggan tertentu. Pemilik lain aset tidak berwujud dalam ofi Group dijelaskan di bawah ini dalam Bagian 4 laporan ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3. Risks assumed",
+              "id": "3.4.3. Risiko yang diasumsikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Risks are factors that may expose a company to the possibility of loss or damage. This section describes the significant risks in relation to the purchase and sale transactions.",
+              "id": "Risiko merupakan faktor-faktor yang dapat memaparkan suatu perusahaan pada kemungkinan kerugian atau kerusakan. Bagian ini menjelaskan risiko-risiko yang signifikan sehubungan dengan transaksi pembelian dan penjualan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.1. Credit risk",
+              "id": "3.4.3.1. Risiko kredit"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL manages credit risk as it enters into sales contracts with third party customers and there is a risk of delay and default on payments. OIL has in place a credit rating system which clearly defines the credit limits and controls, thereby promoting the fragmentation of credit exposure on short tenors. OIL also buys insurance for credit defaults.",
+              "id": "OIL mengelola risiko kredit karena mengadakan kontrak penjualan dengan pelanggan pihak ketiga dan terdapat risiko penundaan dan gagal bayar dalam pembayaran. OIL mempunyai sistem pemeringkatan kredit yang secara jelas mendefinisikan batasan dan pengendalian kredit, sehingga mendorong fragmentasi eksposur kredit pada tenor pendek. OIL juga membeli asuransi untuk gagal bayar kredit."
+            },
+            {
+              "type": "paragraph",
+              "en": "For sales made to related entities, OIL does not bear credit risk as the related entities are unlikely to default on payment unless they become insolvent. In the case of purchases by OIL from related entities, the credit terms are mainly payment in advance.",
+              "id": "Untuk penjualan yang dilakukan kepada entitas berelasi, OIL tidak menanggung risiko kredit karena entitas berelasi kemungkinan besar tidak akan gagal bayar kecuali entitas tersebut bangkrut. Dalam hal pembelian oleh OIL dari entitas berelasi, persyaratan kredit sebagian besar adalah pembayaran di muka."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.2. Market risk",
+              "id": "3.4.3.2. Risiko pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": "On the supply side, OIL bears the risk of a shortage in supply of crops. In the event of an adverse crop yield in the respective plantations and farms, OIL faces the risk of the inability to service its customers’ demand for the goods. However, the risk is mitigated via sourcing from multiple plantations and farms. In addition, OIL employs advanced crop-monitoring technology and agronomy experts, irrigation facilities, flood control measures and crop insurance in order to manage its agricultural risk. OIL also maintains insurance cover against risk of natural disasters, such as flood, fire, earthquake and storms.",
+              "id": "Dari sisi pasokan, OIL menanggung risiko kekurangan pasokan hasil panen. Jika terjadi penurunan hasil panen di masing-masing perkebunan dan peternakan, OIL menghadapi risiko ketidakmampuan untuk melayani permintaan pelanggan akan barang tersebut. Namun, risiko ini dimitigasi melalui pengadaan dari berbagai perkebunan dan peternakan. Selain itu, OIL menggunakan teknologi pemantauan tanaman yang canggih dan pakar agronomi, fasilitas irigasi, langkah pengendalian banjir, dan asuransi tanaman untuk mengelola risiko pertaniannya. OIL juga memberikan perlindungan asuransi terhadap risiko bencana alam, seperti banjir, kebakaran, gempa bumi, dan badai."
+            },
+            {
+              "type": "paragraph",
+              "en": "On the demand side, OIL is responsible for majority of the sales within the Group. It is therefore subject to volatility in demand for goods and hence, bears the market risk in relation to demand for the goods.",
+              "id": "Di sisi permintaan, OIL bertanggung jawab atas sebagian besar penjualan dalam Grup. Oleh karena itu, hal ini bergantung pada volatilitas permintaan barang dan karenanya, menanggung risiko pasar sehubungan dengan permintaan barang tersebut."
+            },
+            {
+              "type": "paragraph",
+              "en": "Prices are market-driven and as such, fluctuations in supply or demand will affect the pricing of the goods. As OIL purchases and sells based on market prices, any fluctuations in price will be borne by OIL.",
+              "id": "Harga didorong oleh pasar dan oleh karena itu, fluktuasi pasokan atau permintaan akan mempengaruhi harga barang. Karena OIL membeli dan menjual berdasarkan harga pasar, maka segala fluktuasi harga akan ditanggung oleh OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.3. Price risk",
+              "id": "3.4.3.3. Risiko harga"
+            },
+            {
+              "type": "paragraph",
+              "en": "The prices of agricultural commodities will vary between the time of pricing the purchase and that of the sale. As OIL undertakes physical trades with counterparties, it bears the initial market price risk. The risk of loss is practically unlimited and is managed by OIL through hedging on the world’s commodities exchanges, both through derivatives and tendering.",
+              "id": "Harga komoditas pertanian akan bervariasi antara saat penetapan harga pembelian dan saat penjualan. Karena OIL melakukan perdagangan fisik dengan pihak rekanan, maka OIL menanggung risiko harga pasar awal. Risiko kerugian secara praktis tidak terbatas dan dikelola oleh OIL melalui lindung nilai di bursa komoditas dunia, baik melalui derivatif maupun tender."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.4. Foreign exchange risk",
+              "id": "3.4.3.4. Risiko nilai tukar mata uang asing"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL purchases and sells the majority of its products in USD. In cases where the transactions are denominated in currencies other than USD, a foreign exchange report will be generated by the ofi Group’s shared financial system and sent to the Forex Team within OIL who undertakes the appropriate hedging to manage the foreign exchange exposure and risk borne by OIL.",
+              "id": "OIL membeli dan menjual sebagian besar produknya dalam USD. Dalam kasus di mana transaksi dilakukan dalam mata uang selain USD, laporan valuta asing akan dihasilkan oleh sistem keuangan bersama ofi Group dan dikirim ke Tim Forex dalam OIL yang melakukan lindung nilai yang sesuai untuk mengelola paparan valuta asing dan risiko yang ditanggung oleh OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "In addition, OIL also incurs some local operating expenses in SGD. However, the amount is minimal.",
+              "id": "Selain itu, OIL juga mengeluarkan sebagian biaya operasional lokal dalam SGD. Namun, jumlahnya minimal."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.5. Quality risk",
+              "id": "3.4.3.5. Risiko kualitas"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL bears quality risk when the quality of the products manufactured is below the expectations of the customers. However, OIL manages and limits quality risk with the due diligence conducted both by the traders of OIL as well as the related entities located in origin countries. The local related parties may assist OIL to check the products prior to selecting and contracting the suppliers. For products sourced from ofi Group plantations or farms, the local entities may perform high-level checks on the products prior to selling them to OIL.",
+              "id": "OIL menanggung risiko kualitas ketika kualitas produk yang diproduksi berada di bawah ekspektasi pelanggan. Namun, OIL mengelola dan membatasi risiko kualitas dengan uji tuntas yang dilakukan baik oleh pedagang OIL maupun entitas terkait yang berlokasi di negara asal. Pihak terkait lokal dapat membantu OIL untuk memeriksa produk sebelum memilih dan mengontrak pemasok. Untuk produk yang bersumber dari perkebunan atau peternakan ofi Group, entitas lokal dapat melakukan pemeriksaan tingkat tinggi pada produk sebelum menjualnya ke OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.6. Inventory risk",
+              "id": "3.4.3.6. Risiko inventaris"
+            },
+            {
+              "type": "paragraph",
+              "en": "For most of the products, OIL bears the inventory risk throughout the entire value chain. OIL holds inventories of the agricultural products. To manage the inventory risk, OIL may sometimes adopt a back-to-back sales process to minimise the need for it to hold inventory. As mentioned previously, OIL manages inventory risk by purchasing insurance which provides for inventory cover.",
+              "id": "Untuk sebagian besar produk, OIL menanggung risiko inventaris di seluruh rantai nilai. OIL menyimpan inventaris produk pertanian. Untuk mengelola risiko inventaris, OIL terkadang mengadopsi proses penjualan back-to-back (berurutan) untuk meminimalkan kebutuhannya menahan inventaris. Seperti disebutkan sebelumnya, OIL mengelola risiko inventaris dengan membeli asuransi yang memberikan perlindungan inventaris."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.5. Acquisitions and divestitures",
+              "id": "3.5. Akuisisi dan divestasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "During FY 2024, the ofi Group did not enter into any significant business restructuring transactions, acquisitions, or divestitures.",
+              "id": "Selama TA 2024, ofi Group tidak melakukan transaksi restrukturisasi bisnis, akuisisi, atau divestasi yang signifikan."
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "4. Intangibles - Aktiva Tidak Berwujud",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "This section provides a general description of the ofi Group’s overall strategy for the development, ownership and exploitation of intangibles, including location of principal R&D facilities.",
+              "id": "Bagian ini memberikan penjelasan umum tentang strategi keseluruhan ofi Group untuk pengembangan, kepemilikan dan eksploitasi aset tidak berwujud, termasuk lokasi fasilitas penelitian dan pengembangan utama."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1. Overview & Group Strategy",
+              "id": "4.1. Tinjauan Umum & Strategi Grup"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group owns numerous intangibles (such as trademarks, trade names, etc.) in countries around the world. Most of the trade names and trademarks are owned by the local entities and exploited mostly for the benefit of the entities operating within the same country.",
+              "id": "ofi Group memiliki banyak aset tidak berwujud (seperti merek dagang, nama dagang, dll.) di negara-negara di seluruh dunia. Sebagian besar nama dagang dan merek dagang dimiliki oleh entitas lokal dan dieksploitasi sebagian besar untuk kepentingan entitas yang beroperasi di negara yang sama."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1.1. ofi brand and AtSource 29",
+              "id": "4.1.1. Merek ofi dan AtSource 29"
+            },
+            {
+              "type": "paragraph",
+              "en": "The ofi tradename and logos are all mainly owned by OIL and Olam Brands B.V. This IP is developed for the benefit of the Group as a whole and to improve its competitive position within the business-to-business (“B2B”) market. These intangibles are not intended for targeting end consumers in the business-to-consumer (“B2C”) market. B2B market constitutes the majority of the ofi Group’s business, and hence, the ofi tradename is the main IP that customers associate with the ofi Group as a whole. In addition, OIL is the owner of the supplier and customer lists for its own purchase and sale transactions. Similarly, local entities own the supplier and customer lists for the local operations.",
+              "id": "Nama dagang dan logo ofi semuanya sebagian besar dimiliki oleh OIL dan Olam Brands B.V. IP ini dikembangkan untuk kepentingan Grup secara keseluruhan dan untuk meningkatkan posisi kompetitifnya dalam pasar bisnis-ke-bisnis (“B2B”). Aset tidak berwujud ini tidak dimaksudkan untuk menargetkan konsumen akhir di pasar bisnis-ke-konsumen (“B2C”). Pasar B2B merupakan mayoritas bisnis ofi Group, dan oleh karena itu, nama dagang ofi adalah IP utama yang diasosiasikan oleh pelanggan dengan ofi Group secara keseluruhan. Selain itu, OIL adalah pemilik daftar pemasok dan pelanggan untuk transaksi pembelian dan penjualannya sendiri. Demikian pula, entitas lokal memiliki daftar pemasok dan pelanggan untuk operasi lokal."
+            },
+            {
+              "type": "paragraph",
+              "en": "Furthermore, ofi Group provides sustainability insights to customers with AtSource, ofi Group’s proprietary B2B sustainability management system. AtSource provides traceability to a product's origin and transparency on key supply chain sustainability challenges through data and insights. It enables customers to map their unique sustainability journey, monitor performance and partner to create impact through targeted interventions. It can improve monitoring efficiency, enhance due diligence with external assurance, and ensure compliance with evolving industry standards.",
+              "id": "Selanjutnya, ofi Group memberikan wawasan keberlanjutan kepada pelanggan dengan AtSource, sistem manajemen keberlanjutan B2B milik ofi Group. AtSource memberikan ketertelusuran ke asal produk dan transparansi pada tantangan utama keberlanjutan rantai pasokan melalui data dan wawasan. Hal ini memungkinkan pelanggan untuk memetakan perjalanan keberlanjutan mereka yang unik, memantau kinerja, dan bermitra untuk menciptakan dampak melalui intervensi yang ditargetkan. Hal ini dapat meningkatkan efisiensi pemantauan, meningkatkan uji tuntas dengan jaminan eksternal, dan memastikan kepatuhan terhadap standar industri yang terus berkembang."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1.2. Other intangibles of the business",
+              "id": "4.1.2. Aset tidak berwujud lainnya dari bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "Throughout its years of operation, ofi Group has amassed a collective pool of knowledge, knowhow, and network of relationships which has enabled ofi Group’s continued success.",
+              "id": "Sepanjang tahun operasinya, ofi Group telah mengumpulkan kumpulan pengetahuan, keterampilan, dan jaringan hubungan yang telah memungkinkan kesuksesan ofi Group yang berkelanjutan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Broadly, these intangibles can be classified into Innovation and Supply Chain IP:",
+              "id": "Secara garis besar, aset tidak berwujud ini dapat diklasifikasikan ke dalam Inovasi dan Rantai Pasokan IP:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Innovation IP comprises technologies, processing techniques, recipes, combinations, trade secrets, etc. which OIL has built up over years, and more recently from the collective outputs of the Innovation Organisations. Innovation IP can be characterised as (i) ingredient and product technology, (ii) processes and know-how, and (iii) recipes, designs, and schematics.",
+              "id": "• IP Inovasi terdiri dari teknologi, teknik pemrosesan, resep, kombinasi, rahasia dagang, dll. yang telah dibangun OIL selama bertahun-tahun, dan yang terbaru dari keluaran kolektif dari Organisasi Inovasi. IP Inovasi dapat dikarakterisasikan sebagai (i) teknologi bahan dan produk, (ii) proses dan keterampilan, dan (iii) resep, desain, dan skema."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Supply Chain IP relates to the expansive processes, procedures, technologies, operational capabilities, network, relationships, etc. across the entire supply chain, including a vast global network of farmers, suppliers, and sourcing agents, which OIL can leverage in order to optimise purchasing and sourcing decisions for products which it can sell to global customers is characterised as (i) processes, procedures, and technologies, (ii) operational capabilities, and (iii) network and relationships.",
+              "id": "• Kekayaan Intelektual (IP) Rantai Pasokan berkaitan dengan proses, prosedur, teknologi, kemampuan operasional, jaringan, hubungan, dan lain-lain yang ekstensif. Di seluruh rantai pasokan, termasuk jaringan global petani, pemasok, dan agen pengadaan yang luas, yang mana OIL dapat memanfaatkannya untuk mengoptimalkan keputusan pembelian dan pencarian produk yang dapat dijual ke pelanggan global dikarakterisasikan sebagai (i) proses, prosedur, dan teknologi, (ii) kemampuan operasional, dan (iii) jaringan dan hubungan."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.2. R&D organisation",
+              "id": "4.2. Organisasi Penelitian dan Pengembangan (R&D)"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group is actively involved in the new product launches through its global knowledge and local experience. ofi Group has a dedicated team which undertakes research and development activities across various aspects as depicted in the figure below.",
+              "id": "ofi Group secara aktif terlibat dalam peluncuran produk baru melalui pengetahuan global dan pengalaman lokalnya. ofi Group memiliki tim khusus yang melakukan aktivitas penelitian dan pengembangan di berbagai aspek seperti yang digambarkan pada gambar di bawah ini."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-8.png",
+              "alt": "ofi Group research and development activities",
+              "caption": {
+                "en": "Exhibit 8: ofi Group research and development activities",
+                "id": "Exhibit 8: Kegiatan penelitian dan pengembangan ofi Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "The Group focuses on agri science and technology development, which is fundamental for improving farming productivity, resilience of ofi Group’s supply and the quality and functionality of the ofi Group’s products and ingredients. 31 Further, ofi Group undertakes ingredient innovation with customers and consumers in mind. This includes looking at improving ingredient functionality, developing natural and clean label products with health, nutrition and wellbeing benefits, and maximising valorisation and upcycling opportunities within the product supply chain. 32 Digital technology also has a vital role in ofi Group. The Group owns some unique digital tools to help improve farming for all parties in its supply chain. Some examples of these technologies include:",
+              "id": "Grup ini berfokus pada pengembangan ilmu pengetahuan dan teknologi pertanian, yang merupakan hal mendasar untuk meningkatkan produktivitas pertanian, ketahanan pasokan ofi Group serta kualitas dan fungsi produk dan bahan ofi Group. 31 Lebih jauh lagi, ofi Group melakukan inovasi bahan dengan mempertimbangkan pelanggan dan konsumen. Hal ini termasuk berupaya meningkatkan fungsionalitas bahan, mengembangkan produk alami dan berlabel bersih dengan manfaat kesehatan, nutrisi dan kesejahteraan, serta memaksimalkan peluang valorisasi dan daur ulang (upcycling) dalam rantai pasokan produk. 32 Teknologi digital juga mempunyai peranan penting dalam ofi Group. Grup ini memiliki beberapa alat digital unik untuk membantu meningkatkan pertanian bagi semua pihak dalam rantai pasokannya. Beberapa contoh teknologi ini meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• AtSource: a digital sustainability insights platform\n• Olam Direct: a platform that provides greater access to advice, financing, supplies and sales support\n• Olam Farmer Information System (“OFIS”): which is a survey tool used by ofi Group’s field teams to collect and record data (such as farm and community infrastructure locations), manage training activities, and track financing, input distribution and purchases precisely. 33",
+              "id": "• AtSource: platform wawasan keberlanjutan digital\n• Olam Direct: platform yang memberikan akses lebih besar terhadap saran, pembiayaan, pasokan, dan dukungan penjualan\n• Olam Farmer Information System (“OFIS”): yang merupakan alat survei yang digunakan oleh tim lapangan ofi Group untuk mengumpulkan dan mencatat data (seperti lokasi infrastruktur pertanian dan masyarakat), mengelola kegiatan pelatihan, dan melacak pendanaan, distribusi input, dan pembelian secara tepat. 33"
+            },
+            {
+              "type": "paragraph",
+              "en": "4.3. Details of major intangibles",
+              "id": "4.3. Rincian aktiva tidak berwujud utama"
+            },
+            {
+              "type": "paragraph",
+              "en": "The table below contains the list of ofi Group’s intangibles that are important for transfer pricing purposes.",
+              "id": "Tabel di bawah ini berisi daftar aktiva tidak berwujud ofi Group yang penting untuk tujuan penetapan harga transfer."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Ownership",
+                  "id": "Kepemilikan"
+                },
+                {
+                  "en": "Intangible description",
+                  "id": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Brand and trademarks",
+                    "id": "Merek dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Innovation IP",
+                    "id": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Supply chain IP",
+                    "id": "IP Rantai Pasokan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Brand and trademark",
+                    "id": "Merek dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Innovation IP",
+                    "id": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings, Inc",
+                    "id": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "Innovation IP",
+                    "id": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings, Inc",
+                    "id": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "Supply chain IP",
+                    "id": "IP Rantai Pasokan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Universal Blanchers, L.L.C.",
+                    "id": "Universal Blanchers, L.L.C."
+                  },
+                  {
+                    "en": "Customer relationship for edible nuts platform, software",
+                    "id": "Hubungan pelanggan untuk platform kacang yang dapat dimakan, perangkat lunak"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "4.4. Important agreements and transfer pricing policy",
+              "id": "4.4. Perjanjian penting dan kebijakan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "During FY 2024, ofi Group had the following agreements relating to intangibles:",
+              "id": "Selama TA 2024, ofi Group memiliki perjanjian berikut yang berkaitan dengan aset tidak berwujud:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Cost contribution participants",
+                  "id": "Peserta kontribusi biaya"
+                },
+                {
+                  "en": "Intangible description",
+                  "id": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "ofi brand and trademark",
+                    "id": "Merek ofi dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Cost Sharing participants",
+                  "id": "Peserta Berbagi Biaya"
+                },
+                {
+                  "en": "Intangible description",
+                  "id": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Innovation IP",
+                    "id": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "",
+                    "id": ""
+                  },
+                  {
+                    "en": "Olam Holdings, Inc and its associated US subsidiaries 34",
+                    "id": "Olam Holdings, Inc dan entitas anak di AS yang terkait 34"
+                  },
+                  {
+                    "en": "",
+                    "id": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Olam Holdings, Inc and its associated US subsidiaries 35",
+                    "id": "Olam Holdings, Inc dan entitas anak di AS yang terkait 35"
+                  },
+                  {
+                    "en": "Supply chain IP",
+                    "id": "IP Rantai Pasokan"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Sub-licensor",
+                  "id": "Pemberi sub-lisensi"
+                },
+                {
+                  "en": "Sub-licensee",
+                  "id": "Penerima sub-lisensi"
+                },
+                {
+                  "en": "Intangible description",
+                  "id": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Holdings, Inc",
+                    "id": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "ofi trademarks",
+                    "id": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Holdings, Inc",
+                    "id": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Agricola Ltda",
+                    "id": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "ofi trademarks",
+                    "id": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Agricola Ltda",
+                    "id": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Polska Sp. Z.o.o.",
+                    "id": "Olam Polska Sp. Z.o.o."
+                  },
+                  {
+                    "en": "ofi trademarks",
+                    "id": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Polska Sp. Z.o.o",
+                    "id": "Olam Polska Sp. Z.o.o"
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Food Ingredient Shanghai Limited",
+                    "id": "Olam Food Ingredient Shanghai Limited"
+                  },
+                  {
+                    "en": "ofi trademarks",
+                    "id": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Food Ingredient Shanghai Limited",
+                    "id": "Olam Food Ingredient Shanghai Limited"
+                  },
+                  {
+                    "en": "Intellectual Property (AtSource)",
+                    "id": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Services B.V.",
+                    "id": "Olam Services B.V."
+                  },
+                  {
+                    "en": "Innovation IP",
+                    "id": "IP Inovasi"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "The transfer pricing policies with respect to R&D and intangibles are set in accordance with the arm’s length principle.",
+              "id": "Kebijakan harga transfer sehubungan dengan R&D dan aktiva tidak berwujud ditetapkan sesuai dengan prinsip kewajaran dan kelaziman usaha."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.5. Important transfers of intangibles",
+              "id": "4.5. Pengalihan penting atas aktiva tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "During FYE 31 December 2024, there was no transfers of intangibles within ofi Group.",
+              "id": "Selama tahun fiskal yang berakhir 31 Desember 2024, tidak ada pengalihan aset tidak berwujud dalam ofi Group."
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "5. Intercompany Financial Activities - Aktivitas Keuangan Antar Perusahaan",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "5.1. Group financing overview",
+              "id": "5.1. Tinjauan pembiayaan grup"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL, Olam Treasury Pte Ltd (“OTPL”) and Olam Holdings B.V. (“OHBV”) provide intercompany loans to ofi Group’s entities by borrowing via external financial institutions. OIL funds ofi Group’s entities to enable the procurement of both derivative and non-derivative commodities as well as for capital expenditure. ofi Group’s entities may borrow from local banks directly or obtain funds from OIL depending on optimal costs of funds, exchange rate impact, business model and overall strategy for optimal resource employment.",
+              "id": "OIL, Olam Treasury Pte Ltd (“OTPL”) dan Olam Holdings B.V. (“OHBV”) memberikan pinjaman antar perusahaan kepada entitas-entitas ofi Group dengan meminjam melalui lembaga keuangan eksternal. OIL mendanai entitas-entitas ofi Group untuk memungkinkan pengadaan komoditas derivatif dan non-derivatif serta untuk pengeluaran modal. Entitas-entitas ofi Group dapat meminjam dari bank lokal secara langsung atau memperoleh dana dari OIL tergantung pada biaya dana yang optimal, dampak nilai tukar, model bisnis, dan strategi keseluruhan untuk penggunaan sumber daya yang optimal."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2. External financing arrangements",
+              "id": "5.2. Pengaturan pembiayaan eksternal"
+            },
+            {
+              "type": "paragraph",
+              "en": "The table below provides the list of the top 5 most important financing arrangements with unrelated lenders during FY 2024.",
+              "id": "Tabel di bawah ini memuat daftar 5 pengaturan pembiayaan paling penting dengan pemberi pinjaman yang tidak terkait selama TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Borrower",
+                  "id": "Peminjam"
+                },
+                {
+                  "en": "Currency",
+                  "id": "Mata uang"
+                },
+                {
+                  "en": "Amount",
+                  "id": "Jumlah"
+                },
+                {
+                  "en": "Nature of financing",
+                  "id": "Sifat pembiayaan"
+                },
+                {
+                  "en": "Banks / Lenders",
+                  "id": "Bank / Pemberi Pinjaman"
+                },
+                {
+                  "en": "Date of agreement",
+                  "id": "Tanggal perjanjian"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OHBV",
+                    "id": "OHBV"
+                  },
+                  {
+                    "en": "USD",
+                    "id": "USD"
+                  },
+                  {
+                    "en": "1.975 Billion",
+                    "id": "1.975 Miliar"
+                  },
+                  {
+                    "en": "Long Term/Short term",
+                    "id": "Jangka Panjang/Jangka Pendek"
+                  },
+                  {
+                    "en": "HSBC",
+                    "id": "HSBC"
+                  },
+                  {
+                    "en": "29-Aug-22",
+                    "id": "29-Agt-22"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL",
+                    "id": "OTPL"
+                  },
+                  {
+                    "en": "USD",
+                    "id": "USD"
+                  },
+                  {
+                    "en": "1.9 Billion",
+                    "id": "1.9 Miliar"
+                  },
+                  {
+                    "en": "Long Term",
+                    "id": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC",
+                    "id": "HSBC"
+                  },
+                  {
+                    "en": "26-Jan-24",
+                    "id": "26-Jan-24"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL",
+                    "id": "OTPL"
+                  },
+                  {
+                    "en": "USD",
+                    "id": "USD"
+                  },
+                  {
+                    "en": "1.75 Billion",
+                    "id": "1.75 Miliar"
+                  },
+                  {
+                    "en": "Long Term",
+                    "id": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC",
+                    "id": "HSBC"
+                  },
+                  {
+                    "en": "31-Mar-21",
+                    "id": "31-Mar-21"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL",
+                    "id": "OTPL"
+                  },
+                  {
+                    "en": "USD",
+                    "id": "USD"
+                  },
+                  {
+                    "en": "1.75 Billion",
+                    "id": "1.75 Miliar"
+                  },
+                  {
+                    "en": "Short Term",
+                    "id": "Jangka Pendek"
+                  },
+                  {
+                    "en": "HSBC",
+                    "id": "HSBC"
+                  },
+                  {
+                    "en": "29-Aug-23",
+                    "id": "29-Agt-23"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL",
+                    "id": "OTPL"
+                  },
+                  {
+                    "en": "USD",
+                    "id": "USD"
+                  },
+                  {
+                    "en": "1.2 Billion",
+                    "id": "1.2 Miliar"
+                  },
+                  {
+                    "en": "Long Term",
+                    "id": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC",
+                    "id": "HSBC"
+                  },
+                  {
+                    "en": "30-Aug-21",
+                    "id": "30-Agt-21"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.1. Bank overdrafts and bank loans 40",
+              "id": "5.2.1. Cerukan bank dan pinjaman bank 40"
+            },
+            {
+              "type": "paragraph",
+              "en": "Across the ofi Group, bank loans and bank overdrafts are repayable within a period of 12 months and bear interest rates ranging from 0.06% to 30.31% per annum (\"p.a.”) [1.95% to 42.00% p.a. for FY 2023]. Bank loans provided to ofi Group are generally unsecured, except for an amount of USD 0.2 million [USD 0.3 million in FY 2023] which is secured against the assets of ofi Group entities.",
+              "id": "Di seluruh ofi Group, pinjaman bank dan cerukan bank harus dibayar kembali dalam jangka waktu 12 bulan dan menanggung tingkat bunga berkisar antara 0,06% hingga 30,31% per tahun (\"p.a.\") [1,95% hingga 42,00% p.a. untuk TA 2023]. Pinjaman bank yang diberikan kepada ofi Group umumnya tanpa agunan, kecuali untuk jumlah sebesar USD 0,2 juta [USD 0,3 juta pada TA 2023] yang dijamin dengan aset entitas ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.2. Term loans from banks 41",
+              "id": "5.2.2. Pinjaman berjangka dari bank 41"
+            },
+            {
+              "type": "paragraph",
+              "en": "Term loans from banks to ofi Group entities bear floating interest rates ranging from 5.40% to 29.50% p.a. [0.60% to 21.50% p.a. for FY 2023] and are repayable between one to six years. Across the ofi Group, term loans are generally unsecured, except for an amount of USD 0.1 million [USD 0.4 million for FY 2023] which is secured against the assets of the ofi Group entities.",
+              "id": "Pinjaman berjangka dari bank kepada entitas-entitas ofi Group menanggung tingkat suku bunga mengambang berkisar antara 5,40% hingga 29,50% p.a. [0,60% hingga 21,50% p.a. untuk TA 2023] dan dapat dibayar kembali antara satu hingga enam tahun. Di seluruh ofi Group, pinjaman berjangka umumnya tidak dijamin, kecuali untuk jumlah sebesar USD 0,1 juta [USD 0,4 juta untuk TA 2023] yang dijamin dengan aset entitas-entitas ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.3. Medium-term notes 42",
+              "id": "5.2.3. Surat utang jangka menengah 42"
+            },
+            {
+              "type": "paragraph",
+              "en": "In addition, the ofi Group has medium-term note (“MTN”) programmes through which they have current and non-current liabilities amounting to USD 94.4 million and USD 1,144.4 million respectively. Drawdowns from MTN programmes are unsecured.",
+              "id": "Selain itu, ofi Group memiliki program surat utang jangka menengah (“MTN”) di mana mereka memiliki kewajiban lancar dan tidak lancar masing-masing sebesar USD 94,4 juta dan USD 1.144,4 juta. Penarikan dana dari program MTN tidak dijamin."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.3. Central financing functions",
+              "id": "5.3. Fungsi pembiayaan sentral"
+            },
+            {
+              "type": "paragraph",
+              "en": "OTPL serves as a centralised treasury function, responsible for the majority of the financing activities of the ofi Group.",
+              "id": "OTPL berfungsi sebagai fungsi perbendaharaan terpusat, yang bertanggung jawab atas sebagian besar aktivitas pembiayaan ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.4. Intercompany financing – transfer pricing policy",
+              "id": "5.4. Pembiayaan antar perusahaan – kebijakan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "The transfer pricing policies with respect to intercompany financing are set in accordance with the arm’s length principle.",
+              "id": "Kebijakan harga transfer sehubungan dengan pendanaan antar perusahaan ditetapkan sesuai dengan prinsip kewajaran dan kelaziman usaha."
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "6. Important Service Agreements - Perjanjian Layanan Penting",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "This section lists the important service arrangements that are currently enforceable (other than research and development (“R&D”) services) and also provides a brief description of these service arrangements between the ofi Group entities. This includes a description of the capabilities of the principal locations providing important services and transfer pricing policies for allocating service costs and determining prices to be paid for intragroup services.",
+              "id": "Bagian ini mencantumkan pengaturan layanan penting yang saat ini dapat diberlakukan (selain layanan penelitian dan pengembangan (“R&D”)) dan juga memberikan deskripsi singkat tentang pengaturan layanan ini antara entitas ofi Group. Ini mencakup deskripsi kapabilitas dari lokasi-lokasi utama yang menyediakan layanan-layanan penting dan kebijakan harga transfer untuk mengalokasikan biaya layanan dan menentukan harga yang harus dibayar untuk layanan-layanan antar perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "An overview of the key intercompany service arrangements (other than those described in section 4.4) is set out in the table below:",
+              "id": "Gambaran umum pengaturan layanan antar perusahaan utama (selain yang dijelaskan pada bagian 4.4) ditetapkan pada tabel di bawah ini:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Service provider",
+                  "id": "Penyedia layanan"
+                },
+                {
+                  "en": "Service recipient",
+                  "id": "Penerima layanan"
+                },
+                {
+                  "en": "Tax Jurisdiction",
+                  "id": "Yurisdiksi Pajak"
+                },
+                {
+                  "en": "Transfer pricing policy",
+                  "id": "Kebijakan harga transfer"
+                },
+                {
+                  "en": "Service arrangement",
+                  "id": "Pengaturan layanan"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam Insurance Limited",
+                    "id": "Olam Insurance Limited"
+                  },
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "Cost base approach",
+                    "id": "Pendekatan basis biaya"
+                  },
+                  {
+                    "en": "Insurance",
+                    "id": "Asuransi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "ofi Group entities",
+                    "id": "Entitas-entitas ofi Group"
+                  },
+                  {
+                    "en": "Various",
+                    "id": "Bermacam-macam"
+                  },
+                  {
+                    "en": "Cost plus",
+                    "id": "Cost plus"
+                  },
+                  {
+                    "en": "Management and general Support",
+                    "id": "Manajemen dan Dukungan umum"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Group entities (such as Olam Services B.V., Olam Deutschland GmbH, Olam Europe B.V., Olam Suisse Sarl, etc.)",
+                    "id": "Entitas-entitas ofi Group (seperti Olam Services B.V., Olam Deutschland GmbH, Olam Europe B.V., Olam Suisse Sarl, dll.)"
+                  },
+                  {
+                    "en": "OIL",
+                    "id": "OIL"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "Cost plus",
+                    "id": "Cost plus"
+                  },
+                  {
+                    "en": "Sales support services",
+                    "id": "Layanan dukungan penjualan"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "7. Financial and tax position - Posisi keuangan dan perpajakan",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "7.1. Financial results",
+              "id": "7.1. Hasil keuangan"
+            },
+            {
+              "type": "paragraph",
+              "en": "The following table presents ofi Group’s consolidated financial results for FY 2024.",
+              "id": "Tabel berikut menyajikan hasil keuangan konsolidasi ofi Group untuk TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "",
+                  "id": ""
+                },
+                {
+                  "en": "FY 2024\n(in millions USD)",
+                  "id": "TA 2024\n(dalam jutaan USD)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Revenue from contracts with customers",
+                    "id": "Pendapatan dari kontrak dengan pelanggan"
+                  },
+                  {
+                    "en": "16,315.1",
+                    "id": "16.315,1"
+                  }
+                ],
+                [
+                  {
+                    "en": "Other income",
+                    "id": "Penghasilan lainnya"
+                  },
+                  {
+                    "en": "46.8",
+                    "id": "46,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Operating expenses - direct",
+                    "id": "Beban operasional - langsung"
+                  },
+                  {
+                    "en": "(14,357.4)",
+                    "id": "(14.357,4)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Net gain from changes in fair value of biological assets",
+                    "id": "Keuntungan bersih dari perubahan nilai wajar aset biologis"
+                  },
+                  {
+                    "en": "66.8",
+                    "id": "66,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Depreciation and amortisation",
+                    "id": "Depresiasi dan amortisasi"
+                  },
+                  {
+                    "en": "(320.5)",
+                    "id": "(320,5)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Other expenses",
+                    "id": "Beban lainnya"
+                  },
+                  {
+                    "en": "(1,044.2)",
+                    "id": "(1.044,2)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Finance income",
+                    "id": "Penghasilan keuangan"
+                  },
+                  {
+                    "en": "190.9",
+                    "id": "190,9"
+                  }
+                ],
+                [
+                  {
+                    "en": "Finance costs",
+                    "id": "Biaya keuangan"
+                  },
+                  {
+                    "en": "(911.3)",
+                    "id": "(911,3)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Share of results from joint ventures and associates",
+                    "id": "Bagian hasil dari ventura bersama dan entitas asosiasi"
+                  },
+                  {
+                    "en": "(2.8)",
+                    "id": "(2,8)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Loss before taxation",
+                    "id": "Kerugian sebelum pajak"
+                  },
+                  {
+                    "en": "(16.6)",
+                    "id": "(16,6)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Income tax credit",
+                    "id": "Kredit pajak penghasilan"
+                  },
+                  {
+                    "en": "21.8",
+                    "id": "21,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Profit for the financial year from continuing operations",
+                    "id": "Laba tahun buku berjalan dari operasi yang dilanjutkan"
+                  },
+                  {
+                    "en": "5.2",
+                    "id": "5,2"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "7.2. Advance Pricing Arrangements (“APAs”) and other tax rulings",
+              "id": "7.2. Perjanjian Harga di Muka (“APA”) dan peraturan perpajakan lainnya"
+            },
+            {
+              "type": "paragraph",
+              "en": "This sub-section lists and offers a brief description of the ofi Group’s existing Unilateral Advance Pricing Agreements (“APAs”), and other advance Tax Rulings relating to the allocation of income among countries enforceable in FY 2024. A list of all executed APAs and tax rulings related to the ofi Group is provided in the table below.",
+              "id": "Sub-bagian ini mencantumkan dan menawarkan penjelasan singkat mengenai Perjanjian Penentuan Harga Di Muka (Advance Pricing Agreements atau “APA”) Sepihak yang ada di ofi Group, serta Keputusan Pajak di muka lainnya terkait dengan alokasi pendapatan antar negara yang dapat diberlakukan pada TA 2024. Daftar dari seluruh APA dan keputusan pajak yang telah dilaksanakan terkait ofi Group disediakan dalam tabel di bawah."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "List of unilateral APAs/tax rulings",
+                  "id": "Daftar APAs/keputusan pajak sepihak"
+                },
+                {
+                  "en": "Countries",
+                  "id": "Negara-negara"
+                },
+                {
+                  "en": "Entities involved",
+                  "id": "Entitas yang terlibat"
+                },
+                {
+                  "en": "Nature of agreement/ruling",
+                  "id": "Sifat kesepakatan/putusan"
+                },
+                {
+                  "en": "Agreement term",
+                  "id": "Jangka waktu perjanjian"
+                },
+                {
+                  "en": "TP policy",
+                  "id": "Kebijakan TP"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Unilateral APA",
+                    "id": "APA sepihak"
+                  },
+                  {
+                    "en": "Switzerland",
+                    "id": "Swiss"
+                  },
+                  {
+                    "en": "Olam Suisse Sarl",
+                    "id": "Olam Suisse Sarl"
+                  },
+                  {
+                    "en": "Sales consultancy, trading support and general support services",
+                    "id": "Konsultasi penjualan, dukungan perdagangan, dan layanan dukungan umum"
+                  },
+                  {
+                    "en": "16 October 2015 onwards",
+                    "id": "16 Oktober 2015 dan seterusnya"
+                  },
+                  {
+                    "en": "Commission / Cost plus",
+                    "id": "Komisi / Biaya plus"
+                  }
+                ],
+                [
+                  {
+                    "en": "Unilateral APA",
+                    "id": "APA sepihak"
+                  },
+                  {
+                    "en": "India",
+                    "id": "India"
+                  },
+                  {
+                    "en": "Olam Food Ingredients India Private Limited",
+                    "id": "Olam Food Ingredients India Private Limited"
+                  },
+                  {
+                    "en": "Merchanting Trade business",
+                    "id": "Bisnis Perdagangan Pedagang"
+                  },
+                  {
+                    "en": "Financial year 2021-2022 to 2025-2026",
+                    "id": "Tahun fiskal 2021-2022 hingga 2025-2026"
+                  },
+                  {
+                    "en": "Transactional Net Margin Method",
+                    "id": "Metode Margin Bersih Transaksional"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "8. Scope - Ruang Lingkup",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "8.1. Scope of the report",
+              "id": "8.1. Ruang lingkup laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": "The purpose of this report is to document the overview of ofi Group’s global business for FY 2024.",
+              "id": "Tujuan laporan ini adalah untuk mendokumentasikan ikhtisar bisnis global ofi Group untuk TA 2024."
+            },
+            {
+              "type": "paragraph",
+              "en": "8.2. Work performed",
+              "id": "8.2. Pekerjaan dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": "During the course of this analysis, we have performed the following:",
+              "id": "Selama melakukan analisis ini, kami telah melakukan hal-hal berikut:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Liaised with OIL to obtain background, financial and other information in relation to ofi Group’s businesses;\n• Reviewed relevant information obtained from OIL; and\n• Confirmed our understanding of ofi Group’s functions and risks with OIL.",
+              "id": "• Berhubungan dengan OIL untuk mendapatkan latar belakang, keuangan dan informasi lain sehubungan dengan bisnis ofi Group;\n• Menelaah informasi relevan yang diperoleh dari OIL; dan\n• Mengkonfirmasi pemahaman kami tentang fungsi dan risiko ofi Group terhadap OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "8.3. Limitations of the report",
+              "id": "8.3. Keterbatasan laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": "This report has been prepared solely for use by OIL should not be relied upon by any other person for any other purpose. In particular, this report has been prepared from an OECD TP perspective only, in accordance with the OECD TP Guidelines in existence at the time of preparation.",
+              "id": "Laporan ini disiapkan semata-mata untuk digunakan oleh OIL dan tidak boleh diandalkan oleh pihak lain mana pun untuk tujuan lain apa pun. Secara khusus, laporan ini disusun hanya dari sudut pandang OECD TP, sejalan dengan Pedoman OECD TP yang ada pada saat penyusunan."
+            },
+            {
+              "type": "paragraph",
+              "en": "During the course of this report, we have referred to a variety of financial and non-financial information. Various published databases of public and private companies have been relied on for the profiles and financial data of the selected comparable companies. Our procedures did not include an independent verification of the financial data contained on the databases and, consequently, we do not express any opinion on any financial or other information referred to in this report.",
+              "id": "Selama penyusunan laporan ini, kami telah merujuk pada berbagai informasi keuangan dan non-keuangan. Berbagai database perusahaan publik dan swasta yang diterbitkan telah diandalkan untuk profil dan data keuangan perusahaan sebanding yang dipilih. Prosedur kami tidak mencakup verifikasi independen terhadap data keuangan yang terdapat pada database dan, sebagai konsekuensinya, kami tidak menyatakan pendapat apa pun atas informasi keuangan atau informasi lainnya yang dirujuk dalam laporan ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "In particular, the analysis and report are subject to the following:",
+              "id": "Secara khusus, analisis dan pelaporan tunduk pada hal-hal berikut:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• The information, documents and facts provided by OIL;\n• Our assumption that the information provided is complete and correct;\n• OIL’s understanding that a misstatement, omission or change in any of the information we have relied on may render our conclusion in the report invalid or necessitate (upon OIL’s request) a reconsideration of the report;\n• The legislation, regulations, cases, rulings and other tax authorities in effect at the date of the report. Any material changes to those tax authorities (for which we shall have no responsibility to advise OIL) may render our conclusion in the report invalid or necessitate (upon OIL’s request) a reconsideration of the report;\n• OIL’s understanding that the conclusions in our report are not binding on the tax authorities or the courts and should not be considered a representation that the tax authorities or the courts will concur with our conclusions;\n• OIL’s understanding that our scope of service excludes our appearance before the tax authorities, in court or in an arbitration proceeding, testifying as an expert witness or other involvement in legal proceedings; and\n• OIL’s understanding that our responsibility for the report and our conclusions are limited to the transactions under review and that our work may not be relied upon, disclosed to, or copied by anyone without our prior written consent. No responsibility will be accepted for loss occasioned to any other person acting on or refraining from action because of our work.",
+              "id": "• Informasi, dokumen, dan fakta yang diberikan oleh OIL;\n• Asumsi kami bahwa informasi yang diberikan adalah lengkap dan benar;\n• Pemahaman OIL bahwa salah saji, kelalaian, atau perubahan apa pun atas informasi yang kami andalkan dapat membuat kesimpulan kami dalam laporan tersebut tidak sah atau mengharuskan (atas permintaan OIL) mempertimbangkan kembali laporan tersebut;\n• Undang-undang, peraturan, kasus, keputusan, dan otoritas pajak lainnya yang berlaku pada tanggal laporan. Setiap perubahan material terhadap otoritas pajak tersebut (yang kami tidak bertanggung jawab untuk memberikan nasihat kepada OIL) dapat membuat kesimpulan kami dalam laporan tersebut tidak sah atau mengharuskan (atas permintaan OIL) untuk mempertimbangkan kembali laporan tersebut;\n• Pemahaman OIL bahwa kesimpulan dalam laporan kami tidak mengikat otoritas pajak atau pengadilan dan tidak boleh dianggap sebagai representasi bahwa otoritas pajak atau pengadilan akan menyetujui kesimpulan kami;\n• Pemahaman OIL bahwa ruang lingkup layanan kami mengecualikan penampilan kami di hadapan otoritas pajak, di pengadilan atau dalam proses arbitrase, memberikan kesaksian sebagai saksi ahli atau keterlibatan lain dalam proses hukum; dan\n• Pemahaman OIL bahwa tanggung jawab kami atas laporan ini dan kesimpulan kami terbatas pada transaksi yang ditinjau dan bahwa pekerjaan kami tidak boleh diandalkan, diungkapkan kepada, atau disalin oleh siapa pun tanpa persetujuan tertulis kami sebelumnya. Tidak ada tanggung jawab yang akan diterima atas kerugian yang ditimbulkan pada pihak lain mana pun yang bertindak atas atau menahan diri dari tindakan yang disebabkan oleh pekerjaan kami."
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Disclaimer - Penafian",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms, and their related entities (collectively, the “Deloitte organisation”). DTTL (also referred to as “Deloitte Global”) and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.",
+              "id": "Deloitte merujuk pada satu atau lebih dari Deloitte Touche Tohmatsu Limited (“DTTL”), jaringan firma anggota globalnya, dan entitas terkaitnya (secara kolektif, “organisasi Deloitte”). DTTL (juga disebut sebagai “Deloitte Global”) dan masing-masing firma anggota dan entitas terkaitnya adalah entitas yang terpisah dan independen secara hukum, yang tidak dapat mewajibkan atau mengikat satu sama lain sehubungan dengan pihak ketiga. DTTL dan masing-masing firma anggota DTTL dan entitas terkait hanya bertanggung jawab atas tindakan dan kelalaiannya sendiri, dan bukan atas tindakan dan kelalaian masing-masing pihak lainnya. DTTL tidak memberikan layanan kepada klien. Silakan lihat www.deloitte.com/about untuk mempelajari lebih lanjut."
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Asia Pacific Limited is a company limited by guarantee and a member firm of DTTL. Members of Deloitte Asia Pacific Limited and their related entities, each of which are separate and independent legal entities, provide services from more than 100 cities across the region, including Auckland, Bangkok, Beijing, Hanoi, Hong Kong, Jakarta, Kuala Lumpur, Manila, Melbourne, Osaka, Seoul, Shanghai, Singapore, Sydney, Taipei and Tokyo.",
+              "id": "Deloitte Asia Pacific Limited adalah perseroan terbatas dengan jaminan dan firma anggota DTTL. Anggota Deloitte Asia Pacific Limited dan entitas terkait, yang masing-masing merupakan badan hukum terpisah dan independen, memberikan layanan dari lebih dari 100 kota di seluruh wilayah, termasuk Auckland, Bangkok, Beijing, Hanoi, Hong Kong, Jakarta, Kuala Lumpur, Manila, Melbourne, Osaka, Seoul, Shanghai, Singapura, Sydney, Taipei, dan Tokyo."
+            },
+            {
+              "type": "paragraph",
+              "en": "About Deloitte Singapore\nIn Singapore, tax services are provided by Deloitte Tax Solutions Pte. Ltd. and other services (where applicable) may be carried out by its subsidiaries and/or affiliates.",
+              "id": "Tentang Deloitte Singapura\nDi Singapura, layanan perpajakan disediakan oleh Deloitte Tax Solutions Pte. Ltd. dan layanan lainnya (jika berlaku) dapat dilakukan oleh anak perusahaan dan/atau afiliasinya."
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Tax Solutions Pte. Ltd. (Unique entity number: 202008330C) is a company incorporated in Singapore under the Companies Act.",
+              "id": "Deloitte Tax Solutions Pte. Ltd. (Nomor entitas unik: 202008330C) adalah perusahaan yang didirikan di Singapura berdasarkan Undang-Undang Perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Disclaimer\nThis communication contains general information only, and none of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms or their related entities (collectively, the “Deloitte organisation”) is, by means of this communication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should consult a qualified professional adviser. No representations, warranties or undertakings (express or implied) are given as to the accuracy or completeness of the information in this communication, and none of DTTL, its member firms, related entities, employees or agents shall be liable or responsible for any loss or damage whatsoever arising directly or indirectly in connection with any person relying on this communication. DTTL and each of its member firms, and their related entities, are legally separate and independent entities.",
+              "id": "Penafian\nKomunikasi ini hanya memuat informasi umum, dan tidak satupun dari Deloitte Touche Tohmatsu Limited (“DTTL”), jaringan firma anggota globalnya atau entitas terkaitnya (secara kolektif, “organisasi Deloitte”) melalui komunikasi ini, yang memberikan nasihat atau layanan profesional. Sebelum membuat keputusan atau mengambil tindakan apa pun yang dapat memengaruhi keuangan atau bisnis Anda, Anda harus berkonsultasi dengan penasihat profesional yang berkualifikasi. Tidak ada representasi, jaminan, atau usaha (tersurat maupun tersirat) yang diberikan mengenai keakuratan atau kelengkapan informasi dalam komunikasi ini, dan baik DTTL, firma anggota, entitas terkait, karyawan, atau agennya tidak akan dimintai pertanggungjawaban atau bertanggung jawab atas kerugian apa pun atau kerusakan apa pun yang timbul secara langsung atau tidak langsung sehubungan dengan siapa pun yang mengandalkan komunikasi ini. DTTL dan masing-masing firma anggotanya, serta entitas terkaitnya, adalah entitas yang terpisah dan independen secara hukum."
+            },
+            {
+              "type": "paragraph",
+              "en": "© 2025 Deloitte Tax Solutions Pte. Ltd.",
+              "id": "© 2025 Deloitte Tax Solutions Pte. Ltd."
+            }
+          ]
+        },
+        {
+          "id": "appendix-a",
+          "title": "Appendix A. ofi Group – Legal and ownership structure",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Entity Name",
+                  "id": "Nama Entitas"
+                },
+                {
+                  "en": "Country",
+                  "id": "Negara"
+                },
+                {
+                  "en": "% held by the Group",
+                  "id": "% yang dimiliki oleh Grup"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "EURL Agri Commodities",
+                    "id": "EURL Agri Commodities"
+                  },
+                  {
+                    "en": "Algeria",
+                    "id": "Aljazair"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Almonds Australia Pty Ltd",
+                    "id": "Olam Almonds Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia",
+                    "id": "Australia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Australia Proprietary Limited",
+                    "id": "Olam Food Ingredients Australia Proprietary Limited"
+                  },
+                  {
+                    "en": "Australia",
+                    "id": "Australia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Orchards Australia Pty Ltd",
+                    "id": "Olam Orchards Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia",
+                    "id": "Australia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agricola Ltda",
+                    "id": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "Brazil",
+                    "id": "Brasil"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Armazens Gerais Ltda",
+                    "id": "Olam Armazens Gerais Ltda"
+                  },
+                  {
+                    "en": "Brazil",
+                    "id": "Brasil"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Burkina Sarl",
+                    "id": "Olam Burkina Sarl"
+                  },
+                  {
+                    "en": "Burkina Faso",
+                    "id": "Burkina Faso"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Ikawa Nziza Sprl",
+                    "id": "Ikawa Nziza Sprl"
+                  },
+                  {
+                    "en": "Burundi",
+                    "id": "Burundi"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Outspan (Cambodia) Co., Ltd.",
+                    "id": "Olam Outspan (Cambodia) Co., Ltd."
+                  },
+                  {
+                    "en": "Cambodia",
+                    "id": "Kamboja"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Cameroon S.A.",
+                    "id": "Olam Food Ingredients Cameroon S.A."
+                  },
+                  {
+                    "en": "Cameroon",
+                    "id": "Kamerun"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Club Coffee Company Inc.",
+                    "id": "Club Coffee Company Inc."
+                  },
+                  {
+                    "en": "Canada",
+                    "id": "Kanada"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Club Coffee L.P.",
+                    "id": "Club Coffee L.P."
+                  },
+                  {
+                    "en": "Canada",
+                    "id": "Kanada"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Northern Lights Research Inc.",
+                    "id": "Northern Lights Research Inc."
+                  },
+                  {
+                    "en": "Canada",
+                    "id": "Kanada"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Canada Inc.",
+                    "id": "Olam Canada Inc."
+                  },
+                  {
+                    "en": "Canada",
+                    "id": "Kanada"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Squirrel (Wuhu) Co Ltd",
+                    "id": "OFI Squirrel (Wuhu) Co Ltd"
+                  },
+                  {
+                    "en": "China",
+                    "id": "Tiongkok"
+                  },
+                  {
+                    "en": "80",
+                    "id": "80"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Shanghai Limited",
+                    "id": "Olam Food Ingredients Shanghai Limited"
+                  },
+                  {
+                    "en": "China",
+                    "id": "Tiongkok"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Shandong Key Foods Co. Ltd",
+                    "id": "Shandong Key Foods Co. Ltd"
+                  },
+                  {
+                    "en": "China",
+                    "id": "Tiongkok"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Ofi (Wuhu) Co.,Ltd",
+                    "id": "Ofi (Wuhu) Co.,Ltd"
+                  },
+                  {
+                    "en": "China",
+                    "id": "Tiongkok"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Colombia SAS",
+                    "id": "Olam Agro Colombia SAS"
+                  },
+                  {
+                    "en": "Colombia",
+                    "id": "Kolombia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Virunga Coffee SARL",
+                    "id": "Virunga Coffee SARL"
+                  },
+                  {
+                    "en": "The Democratic Republic Of the Congo",
+                    "id": "Republik Demokratik Kongo"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ecuador SA",
+                    "id": "Olam Ecuador SA"
+                  },
+                  {
+                    "en": "Ecuador",
+                    "id": "Ekuador"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Agri Commodities L.L.C.",
+                    "id": "Agri Commodities L.L.C."
+                  },
+                  {
+                    "en": "Egypt",
+                    "id": "Mesir"
+                  },
+                  {
+                    "en": "99.995",
+                    "id": "99.995"
+                  }
+                ],
+                [
+                  {
+                    "en": "Dehydro Foods S.A.E.",
+                    "id": "Dehydro Foods S.A.E."
+                  },
+                  {
+                    "en": "Egypt",
+                    "id": "Mesir"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Georgia LLC",
+                    "id": "Olam Georgia LLC"
+                  },
+                  {
+                    "en": "Georgia",
+                    "id": "Georgia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch Importhandels GmbH",
+                    "id": "Marsch Importhandels GmbH"
+                  },
+                  {
+                    "en": "Germany",
+                    "id": "Jerman"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch International GmbH",
+                    "id": "Marsch International GmbH"
+                  },
+                  {
+                    "en": "Germany",
+                    "id": "Jerman"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Deutschland GmbH",
+                    "id": "Olam Cocoa Deutschland GmbH"
+                  },
+                  {
+                    "en": "Germany",
+                    "id": "Jerman"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Deutschland GmbH",
+                    "id": "Olam Deutschland GmbH"
+                  },
+                  {
+                    "en": "Germany",
+                    "id": "Jerman"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Ghana Limited",
+                    "id": "Olam Cocoa Processing Ghana Limited"
+                  },
+                  {
+                    "en": "Ghana",
+                    "id": "Ghana"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ghana Ltd",
+                    "id": "Olam Food Ingredients Ghana Ltd"
+                  },
+                  {
+                    "en": "Ghana",
+                    "id": "Ghana"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Guatemala SA",
+                    "id": "Olam Agro Guatemala SA"
+                  },
+                  {
+                    "en": "Guatemala",
+                    "id": "Guatemala"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Honduras S.A. de C.V",
+                    "id": "Olam Honduras S.A. de C.V"
+                  },
+                  {
+                    "en": "Honduras",
+                    "id": "Honduras"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Enterprises India Private Limited",
+                    "id": "Olam Enterprises India Private Limited"
+                  },
+                  {
+                    "en": "India",
+                    "id": "India"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro India Private Limited)",
+                    "id": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro India Private Limited)"
+                  },
+                  {
+                    "en": "India",
+                    "id": "India"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Innovation Centre India Private Limited",
+                    "id": "Olam Innovation Centre India Private Limited"
+                  },
+                  {
+                    "en": "India",
+                    "id": "India"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Bumitangerang Mesindotama",
+                    "id": "PT Bumitangerang Mesindotama"
+                  },
+                  {
+                    "en": "Indonesia",
+                    "id": "Indonesia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Dipankara Dhanya Indonesia",
+                    "id": "PT Dipankara Dhanya Indonesia"
+                  },
+                  {
+                    "en": "Indonesia",
+                    "id": "Indonesia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Cocoa Indonesia",
+                    "id": "PT Olam Cocoa Indonesia"
+                  },
+                  {
+                    "en": "Indonesia",
+                    "id": "Indonesia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Indonesia",
+                    "id": "PT Olam Indonesia"
+                  },
+                  {
+                    "en": "Indonesia",
+                    "id": "Indonesia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Insurance Limited",
+                    "id": "Olam Insurance Limited"
+                  },
+                  {
+                    "en": "Isle of Man",
+                    "id": "Isle of Man"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Italia S.R.L",
+                    "id": "Olam Italia S.R.L"
+                  },
+                  {
+                    "en": "Italy",
+                    "id": "Italia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Blenda SRL",
+                    "id": "Blenda SRL"
+                  },
+                  {
+                    "en": "Italy",
+                    "id": "Italia"
+                  },
+                  {
+                    "en": "70",
+                    "id": "70"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Cote d Ivoire",
+                    "id": "Olam Cocoa Processing Cote d Ivoire"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ivoire Sarl",
+                    "id": "Olam Ivoire Sarl"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Ivoire",
+                    "id": "Outspan Ivoire"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Bolovens Limited",
+                    "id": "Outspan Bolovens Limited"
+                  },
+                  {
+                    "en": "Lao People's Democratic Republic",
+                    "id": "Republik Demokratik Rakyat Laos"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa (Sabah) Sdn. Bhd.",
+                    "id": "Olam Cocoa (Sabah) Sdn. Bhd."
+                  },
+                  {
+                    "en": "Malaysia",
+                    "id": "Malaysia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Malaysia Sdn. Bhd.",
+                    "id": "Outspan Malaysia Sdn. Bhd."
+                  },
+                  {
+                    "en": "Malaysia",
+                    "id": "Malaysia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI MALAYSIA SDN. BHD",
+                    "id": "OFI MALAYSIA SDN. BHD"
+                  },
+                  {
+                    "en": "Malaysia",
+                    "id": "Malaysia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Investments Limited",
+                    "id": "Olam Investments Limited"
+                  },
+                  {
+                    "en": "Mauritius",
+                    "id": "Mauritius"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Mexico S.A. de C.V.",
+                    "id": "Olam Agro Mexico S.A. de C.V."
+                  },
+                  {
+                    "en": "Mexico",
+                    "id": "Meksiko"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V.",
+                    "id": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa B.V.",
+                    "id": "Olam Cocoa B.V."
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa International B.V.",
+                    "id": "Olam Cocoa International B.V."
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Europe B.V",
+                    "id": "Olam Europe B.V"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holding BV",
+                    "id": "Olam Holding BV"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Services B.V",
+                    "id": "Olam Services B.V"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Holdings BV",
+                    "id": "ofi Holdings BV"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Brands BV",
+                    "id": "ofi Brands BV"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi AtSource BV",
+                    "id": "ofi AtSource BV"
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury B.V.",
+                    "id": "Olam Treasury B.V."
+                  },
+                  {
+                    "en": "Netherlands",
+                    "id": "Belanda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients New Zealand Limited",
+                    "id": "Olam Food Ingredients New Zealand Limited"
+                  },
+                  {
+                    "en": "New Zealand",
+                    "id": "Selandia Baru"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Nicaragua S.A.",
+                    "id": "Olam Nicaragua S.A."
+                  },
+                  {
+                    "en": "Nicaragua",
+                    "id": "Nikaragua"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Nigeria Ltd",
+                    "id": "Outspan Nigeria Ltd"
+                  },
+                  {
+                    "en": "Nigeria",
+                    "id": "Nigeria"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan PNG Limited",
+                    "id": "Outspan PNG Limited"
+                  },
+                  {
+                    "en": "Papua New Guinea",
+                    "id": "Papua Nugini"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Peru SAC",
+                    "id": "Olam Agro Peru SAC"
+                  },
+                  {
+                    "en": "Peru",
+                    "id": "Peru"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Philippines Inc",
+                    "id": "Olam Food Ingredients Philippines Inc"
+                  },
+                  {
+                    "en": "Philippines",
+                    "id": "Filipina"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Polska Sp. Z.o.o.",
+                    "id": "Olam Polska Sp. Z.o.o."
+                  },
+                  {
+                    "en": "Poland",
+                    "id": "Polandia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Agrohub Commodities Pte Ltd",
+                    "id": "Agrohub Commodities Pte Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Pte Ltd",
+                    "id": "Olam Cocoa Pte Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Vietnam Pte. Ltd.",
+                    "id": "Olam Food Ingredients Vietnam Pte. Ltd."
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam International Limited",
+                    "id": "Olam International Limited"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury Pte Ltd",
+                    "id": "Olam Treasury Pte Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "YTS Holdings Pte Ltd",
+                    "id": "YTS Holdings Pte Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Spain S.L.",
+                    "id": "Olam Food Ingredients Spain S.L."
+                  },
+                  {
+                    "en": "Spain",
+                    "id": "Spanyol"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seda Outspan Iberia S.L (Sociedad Unipersonal)",
+                    "id": "Seda Outspan Iberia S.L (Sociedad Unipersonal)"
+                  },
+                  {
+                    "en": "Spain",
+                    "id": "Spanyol"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Suisse Sarl",
+                    "id": "Olam Suisse Sarl"
+                  },
+                  {
+                    "en": "Switzerland",
+                    "id": "Swiss"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Schluter SA",
+                    "id": "Schluter SA"
+                  },
+                  {
+                    "en": "Switzerland",
+                    "id": "Swiss"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Aviv Tanzania Limited",
+                    "id": "Aviv Tanzania Limited"
+                  },
+                  {
+                    "en": "Tanzania",
+                    "id": "Tanzania"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Agro Timor Unipessoal LDA",
+                    "id": "Outspan Agro Timor Unipessoal LDA"
+                  },
+                  {
+                    "en": "Timor-Leste",
+                    "id": "Timor Leste"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Tarim Sanayi ve Ticaret A.Ş (f.k.a. Progıda Tarım Űrűnleri Sanayi ve Ticaret A.Ş.)",
+                    "id": "ofi Tarim Sanayi ve Ticaret A.Ş (f.k.a. Progıda Tarım Űrűnleri Sanayi ve Ticaret A.Ş.)"
+                  },
+                  {
+                    "en": "Turkey",
+                    "id": "Turki"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Tarim Urunleri Yem Maddeleri Sanayi ve Ticaret Limited Sirketi",
+                    "id": "Olam Tarim Urunleri Yem Maddeleri Sanayi ve Ticaret Limited Sirketi"
+                  },
+                  {
+                    "en": "Turkey",
+                    "id": "Turki"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam (Uganda) Limited",
+                    "id": "Olam (Uganda) Limited"
+                  },
+                  {
+                    "en": "Uganda",
+                    "id": "Uganda"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ukraine LLC",
+                    "id": "Olam Food Ingredients Ukraine LLC"
+                  },
+                  {
+                    "en": "Ukraine",
+                    "id": "Ukraina"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients DMCC",
+                    "id": "Olam Food Ingredients DMCC"
+                  },
+                  {
+                    "en": "United Arab Emirates",
+                    "id": "Uni Emirat Arab"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Middle East (L.L.C.)",
+                    "id": "Olam Middle East (L.L.C.)"
+                  },
+                  {
+                    "en": "United Arab Emirates",
+                    "id": "Uni Emirat Arab"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Covoya Ltd (f.k.a.Olam Specialty Coffee Europe)",
+                    "id": "Covoya Ltd (f.k.a.Olam Specialty Coffee Europe)"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch Import Ltd",
+                    "id": "Marsch Import Ltd"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Group Limited",
+                    "id": "OFI Group Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Europe Limited",
+                    "id": "Olam Europe Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients UK Limited",
+                    "id": "Olam Food Ingredients UK Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam International UK Limited",
+                    "id": "Olam International UK Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Storage & Distribution Limited",
+                    "id": "Olam Storage & Distribution Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Group Nominees Limited",
+                    "id": "OFI Group Nominees Limited"
+                  },
+                  {
+                    "en": "United Kingdom",
+                    "id": "Inggris Raya"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Gel Spice Co, Inc",
+                    "id": "Gel Spice Co, Inc"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Gel Spice Co, LLC",
+                    "id": "Gel Spice Co, LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Hughson Nut, Inc",
+                    "id": "Hughson Nut, Inc"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Americas, LLC.",
+                    "id": "Olam Americas, LLC."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Chile Peppers, LLC",
+                    "id": "Olam Chile Peppers, LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Farming, Inc.",
+                    "id": "Olam Farming, Inc."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings Inc.",
+                    "id": "Olam Holdings Inc."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam OT Holdings, LLC",
+                    "id": "Olam OT Holdings, LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Peanut Shelling Company Inc",
+                    "id": "Olam Peanut Shelling Company Inc"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam US Holdings, Inc.",
+                    "id": "Olam US Holdings, Inc."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam West Coast Inc.",
+                    "id": "Olam West Coast Inc."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olde Thompson, LLC",
+                    "id": "Olde Thompson, LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Acquisition Co. LLC",
+                    "id": "OT Acquisition Co. LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Borrower LLC",
+                    "id": "OT Borrower LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Guarantor LLC",
+                    "id": "OT Guarantor LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Holdings Corp.",
+                    "id": "OT Holdings Corp."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Intermediate LLC",
+                    "id": "OT Intermediate LLC"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seabrook Enterprises Inc.",
+                    "id": "Seabrook Enterprises Inc."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Universal Blanchers, L.L.C.",
+                    "id": "Universal Blanchers, L.L.C."
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Cafe Outspan Vietnam Limited",
+                    "id": "Cafe Outspan Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Food Processing Company Limited",
+                    "id": "Olam Vietnam Food Processing Company Limited"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Limited",
+                    "id": "Olam Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Truong Thinh Investment and Construction Joint Stock Company",
+                    "id": "Truong Thinh Investment and Construction Joint Stock Company"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Northern Coffee Corporation Limited",
+                    "id": "Northern Coffee Corporation Limited"
+                  },
+                  {
+                    "en": "Zambia",
+                    "id": "Zambia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Zambia Limited",
+                    "id": "Olam Zambia Limited"
+                  },
+                  {
+                    "en": "Zambia",
+                    "id": "Zambia"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "List of subsidiaries as at 31.12.2024",
+              "id": "Daftar anak perusahaan per 31.12.2024"
+            }
+          ]
+        },
+        {
+          "id": "appendix-b",
+          "title": "Appendix B. List of key ofi Group entities",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Operating entity",
+                  "id": "Entitas operasi"
+                },
+                {
+                  "en": "Geographical location",
+                  "id": "Lokasi geografis"
+                },
+                {
+                  "en": "Principal activities",
+                  "id": "Aktivitas utama"
+                },
+                {
+                  "en": "Effective percentage of equity held by the Group in FY 2024 (%)",
+                  "id": "Persentase efektif ekuitas yang dimiliki oleh Grup pada TA 2024 (%)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam International Limited",
+                    "id": "Olam International Limited"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "(a), (b)",
+                    "id": "(a), (b)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury Pte. Ltd",
+                    "id": "Olam Treasury Pte. Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "(d)",
+                    "id": "(d)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Pte. Ltd",
+                    "id": "Olam Cocoa Pte. Ltd"
+                  },
+                  {
+                    "en": "Singapore",
+                    "id": "Singapura"
+                  },
+                  {
+                    "en": "(a), (b)",
+                    "id": "(a), (b)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Ghana Limited",
+                    "id": "Olam Cocoa Processing Ghana Limited"
+                  },
+                  {
+                    "en": "Ghana",
+                    "id": "Ghana"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ghana Ltd",
+                    "id": "Olam Food Ingredients Ghana Ltd"
+                  },
+                  {
+                    "en": "Ghana",
+                    "id": "Ghana"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ivoire SA",
+                    "id": "Olam Ivoire SA"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Ivoire SA",
+                    "id": "Outspan Ivoire SA"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Cote d’ Ivoire",
+                    "id": "Olam Cocoa Processing Cote d’ Ivoire"
+                  },
+                  {
+                    "en": "Ivory Coast",
+                    "id": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Nigeria Limited",
+                    "id": "Outspan Nigeria Limited"
+                  },
+                  {
+                    "en": "Nigeria",
+                    "id": "Nigeria"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Limited",
+                    "id": "Olam Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Café Outspan Vietnam Limited",
+                    "id": "Café Outspan Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam",
+                    "id": "Vietnam"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Indonesia",
+                    "id": "PT Olam Indonesia"
+                  },
+                  {
+                    "en": "Indonesia",
+                    "id": "Indonesia"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro  India Private Limited)",
+                    "id": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro  India Private Limited)"
+                  },
+                  {
+                    "en": "India",
+                    "id": "India"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agricola Ltda.",
+                    "id": "Olam Agricola Ltda."
+                  },
+                  {
+                    "en": "Brazil",
+                    "id": "Brasil"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings Inc",
+                    "id": "Olam Holdings Inc"
+                  },
+                  {
+                    "en": "United States",
+                    "id": "Amerika Serikat"
+                  },
+                  {
+                    "en": "(b), (d)",
+                    "id": "(b), (d)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Orchards Australia Pty Ltd",
+                    "id": "Olam Orchards Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia",
+                    "id": "Australia"
+                  },
+                  {
+                    "en": "(a), (c)",
+                    "id": "(a), (c)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients New Zealand Limited",
+                    "id": "Olam Food Ingredients New Zealand Limited"
+                  },
+                  {
+                    "en": "New Zealand",
+                    "id": "Selandia Baru"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seda Outspan Iberia S.L.",
+                    "id": "Seda Outspan Iberia S.L."
+                  },
+                  {
+                    "en": "Spain",
+                    "id": "Spanyol"
+                  },
+                  {
+                    "en": "(a)",
+                    "id": "(a)"
+                  },
+                  {
+                    "en": "100",
+                    "id": "100"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "Source: Olam Group Limited Annual Report 2024 (pages 217)\n(a) Sourcing, processing, packaging and merchandising of agricultural products and inputs\n(b) Investment holding\n(c) Agricultural operations\n(d) Treasury activities",
+              "id": "Sumber: Laporan Tahunan Olam Group Limited 2024 (halaman 217)\n(a) Pengadaan, pemrosesan, pengemasan, dan perdagangan produk serta input pertanian\n(b) Perusahaan induk investasi\n(c) Operasi pertanian\n(d) Aktivitas perbendaharaan"
+            }
+          ]
+        }
+      ],
+      "V3T": [
+        {
+          "id": "table-of-contents",
+          "title": "2 Daftar isi",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "1. Ringkasan Eksekutif"
+            },
+            {
+              "type": "paragraph",
+              "en": " Perkenalan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Tujuan dan ruang lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Persyaratan konten Master File"
+            },
+            {
+              "type": "paragraph",
+              "en": "2. Struktur Organisasi"
+            },
+            {
+              "type": "paragraph",
+              "en": " Latar belakang"
+            },
+            {
+              "type": "paragraph",
+              "en": " Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Lokasi geografis"
+            },
+            {
+              "type": "paragraph",
+              "en": "3. Bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": " Sekilas tentang bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": " Produk / Segmen bisnis / Pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": " Penggerak penting laba bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": " Ringkasan analisis fungsional"
+            },
+            {
+              "type": "paragraph",
+              "en": " Akuisisi dan divestasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "4. Aktiva Tidak Berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": " Tinjauan Umum & Strategi Grup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Organisasi Litbang"
+            },
+            {
+              "type": "paragraph",
+              "en": " Rincian aktiva tidak berwujud utama"
+            },
+            {
+              "type": "paragraph",
+              "en": " Perjanjian penting dan kebijakan penentuan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": " Transfer penting dari aktiva tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "5. Aktivitas Keuangan Antar Perusahaan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Tinjauan pembiayaan grup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Pengaturan pembiayaan eksternal"
+            },
+            {
+              "type": "paragraph",
+              "en": " Fungsi pembiayaan terpusat"
+            },
+            {
+              "type": "paragraph",
+              "en": " Pembiayaan antar perusahaan – kebijakan penentuan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "6. Perjanjian Layanan Penting"
+            },
+            {
+              "type": "paragraph",
+              "en": "7. Posisi keuangan dan perpajakan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Hasil keuangan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Perjanjian Harga di Muka (\"APA\") dan peraturan perpajakan lainnya"
+            },
+            {
+              "type": "paragraph",
+              "en": "8. Ruang Lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": " Ruang lingkup laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Pekerjaan dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": " Keterbatasan laporan"
+            }
+          ]
+        },
+        {
+          "id": "list-of-appendices",
+          "title": "3 Daftar lampiran",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Lampiran A. Grup ofi – Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Lampiran B. Daftar entitas utama Grup ofi"
+            }
+          ]
+        },
+        {
+          "id": "glossary",
+          "title": "4 Glosarium",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Singkatan"
+                },
+                {
+                  "en": "Nama lengkap / deskripsi"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "APA"
+                  },
+                  {
+                    "en": "Kesepakatan Harga Transfer (Advance Pricing Arrangement)"
+                  }
+                ],
+                [
+                  {
+                    "en": "B2B"
+                  },
+                  {
+                    "en": "Bisnis-ke-Bisnis"
+                  }
+                ],
+                [
+                  {
+                    "en": "B2C"
+                  },
+                  {
+                    "en": "Bisnis-ke-Konsumen"
+                  }
+                ],
+                [
+                  {
+                    "en": "BEPS"
+                  },
+                  {
+                    "en": "Penggerusan Basis Pengenaan Pajak dan Penggeseran Laba (Base Erosion Profit Shifting)"
+                  }
+                ],
+                [
+                  {
+                    "en": "CSC"
+                  },
+                  {
+                    "en": "Pusat Solusi Pelanggan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Deloitte Singapore, kami atau milik kami"
+                  },
+                  {
+                    "en": "Deloitte Singapore Tax Services Pte. Ltd."
+                  }
+                ],
+                [
+                  {
+                    "en": "GKAM"
+                  },
+                  {
+                    "en": "Manajer Akun Utama Global"
+                  }
+                ],
+                [
+                  {
+                    "en": "IEC"
+                  },
+                  {
+                    "en": "Pusat Keunggulan Bahan (Ingredient Excellence Centre)"
+                  }
+                ],
+                [
+                  {
+                    "en": "IP"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual"
+                  }
+                ],
+                [
+                  {
+                    "en": "MTN"
+                  },
+                  {
+                    "en": "Wesel bayar jangka menengah"
+                  }
+                ],
+                [
+                  {
+                    "en": "Incoterms"
+                  },
+                  {
+                    "en": "Syarat Perdagangan Internasional"
+                  }
+                ],
+                [
+                  {
+                    "en": "M&A"
+                  },
+                  {
+                    "en": "Penggabungan & Akuisisi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OECD"
+                  },
+                  {
+                    "en": "Organisasi Kerja Sama dan Pembangunan Ekonomi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OECD TP Guidelines"
+                  },
+                  {
+                    "en": "Pedoman Penentuan Harga Transfer OECD untuk Perusahaan Multinasional dan Administrasi Pajak"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFIS"
+                  },
+                  {
+                    "en": "Sistem Informasi Petani Olam"
+                  }
+                ],
+                [
+                  {
+                    "en": "OGL"
+                  },
+                  {
+                    "en": "Olam Group Limited"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agri"
+                  },
+                  {
+                    "en": "Grup Olam Agri"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Group atau Grup"
+                  },
+                  {
+                    "en": "Olam Food Ingredients"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Olam International Limited"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL"
+                  },
+                  {
+                    "en": "Olam Treasury Pte Ltd"
+                  }
+                ],
+                [
+                  {
+                    "en": "p.a."
+                  },
+                  {
+                    "en": "per tahun"
+                  }
+                ],
+                [
+                  {
+                    "en": "OHBV"
+                  },
+                  {
+                    "en": "Olam Holdings B.V."
+                  }
+                ],
+                [
+                  {
+                    "en": "R&D"
+                  },
+                  {
+                    "en": "Penelitian dan Pengembangan"
+                  }
+                ],
+                [
+                  {
+                    "en": "SALIC"
+                  },
+                  {
+                    "en": "Saudi Agricultural and Livestock Investment Company"
+                  }
+                ],
+                [
+                  {
+                    "en": "TP"
+                  },
+                  {
+                    "en": "Penentuan Harga Transfer"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "title": "1. Executive summary - Ringkasan Eksekutif",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "1.1. Perkenalan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Olam Group (bersama dengan afiliasinya di seluruh dunia) adalah perusahaan pangan dan agrobisnis terkemuka yang memasok makanan, bahan-bahan, pakan, dan serat kepada pelanggan di seluruh dunia. Rantai nilai Grup mencakup lebih dari 60 negara dan mencakup operasi pertanian, produksi, pemrosesan, dan distribusi."
+            },
+            {
+              "type": "paragraph",
+              "en": "Olam Group terdaftar di papan utama Singapore Exchange dan didukung oleh pemegang saham besar yaitu, Temasek Holdings (51,8%), Mitsubishi Corporation (14,6%), Kewalram Chanrai Group (7,0%) dan Direktur Olam (4,4%). 1"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pada bulan Januari 2020, Olam Group mengumumkan rencana reorganisasi transformasional untuk membagi Grup menjadi tiga grup operasi yang berbeda dan koheren yang dipimpin oleh Tujuan dan siap menghadapi masa depan, guna memaksimalkan nilai jangka panjang Olam Group secara berkelanjutan. Pada bulan Januari 2022, Olam Group secara substansial telah menyelesaikan pemisahan bisnisnya menjadi tiga grup operasi - Olam Agri (“Olam Agri Group”), Olam Food Ingredients (“ofi Group” atau “Grup”), dan Sisa Olam Group. 2"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pada tanggal 18 Februari 2022, pemegang saham menyetujui usulan restrukturisasi Grup melalui Skema Pengaturan, yang mulai berlaku pada tanggal 15 Maret 2022, dengan Olam Group Limited (“OGL”) sebagai perusahaan induk baru yang masing-masing memegang 100% ofi Group, Olam Agri Group, dan Sisa Olam Group. 3 Saham OGL dicatatkan di papan utama SGX-ST pada tanggal 16 Maret 2022, dengan Olam International Limited (“OIL”) dihapuskan pencatatannya pada saat yang bersamaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Dokumen Induk ini disiapkan untuk mencakup pengaturan bisnis/komersial (termasuk aktivitas keuangan antar perusahaan, kebijakan harga transfer dan aktiva tidak berwujud, dll.) dari ofi Group saja. 4"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group adalah pemasok bahan dan solusi terintegrasi terkemuka di bidang makanan dan minuman, menawarkan bahan makanan dan solusi yang berkelanjutan, alami, dan bernilai tambah. Pada akhir TA 2024, ofi Group beroperasi di 50 negara dan memiliki tenaga kerja sebanyak 18.000 karyawan. 5"
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Tax Solutions Pte. Ltd. (“Deloitte Singapore”, “kami”) ditunjuk oleh OIL untuk menyiapkan Dokumen Induk untuk ofi Group – sebuah dokumen Penentuan Harga Transfer (“TP”) yang menjelaskan operasi dan kebijakan harga transfer umum ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Laporan ini (selanjutnya disebut sebagai “Laporan” atau “Dokumen Induk ofi Group”) disusun berdasarkan Organisasi untuk Kerja Sama Ekonomi dan Pembangunan (“OECD”) Pedoman Harga Transfer untuk Perusahaan Multinasional dan Administrasi Pajak (“Pedoman TP OECD”), yang diterbitkan oleh Organisasi untuk Kerja Sama Ekonomi dan Pembangunan pada bulan Juli 1995, dan kemudian diubah pada tanggal 20 Januari 2022. Pendekatan dokumentasi yang diterapkan di bawah ini sejalan dengan rekomendasi Laporan Akhir Pengikisan Basis Pengalihan Laba (“BEPS”) Aksi 13 OECD tahun 2015 tentang Dokumentasi Harga Transfer dan Pelaporan per Negara."
+            },
+            {
+              "type": "paragraph",
+              "en": "1.2. Tujuan dan ruang lingkup"
+            },
+            {
+              "type": "paragraph",
+              "en": "Dokumen Induk ini memberikan gambaran umum mengenai bisnis ofi Group, termasuk sifat operasi bisnis globalnya, kebijakan penetapan harga transfer secara keseluruhan, dan alokasi pendapatan dan aktivitas ekonomi global. Dokumen ini bermaksud untuk memberikan ringkasan tingkat tinggi untuk menempatkan praktik penetapan harga transfer ofi Group dalam konteks ekonomi, hukum, keuangan, dan pajak global."
+            },
+            {
+              "type": "paragraph",
+              "en": "Dokumen Induk selaras dengan Dokumen Lokal harga transfer individu untuk berbagai entitas ofi Group dan membantu ofi Group dalam menunjukkan bahwa Grup telah mematuhi prinsip kewajaran dan kelaziman usaha sebagaimana diatur dalam Pedoman OECD."
+            },
+            {
+              "type": "paragraph",
+              "en": "Dokumen Induk ini memberikan ikhtisar bisnis global ofi Group untuk TA 2024. Oleh karena itu, informasi mengenai setiap wilayah operasi dapat ditemukan di Dokumen Lokal terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "1.3. Persyaratan konten Dokumen Induk"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel di bawah ini menyajikan ringkasan persyaratan Dokumen Induk yang tercantum dalam Lampiran I Bab V Pedoman TP OECD dan menunjukkan di bagian mana dalam dokumen ini masing-masing persyaratan tersebut dipenuhi."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Persyaratan"
+                },
+                {
+                  "en": "Referensi Bagian"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Struktur organisasi\n• Bagan yang menggambarkan struktur hukum dan kepemilikan MNE serta lokasi geografis entitas operasi."
+                  },
+                  {
+                    "en": "Bagian 2"
+                  }
+                ],
+                [
+                  {
+                    "en": "Deskripsi bisnis MNE – Uraian tertulis umum mengenai bisnis MNE meliputi:\n• Penggerak penting keuntungan bisnis."
+                  },
+                  {
+                    "en": "Bagian 3.3"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Deskripsi rantai pasokan untuk lima produk dan/atau layanan terbesar yang ditawarkan grup berdasarkan omset ditambah produk dan/atau layanan lainnya yang berjumlah lebih dari 5 persen omset grup. Uraian yang diperlukan dapat berbentuk bagan atau diagram."
+                  },
+                  {
+                    "en": "Bagian 3.1, 3.2"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Uraian mengenai pasar geografis utama untuk produk dan layanan grup yang dimaksud pada poin di atas."
+                  },
+                  {
+                    "en": "Bagian 3.2"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Analisis fungsional tertulis singkat yang menggambarkan kontribusi utama terhadap penciptaan nilai oleh masing-masing entitas dalam grup, yaitu fungsi-fungsi utama yang dijalankan, risiko-risiko penting yang diambil, dan aset-aset penting yang digunakan."
+                  },
+                  {
+                    "en": "Bagian 3.4"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Deskripsi transaksi restrukturisasi bisnis penting, akuisisi dan divestasi yang terjadi selama tahun fiskal."
+                  },
+                  {
+                    "en": "Bagian 3.5"
+                  }
+                ],
+                [
+                  {
+                    "en": "Aktiva tidak berwujud MNE\n• Gambaran umum mengenai keseluruhan strategi MNE untuk pengembangan, kepemilikan dan eksploitasi aset tidak berwujud, termasuk lokasi fasilitas penelitian dan pengembangan utama dan lokasi manajemen penelitian dan pengembangan."
+                  },
+                  {
+                    "en": "Bagian 4"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Daftar aktiva tidak berwujud atau kelompok aktiva tidak berwujud grup MNE yang penting untuk tujuan transfer pricing dan entitas mana yang memilikinya secara sah.\n• Daftar perjanjian penting di antara perusahaan asosiasi yang teridentifikasi terkait dengan aset tidak berwujud, termasuk pengaturan kontribusi biaya, perjanjian layanan penelitian utama, dan perjanjian lisensi.\n• Gambaran umum tentang kebijakan penetapan harga transfer grup terkait dengan penelitian dan pengembangan dan aktiva tidak berwujud.\n• Gambaran umum mengenai setiap pengalihan kepentingan tidak berwujud yang penting di antara perusahaan asosiasi selama tahun fiskal yang bersangkutan, termasuk entitas, negara, dan kompensasi yang terlibat."
+                  },
+                  {
+                    "en": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "Aktivitas keuangan antar perusahaan MNE\n• Gambaran umum tentang bagaimana kelompok ini dibiayai, termasuk pengaturan pembiayaan penting dengan pemberi pinjaman yang tidak terkait."
+                  },
+                  {
+                    "en": "Bagian 5"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Identifikasi setiap anggota grup MNE yang menyediakan fungsi pendanaan sentral bagi grup tersebut, termasuk negara yang berdasarkan undang-undangnya entitas tersebut didirikan dan tempat pengelolaan efektif entitas tersebut.\n• Gambaran umum kebijakan umum penetapan harga transfer MNE terkait dengan pengaturan pembiayaan antar perusahaan asosiasi."
+                  },
+                  {
+                    "en": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "Perjanjian layanan penting MNE\n• Daftar dan deskripsi singkat mengenai pengaturan layanan penting antar anggota grup MNE, selain layanan penelitian dan pengembangan (R&D), termasuk deskripsi kemampuan lokasi utama yang menyediakan layanan penting dan kebijakan harga transfer untuk mengalokasikan biaya layanan dan menentukan harga yang harus dibayar untuk layanan intra-grup."
+                  },
+                  {
+                    "en": "Bagian 6"
+                  }
+                ],
+                [
+                  {
+                    "en": "posisi keuangan dan pajak MNE\n• Laporan keuangan konsolidasi tahunan MNE untuk tahun fiskal yang bersangkutan jika disusun lain untuk pelaporan keuangan, peraturan, manajemen internal, perpajakan atau tujuan lainnya."
+                  },
+                  {
+                    "en": "Bagian 7.1"
+                  }
+                ],
+                [
+                  {
+                    "en": "• Daftar dan deskripsi singkat mengenai perjanjian penetapan harga dimuka (APA) sepihak yang dimiliki grup MNE dan peraturan pajak lainnya yang berkaitan dengan alokasi pendapatan antar negara."
+                  },
+                  {
+                    "en": "Bagian 7.2"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "2. Organisational structure - Struktur Organisasi",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "2.1. Latar belakang"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pada bulan Januari 2020, Olam Group mengumumkan rencana reorganisasi transformasional untuk membagi Grup menjadi tiga grup operasi yang berbeda dan koheren yang dipimpin oleh Tujuan dan siap menghadapi masa depan, guna memaksimalkan nilai jangka panjang Olam Group secara berkelanjutan. Pada bulan Januari 2022, Olam Group secara substansial telah menyelesaikan pemisahan bisnisnya menjadi tiga grup operasi - Olam Agri Group, ofi Group, dan Sisa Olam Group. 6"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pada tanggal 18 Februari 2022, pemegang saham menyetujui usulan restrukturisasi Grup melalui Skema Pengaturan, yang mulai berlaku pada tanggal 15 Maret 2022, dengan OGL sebagai perusahaan induk baru yang masing-masing memegang 100% ofi Group, Olam Agri Group, dan Sisa Olam Group. 7 Saham OGL dicatatkan di papan utama SGX-ST pada tanggal 16 Maret 2022, dengan OIL dihapuskan pencatatannya pada saat yang bersamaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Bagan grup Olam Group disediakan di bawah ini."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-2.png",
+              "alt": "Olam Group chart",
+              "caption": {
+                "en": "Exhibit 2: Olam Group chart",
+                "id": "Exhibit 2: Bagan Olam Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "Bagian di bawah memberikan ikhtisar struktur organisasi ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "2.2. Struktur hukum dan kepemilikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel yang berisi daftar struktur hukum dan kepemilikan ofi Group per 31 Desember 2024, disertakan dalam Lampiran A."
+            },
+            {
+              "type": "paragraph",
+              "en": "2.3. Lokasi geografis"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group terus berinvestasi di negara asal, sambil membangun kapasitas di pasar tujuan. Grup ini terkenal karena memanfaatkan jaringan rantai pasokan global dan pengetahuan lokalnya untuk menawarkan pasokan bahan-bahan yang dapat dilacak dan berkelanjutan secara aman. 8"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Originasi – Petani & Originasi: Untuk kualitas dan ketertelusuran\nKualitas, ketertelusuran, dan keandalan pasokan didorong dari peternakan. ofi Group adalah pembeli hasil panen dan juga pemilik lahan pertaniannya sendiri. Sumbernya secara langsung atau tidak langsung berasal dari sekitar 2,4 juta petani di seluruh dunia. Di seluruh dunia, ofi Group menjalankan program keberlanjutan yang dirancang untuk membantu petani meningkatkan hasil & kualitas, sehingga meningkatkan pendapatan mereka. Secara keseluruhan, ofi Group memberikan dukungan keberlanjutan kepada lebih dari 532.000 petani dan komunitas mereka. 9"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Manufaktur – Pemrosesan & Manufaktur: Mengubah bahan mentah menjadi bahan\nDengan fasilitas manufaktur dan pemrosesan di seluruh dunia, ofi Group menawarkan pilihan, kendali, dan fleksibilitas kepada pelanggannya. ofi Group memiliki lebih dari 120 fasilitas manufaktur dan pemrosesan di seluruh dunia. ofi Group memastikan bahwa mereka berinvestasi pada teknologi terkini dan selalu menjaga standar keamanan dan kualitas pangan tertinggi. Untuk meningkatkan efisiensi dan transparansi, fasilitas ofi Group berlokasi strategis di negara asal atau dekat dengan pasar konsumsi utama."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Pusat Inovasi – Pusat Inovasi Global: Berkreasi bersama untuk mengembangkan bisnis pelanggan\nofi Group memiliki 19 Pusat Inovasi di dekat pasar konsumsi utama yang berfokus pada inovasi dan penyesuaian berkelanjutan, memungkinkan pelanggan untuk terus memenuhi permintaan pasar dan mengembangkan bisnis mereka. Pusat Inovasi fokus pada:\n• Menciptakan perluasan merek bersama dan memformulasi ulang produk pelanggan yang sudah ada;\n• Mengembangkan produk baru untuk berbagai kategori;\n• Menciptakan produk yang menyenangkan konsumen sesuai dengan kebutuhan kesehatan dan pola makan;\n• Mengembangkan pengalaman sensorik yang tepat sejalan dengan merek pelanggan;\n• Mengembangkan resep label yang bersih, mengganti bahan tambahan dan bahan kimia dengan bahan alami; Dan\n• Mengembangkan alternatif alami dan nabati agar sesuai dengan kelompok merek pelanggan yang ada."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Pemasaran & Penjualan\ntim pelanggan ofi Group memberikan pengetahuan terperinci tentang produk-produk ofi Group dan pemahaman tentang bagaimana produk-produk ini dapat disesuaikan dengan aplikasi pelanggan, dan bertindak sebagai jembatan yang menghubungkan pelanggan dengan asal-usul bahan-bahan mereka. Tim penjualan ofi Group terlibat dalam diskusi dengan pelanggan mengenai kualitas bahan, inovasi, dan pengembangan resep."
+            },
+            {
+              "type": "paragraph",
+              "en": "Gambar di bawah menggambarkan lokasi pengadaan dan pemrosesan ofi Group secara global."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-3.png",
+              "alt": "Sourcing and Processing geographic locations",
+              "caption": {
+                "en": "Exhibit 3: Sourcing and Processing geographic locations10",
+                "id": "Exhibit 3: Lokasi geografis Pengadaan dan Pemrosesan10"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "Daftar entitas utama ofi Group, yang menunjukkan kegiatan utama dan lokasi geografisnya, disertakan dalam Lampiran B."
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "3. ofi Group’s business operations - Operasi bisnis ofi Group",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "3.1. Sekilas tentang bisnis ofi Group"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group adalah pemasok bahan dan solusi terintegrasi vertikal di bidang makanan dan minuman, menawarkan bahan makanan dan solusi yang berkelanjutan, alami, dan bernilai tambah. Grup ofi menawarkan kepada pelanggannya solusi menyeluruh di dalam dan di seluruh lima platform produk yang saling melengkapi (Kakao, Kopi, Susu, Kacang-kacangan, dan Rempah-rempah), yang memanfaatkan fondasi pengadaan yang mendalam. Kehadirannya di seluruh rantai pasokan memungkinkan ofi untuk berinovasi dan memberikan nilai tambah pada setiap tahap."
+            },
+            {
+              "type": "paragraph",
+              "en": "Fitur utama dari strategi bisnisnya meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Portofolio terdepan yang sedang tren, melayani kategori pengguna akhir yang besar, menarik, dan terus berkembang;\n• Memberikan solusi global, inovatif dan terintegrasi;\n• Proposisi pelanggan yang berbeda, menawarkan ketertelusuran menyeluruh dan dampak keberlanjutan;\n• Mitra Tepercaya untuk basis pelanggan global dan terdiversifikasi;\n• Kumpulan talenta yang berpengalaman, global, dan terinspirasi; Dan\n• Model pertumbuhan yang terbukti dan dapat diulang."
+            },
+            {
+              "type": "paragraph",
+              "en": "Diagram di bawah memberikan ikhtisar segmen bisnis dan elemen utama rantai pasokan ofi Group."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-4.png",
+              "alt": "ofi Group business segments and supply chain",
+              "caption": {
+                "en": "Exhibit 4: ofi Group business segments and supply chain",
+                "id": "Exhibit 4: segmen bisnis dan rantai pasokan ofi Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "3.2. Produk / Segmen Usaha / Pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": "Platform produk ofi Group mencakup kakao, kopi, susu, kacang-kacangan, dan rempah-rempah yang tersebar di dua segmen pelaporan – Pengadaan Global, dan Bahan & Solusi. Grup bermitra dengan pelanggan untuk bersama-sama menciptakan solusi yang mengantisipasi dan memenuhi perubahan preferensi konsumen seiring dengan meningkatnya permintaan akan makanan sehat yang dapat ditelusuri dan berkelanjutan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Kakao: ofi Group memasok bahan-bahan kakao kepada pelanggan di seluruh dunia, bekerja sama dengan mitra di seluruh rantai pasokan untuk menciptakan suguhan yang memanjakan bagi konsumen. Kategori produk kakao meliputi biji, mentega, minuman keras, bubuk, dan lemak khusus."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Kopi: ofi Group adalah salah satu eksportir asal kopi hijau terkemuka di dunia, yang hadir sepanjang tahun di negara asal. Grup ini menyediakan kopi berkelanjutan dan dapat dilacak yang mendukung produsen dan konsumen kopi. Kategori produknya meliputi kopi hijau, kopi larut, dan bubuk cascara larut."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Produk susu: ofi Group menawarkan beragam bahan susu mulai dari susu bubuk dan turunannya dalam berbagai komposisi hingga asal dan ukuran kemasan. Perusahaan ini bermitra dengan pemain yang berada di setiap tahap rantai pasokan susu, mulai dari produksi susu hingga pemrosesan, dan menyediakan produk susu berkualitas."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Kacang-kacangan: ofi Group menawarkan kacang paling populer dalam berbagai format. Kategori produk meliputi almond, kacang tanah, kacang mete, kenari, hazelnut, pistachio, macadamia, dan format yang disesuaikan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Rempah-rempah: ofi Group mengirimkan bahan rempah berkualitas tinggi dalam jumlah besar, langsung dari sumbernya. Tim di ofi Group (ahli rempah terpercaya) membantu pelanggan menemukan produk, spesifikasi, dan sertifikasi yang tepat untuk memenuhi kebutuhan mereka. Kategori produknya meliputi bawang merah, bawang putih, cabai, herba, rempah-rempah tropis, lada, bubur, campuran rempah, tomatillo, saus, dan produk organik."
+            },
+            {
+              "type": "paragraph",
+              "en": "Lima produk teratas berdasarkan omset Grup ofi pada TA 2024 disajikan dalam tabel di bawah ini."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Produk"
+                },
+                {
+                  "en": "Omzet TA 2024 (USD juta)"
+                },
+                {
+                  "en": "Persentase terhadap total pendapatan Grup ofi"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Kakao"
+                  },
+                  {
+                    "en": "6.849"
+                  },
+                  {
+                    "en": "42%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Kopi"
+                  },
+                  {
+                    "en": "4.738"
+                  },
+                  {
+                    "en": "29%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Produk susu"
+                  },
+                  {
+                    "en": "904"
+                  },
+                  {
+                    "en": "6%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Kacang-kacangan"
+                  },
+                  {
+                    "en": "2.573"
+                  },
+                  {
+                    "en": "16%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Rempah-rempah"
+                  },
+                  {
+                    "en": "1.290"
+                  },
+                  {
+                    "en": "8%"
+                  }
+                ],
+                [
+                  {
+                    "en": "Total"
+                  },
+                  {
+                    "en": "16.353"
+                  },
+                  {
+                    "en": "100%"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "Kinerja ofi Group di seluruh segmen pelaporan Pengadaan Global dan Bahan & Solusi dijelaskan di bawah ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Sumber Global: Pada TA 2024, segmen Pengadaan Global melaporkan pertumbuhan volume sebesar 0,3% dari tahun ke tahun menjadi 2,7 juta metrik ton (“MT”), yang mencerminkan peningkatan kopi dan produk susu, diimbangi oleh penurunan volume kakao. Pendapatan tumbuh sebesar 43,5% menjadi S$14,1 miliar, didorong oleh pengalihan kenaikan harga bahan mentah, khususnya pada kakao dan kopi."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Bahan & Solusi: Pada TA 2024, segmen Bahan & Solusi menghasilkan pertumbuhan volume sebesar 4,1% dari tahun ke tahun menjadi 1,3 juta MT, didorong oleh susu, kacang-kacangan, dan rempah-rempah. Volume kakao dan kopi secara umum tetap stabil, diuntungkan oleh rantai pasokan terintegrasi ofi dan kekuatan platform Pengadaan Globalnya. Pendapatan segmen meningkat sebesar 51,8% menjadi S$12,6 miliar, didorong oleh pertumbuhan harga yang kuat, khususnya pada kakao dan kopi akibat peralihan harga bahan baku input yang lebih tinggi."
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel di bawah ini memberikan informasi tentang segmen geografis ofi Group selama TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Segmen geografis"
+                },
+                {
+                  "en": "TA 2024 (USD juta)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Asia, Timur Tengah dan Australia"
+                  },
+                  {
+                    "en": "3.519"
+                  }
+                ],
+                [
+                  {
+                    "en": "Afrika"
+                  },
+                  {
+                    "en": "928"
+                  }
+                ],
+                [
+                  {
+                    "en": "Eropa"
+                  },
+                  {
+                    "en": "7.022"
+                  }
+                ],
+                [
+                  {
+                    "en": "Amerika"
+                  },
+                  {
+                    "en": "4.890"
+                  }
+                ],
+                [
+                  {
+                    "en": "Total"
+                  },
+                  {
+                    "en": "16.359"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3. Penggerak penting keuntungan bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.1. Strategi pertumbuhan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Strategi pertumbuhan ofi mencakup fokus strategis organik dan anorganik:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Organik: Pertumbuhan dan perluasan inti\n  o Mengekstraksi nilai penuh dari investasi saat ini\n  o Meningkatkan pangsa nilai dengan pelanggan strategis yang ditargetkan\n  o Fokus pada daya saing biaya\n  o Memperluas inovasi dan solusi keberlanjutan"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Anorganik: Pembelian yang disiplin\nPeluang Merger & Akuisisi (“M&A”) yang dipercepat pada produk, kategori, dan saluran bernilai lebih tinggi, termasuk:\n  o Perluasan Saluran – misalnya, saluran private label, layanan makanan, dan e-commerce.\n  o Perluasan Produk – misalnya, bahan kacang-kacangan dan produk campuran rempah-rempah.\n  o Kategori Solusi – misalnya, kategori minuman, roti & penganan, makanan ringan dan kuliner."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.2. Strategi penjualan"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi bertujuan untuk menjadi mitra tepercaya bagi basis pelanggan global dan terdiversifikasi. Strategi penjualan ofi berfokus pada prioritas dan segmentasi pelanggannya menjadi (i) akun prioritas global, (ii) akun prioritas regional, dan (iii) akun prioritas platform produk; dengan pendekatan yang berbeda melalui (i) penjualan lebih banyak, (ii) penjualan lebih mahal (up-selling), dan (iii) penjualan silang (cross-selling); dan kombinasi kekuatan di seluruh tim Penjualan & saluran, Inovasi, serta Pemasaran ofi."
+            },
+            {
+              "type": "paragraph",
+              "en": "Gambar di bawah memberikan rincian lebih lanjut mengenai strategi penjualan ofi."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-7.png",
+              "alt": "ofi's sales strategy",
+              "caption": {
+                "en": "Exhibit 7: ofi's sales strategy",
+                "id": "Exhibit 7: strategi penjualan ofi"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "Dalam rangka mencapai strategi penjualan ofi, ofi berfokus pada pengembangan pengetahuannya di seluruh bagian farmgate, originasi, dan pengadaan dari rantai nilai, sambil berupaya memperdalam hubungannya dengan para pelanggannya untuk mendapatkan wawasan pasar; dan membangun kemampuan inovasinya untuk memastikan bahwa ofi mampu memberikan solusi yang kreatif dan inovatif untuk memenuhi kebutuhan pelanggannya yang terus berkembang dan pasar di mana ofi beroperasi."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.3.3. Faktor penentu keberhasilan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Faktor penentu keberhasilan yang penting bagi bisnis Grup ofi meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Pasokan yang andal dan dapat dilacak: Keberhasilan ofi bergantung pada kemampuannya untuk menyediakan pasokan yang dapat diandalkan dengan kualitas dan kemurnian yang dapat diterima yang memberikan tingkat nilai yang lebih baik bagi pelanggan. Selain itu, keragaman geografis dalam basis pemasok dapat menjadi kunci untuk memastikan konsistensi pasokan dalam bentuk mengantisipasi dan mengkompensasi kondisi cuaca tak terduga yang mungkin merugikan kualitas tanaman. Dengan berfokus pada faktor-faktor ini, ofi dapat menghasilkan keuntungan yang konsisten atau lebih tinggi, didorong oleh pasokan dan permintaan produk berkualitas baik. Grup ofi memiliki berbagai pemasok secara global (termasuk petani lokal dan perkebunan sendiri) yang membantu melindungi Grup ofi dari guncangan pasokan eksternal dan mengurangi paparan Grup ofi terhadap volatilitas harga komoditas pertanian. Hal ini juga memungkinkan ofi Group untuk menawarkan kepastian pasokan dan memberikan jaminan keamanan dan kualitas pangan yang diperlukan kepada pelanggannya melalui solusi adaptif."
+            },
+            {
+              "type": "paragraph",
+              "en": "Memberikan ketertelusuran bahan mentah pertanian dapat menjadi tantangan mengingat sifat rantai pasokan bahan yang kompleks dan terfragmentasi. ofi Group mengurangi kompleksitas dalam rantai pasokannya dan bekerja secara langsung dengan petani, mengatur tempat pembelian dan koperasi lokal. Hal ini memberikan ofi Group data yang diperlukan untuk menelusuri pasokannya kembali ke kelompok petani tempat mereka bekerja, dan juga memberikan peluang untuk menciptakan dampak positif dengan menerapkan program keberlanjutan dengan pelanggan, pemerintah, lembaga nirlaba dan mitra lembaga pembiayaan pembangunan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Manajemen risiko\nGrup ofi memiliki tim manajemen risiko khusus yang memantau dan mengendalikan berbagai risiko politik dan pasar, termasuk harga komoditas, nilai tukar, dan risiko kredit. Proposisi nilai manajemen risiko ofi Group didukung oleh tim ahli risiko yang memiliki pemahaman mendalam tentang komoditas pertanian dan perdagangan instrumen keuangan untuk membantu mengelola perubahan harga dan volatilitas yang dapat menciptakan lingkungan operasi yang sulit bagi produsen dan peserta rantai pasokan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Rantai pasokan yang terintegrasi dan kuat: Dalam mengoptimalkan profitabilitasnya, ofi memusatkan upayanya dalam mengelola dan mengendalikan rantai pasokan logistik yang diperlukan untuk memindahkan komoditas secara fisik dari petani ke pelanggan dan membuat keputusan yang tepat mengenai waktu pembelian dan harga jual komoditas yang relevan. Mengingat kompleksitas dalam rantai pasokan, perencanaan yang cukup besar harus dilakukan untuk mencapai optimalitas dalam (1) jumlah titik distribusi; (2) biaya transportasi; dan (3) target layanan pelanggan, sambil memastikan bahwa rantai pasokannya berkelanjutan dan dapat dilacak. Ini berarti ofi Group perlu membuat keputusan strategis tentang organisasi jaringan distribusi serta mengumpulkan dana yang diperlukan untuk aktivitas tersebut."
+            },
+            {
+              "type": "paragraph",
+              "en": "Selain pengelolaan dan pengendalian rantai pasokan logistik, kemampuan rantai pasokan ofi dari tingkat petani hingga tujuan juga penting dalam memastikan keberhasilannya sebagai solusi terintegrasi dan pemasok bahan yang memberikan bahan dan solusi tanpa kontaminasi atau pemalsuan. Kemampuan tersebut mencakup bidang-bidang termasuk pengadaan non-komoditas, keunggulan manufaktur dan operasional, manajemen persediaan, serta kualitas dan keamanan pangan."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Intelijen pasar dan inovasi: Karena volume penjualan produk tunduk pada faktor permintaan, penting untuk memastikan bahwa permintaan akan produk-produk ini kuat. Upaya yang signifikan diperlukan untuk tetap unggul dari pesaing dalam hal pengetahuan tentang tren pasar dan pergeseran pola konsumen. Hal ini tidak hanya penting dalam memenuhi permintaan pelanggan dan karenanya memastikan permintaan yang kuat terhadap produknya, tetapi juga penting dalam menembus pasar baru di mana produk tersebut sebelumnya tidak ada. Karena pasar memiliki preferensi dan kebutuhan yang berbeda, sangat penting bagi perusahaan untuk memiliki pemahaman mendalam tentang tren saat ini dan untuk menangkap tren baru secara lebih efisien daripada pesaingnya. Grup ofi memiliki pemahaman mendalam tentang pasar di mana grup tersebut bertransaksi, dan berfokus pada pelacakan tren kesehatan saat ini dan perilaku konsumen, yang memastikan bahwa Grup ofi mampu memberikan solusi yang kreatif dan inovatif untuk memenuhi kebutuhan pelanggannya yang terus berkembang."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4. Ringkasan analisis fungsional"
+            },
+            {
+              "type": "paragraph",
+              "en": "Sub-bagian berikut memberikan analisis fungsional singkat yang menggambarkan kontribusi utama terhadap penciptaan nilai oleh masing-masing entitas dalam Grup ofi, yaitu fungsi-fungsi utama yang dijalankan, risiko-risiko penting yang diambil, dan aset-aset penting yang digunakan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1. Fungsi dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.1. Strategi bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "Sebagai kantor pusat global dan entitas perdagangan utama Grup ofi, OIL bertanggung jawab untuk mengembangkan dan menerapkan strategi bisnis ofi di seluruh dunia dan menyediakan manajemen strategis untuk anak perusahaan konsolidasinya di seluruh dunia."
+            },
+            {
+              "type": "paragraph",
+              "en": "Manajemen senior OIL bertanggung jawab atas keputusan strategis dan memberikan masukan kepada berbagai bisnis, wilayah dan fungsi. Strategi bisnis tersebut kemudian disalurkan dan dieksekusi melalui entitas terkait secara global. Manajemen senior OIL mengatur dan menghadiri pertemuan rutin (misalnya mingguan atau bulanan tergantung pada lokasi dan fungsi) dengan entitas terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.2. Manajemen risiko"
+            },
+            {
+              "type": "paragraph",
+              "en": "Kegiatan manajemen risiko seperti pemantauan risiko dan penilaian risiko dilakukan secara terpusat oleh Kantor Risiko yang berlokasi di OIL. Tim OIL bertanggung jawab untuk mendukung entitas terkait dalam Grup ofi untuk mencapai tujuan strategis mereka, memantau dan mengalokasikan modal risiko dan pengembalian risiko, membangun kesadaran risiko dan budaya kepatuhan dalam Grup, melakukan pengendalian internal dan mendukung persyaratan perundang-undangan dan tata kelola perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Grup ofi terus meningkatkan metodologi manajemen risikonya agar sejalan dengan praktik terbaik industri. Kerangka kerja manajemen risiko dirancang untuk secara ketat mengidentifikasi dan menilai kemungkinan dan dampak risiko, dan untuk mengelola tindakan yang diperlukan untuk memitigasi dampak. Proses ini mengidentifikasi risiko dari perspektif strategis top-down dan perspektif bisnis bottom up. OIL mengambil pendekatan holistik terhadap risiko di seluruh perusahaan, memantau seluruh langkah rantai nilai dan berbagai risiko yang dapat diukur dan tidak dapat diukur."
+            },
+            {
+              "type": "paragraph",
+              "en": "Grup ofi memiliki kerangka Manajemen Risiko Perusahaan yang ketat yang mendefinisikan risiko di berbagai kategori termasuk namun tidak terbatas pada: risiko perdagangan, risiko operasional, risiko mata uang, risiko reputasi, risiko pertanian, dan lain-lain. Risiko kuantitatif dilaporkan sebagai bagian dari Ringkasan Risiko Eksekutif triwulanan, dengan mempertimbangkan kemungkinan terjadinya dan potensi dampaknya. Ringkasan ini dimaksudkan untuk membantu Dewan dalam memeriksa efektivitas proses manajemen risiko, sistem dan rencana mitigasi. Pengawasan risiko dibagi antara dewan dan tiga Komite Dewan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.3. Pertanian"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pertanian komoditas dilakukan oleh pemasok pihak ketiga atau di perkebunan dan peternakan milik Grup ofi. Para pedagang di OIL mempunyai pengetahuan dan pengalaman mengenai siklus panen untuk masing-masing komoditas serta periode permintaan dari pelanggan akhir. Pengetahuan dan pengalaman ini membantu menentukan kapan OIL melakukan transaksi dengan pemasok terkait dan pihak ketiga untuk mendapatkan komoditas tertentu sehingga mereka dapat memenuhi antisipasi permintaan dari entitas tujuan dan memaksimalkan keuntungan dengan memenuhi permintaan pasar."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.4. Sumber / Asal"
+            },
+            {
+              "type": "paragraph",
+              "en": "Jumlah barang yang akan dibeli ditentukan oleh OIL berdasarkan tren historis atau pola permintaan. Pembelian barang dilakukan melalui kontrak pembelian antara masing-masing pemasok dan OIL, atau antara pemasok dan entitas ofi Group setempat. Barang-barang tersebut sebagian besar bersumber dari pemasok lokal pihak ketiga dengan jumlah tertentu dari perkebunan dan peternakan ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Pemasok pihak terkait terutama bertanggung jawab untuk melakukan pekerjaan dasar dan survei di perkebunan dan peternakan dan oleh karena itu, memberikan umpan balik kepada Kepala Unit Bisnis dan pedagang di OIL. Mengingat kedekatan geografis pemasok pihak berelasi dengan pemasok pihak ketiga serta perkebunan dan peternakan ofi Group, pemasok pihak berelasi memiliki informasi langsung mengenai pasokan tanaman dan kualitas barang. Sebagai contoh, pemasok pihak terkait dapat membagikan umpan balik pada periode dimana panen besar diharapkan terjadi karena sebagai konsekuensinya, harga mungkin menghadapi tekanan penurunan karena pasokan komoditas pertanian yang lebih tinggi. Kepala Unit Bisnis dan pedagang di OIL akan mempertimbangkan hal ini ketika membuat keputusan pembelian dan penjualan untuk ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Pemasok pihak terkait mempunyai wewenang sehari-hari untuk memutuskan pemasok pihak ketiga sepanjang masih dalam kerangka kualifikasi pemasok yang ditetapkan oleh OIL. Pemasok pihak ketiga biasanya dievaluasi berdasarkan faktor-faktor seperti kualitas, ketepatan waktu, dan harga untuk memaksimalkan profitabilitas dan untuk mendukung aktivitas pembelian dan penjualan ofi Group dengan aliran barang yang tidak terputus."
+            },
+            {
+              "type": "paragraph",
+              "en": "Dalam menjalankan fungsi pengadaannya, ofi Group juga dapat menggunakan agen pihak ketiga sebagai pengganti entitas terkaitnya. Agen pihak ketiga ini beroperasi di negara-negara di mana ofi Group tidak memiliki kehadiran lokal."
+            },
+            {
+              "type": "paragraph",
+              "en": "Dalam beberapa kasus, Kepala Unit Bisnis dapat secara pribadi melakukan pekerjaan dasar dengan melakukan perjalanan ke perkebunan dan peternakan di negara asal untuk mengevaluasi kualitas tanaman dengan pemasok pihak ketiga setempat."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.5. Pengolahan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Produk tertentu yang didistribusikan oleh ofi Group mungkin memerlukan berbagai tingkat pemrosesan primer dan sekunder. Kegiatan pemrosesan primer dilakukan dalam segmen rantai pasokan hulu di dekat peternakan dan perkebunan dan melibatkan konversi bahan mentah menjadi komoditas pangan (misalnya, pembersihan dan pengeringan biji ceri menjadi biji kopi, penyortiran dan penilaian kacang mete, biji kakao, dll.). Kegiatan pemrosesan sekunder melibatkan konversi komoditas makanan menjadi bahan makanan (misalnya, proses alkalisasi dalam pemrosesan kakao, produksi kopi larut, dll., konversi kacang mete mentah menjadi inti kacang mete, atau merebus/memotong kacang menjadi pasta, dll.)."
+            },
+            {
+              "type": "paragraph",
+              "en": "Entitas ofi Group di seluruh dunia terlibat dalam kegiatan pemrosesan primer dan sekunder yang disebutkan di atas, baik dengan memanfaatkan fasilitas inhouse, atau, dengan melakukan outsourcing ke pihak ketiga."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.6. Logistik"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL membeli barang dari pihak terkait dan pihak ketiga di negara asal untuk dijual kepada pihak terkait dan pihak ketiga di negara tujuan. OIL mengikuti Ketentuan Komersial Internasional (“Incoterms”) dalam transaksi pembelian dan penjualannya."
+            },
+            {
+              "type": "paragraph",
+              "en": "Untuk pembelian dan penjualan barang, OIL mengadopsi berbagai Incoterms yang berbeda; ini dinegosiasikan berdasarkan transaksi demi transaksi. Dalam kebanyakan kasus, barang dikirim langsung dari negara asal ke pelanggan terkait atau pihak ketiga di negara tujuan."
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL juga bertanggung jawab atas pengiriman dan pengangkutan barang dari negara asal / ke negara tujuan dengan bantuan dari entitas terkait lainnya di dalam Grup."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.7. Penjualan, pemasaran, dan distribusi"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pembelian dan penjualan barang diselesaikan oleh OIL dengan pelanggan dan pemasok pihak ketiga dan pihak terkait."
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL menjalankan sebagian besar fungsi penjualan dan pemasaran dalam rantai nilai. OIL didukung oleh tim pemasaran lokal dalam mengidentifikasi prospek bisnis baru dan menentukan target pasar. Untuk penjualan yang dilakukan langsung ke pelanggan pihak ketiga, tim pemasaran lokal membantu menjaga hubungan pelanggan lokal, memahami kebutuhan pelanggan, dll. Setiap negosiasi yang dilakukan oleh tim pemasaran lokal dengan pelanggan dilakukan dalam batas yang telah ditentukan sebelumnya yang ditetapkan oleh OIL. Setiap penyimpangan dari parameter harga memerlukan persetujuan dan pengesahan dari manajemen OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "Untuk pelanggan dengan kehadiran global, hubungan pelanggan dikelola secara terpusat oleh Kepala Unit Bisnis, didukung oleh Manajer Akun Kunci Global (“GKAMs”). Dalam kasus seperti itu, untuk memastikan bahwa hubungan pelanggan tetap terjaga secara berkelanjutan, Kepala Unit Bisnis dan GKAM secara aktif menjaga kontak dengan pelanggan selama transaksi. Selain itu, Kepala Unit Bisnis dengan bantuan dari GKAM dan tim pemasaran lokal terus memperbarui informasi perkembangan terbaru kepada pelanggan, menangani permintaan pelanggan, dan memantau stok produk bagi pelanggan untuk memastikan pasokan produk dapat dipenuhi secara memadai. Tim pemasaran lokal berpartisipasi dalam panggilan pembaruan rutin dengan manajemen OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.8. Inovasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group berkolaborasi dan berkreasi bersama dengan merek, pengecer bahan makanan, dan perusahaan layanan makanan dan mengembangkan jalur untuk pertumbuhan masa depan di Bahan & Solusi. Pusat Solusi Pelanggan (“CSC”) bertanggung jawab atas pengembangan dan manajemen solusi yang dipimpin pelanggan di sepanjang kategori aplikasi utama, dan didukung oleh Pusat Keunggulan Bahan (“IEC”), yang memberikan keahlian bahan yang mendalam. CSC diselenggarakan secara regional, agar lebih dekat dengan pasar pelanggan utama ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.1.9. Manajemen rantai pasokan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Sebagai bisnis yang terintegrasi secara vertikal, kegiatan manajemen rantai pasokan ofi mencakup (i) Perencanaan; (ii) Sumber; (iii) Pembuatan; dan (iv) Pengiriman. Selain aktivitas pencarian sumber produk dan pemrosesan yang dijelaskan di atas, ofi Group terus mengembangkan kemampuan manufaktur dan rantai pasokannya yang melibatkan pengadaan non-komoditas, peningkatan standar dan efisiensi manufaktur, manajemen persediaan, logistik, dan keselamatan. Kepala Unit Bisnis, tim Operasi Global dan tim Kualitas Global dan Keamanan Pangan (“QFS”) (didukung oleh tim Regional) bertanggung jawab atas kegiatan dan keputusan manajemen rantai pasokan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2. Aset yang digunakan"
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2.1. Aset berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL mempekerjakan aset berwujud rutin seperti bangunan, pabrik dan mesin, kendaraan bermotor, peralatan kantor, furnitur dan perlengkapan, komputer, yang diperlukan untuk berfungsinya bisnis dan untuk memfasilitasi aktivitas mereka sehari-hari. Aset biologis seperti tanaman produktif yang terdiri dari kebun almond yang sudah matang dan yang belum matang, perkebunan kopi dan lada juga dimiliki oleh entitas terkait dalam ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "Lahan lokal, aset pertanian, dan gudang yang digunakan dalam menjalankan bisnis dimiliki atau dikelola oleh entitas terkait di dalam ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.2.2. Aset tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL memiliki sebagian besar aset tidak berwujud Grup seperti merek dagang, hubungan pelanggan utama, dan daftar pelanggan tertentu. Pemilik lain aset tidak berwujud dalam ofi Group dijelaskan di bawah ini dalam Bagian 4 laporan ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3. Risiko yang diasumsikan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Risiko merupakan faktor-faktor yang dapat memaparkan suatu perusahaan pada kemungkinan kerugian atau kerusakan. Bagian ini menjelaskan risiko-risiko yang signifikan sehubungan dengan transaksi pembelian dan penjualan."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.1. Risiko kredit"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL mengelola risiko kredit karena mengadakan kontrak penjualan dengan pelanggan pihak ketiga dan terdapat risiko penundaan dan gagal bayar dalam pembayaran. OIL mempunyai sistem pemeringkatan kredit yang secara jelas mendefinisikan batasan dan pengendalian kredit, sehingga mendorong fragmentasi eksposur kredit pada tenor pendek. OIL juga membeli asuransi untuk gagal bayar kredit."
+            },
+            {
+              "type": "paragraph",
+              "en": "Untuk penjualan yang dilakukan kepada entitas berelasi, OIL tidak menanggung risiko kredit karena entitas berelasi kemungkinan besar tidak akan gagal bayar kecuali entitas tersebut bangkrut. Dalam hal pembelian oleh OIL dari entitas berelasi, persyaratan kredit sebagian besar adalah pembayaran di muka."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.2. Risiko pasar"
+            },
+            {
+              "type": "paragraph",
+              "en": "Dari sisi pasokan, OIL menanggung risiko kekurangan pasokan hasil panen. Jika terjadi penurunan hasil panen di masing-masing perkebunan dan peternakan, OIL menghadapi risiko ketidakmampuan untuk melayani permintaan pelanggan akan barang tersebut. Namun, risiko ini dimitigasi melalui pengadaan dari berbagai perkebunan dan peternakan. Selain itu, OIL menggunakan teknologi pemantauan tanaman yang canggih dan pakar agronomi, fasilitas irigasi, langkah pengendalian banjir, dan asuransi tanaman untuk mengelola risiko pertaniannya. OIL juga memberikan perlindungan asuransi terhadap risiko bencana alam, seperti banjir, kebakaran, gempa bumi, dan badai."
+            },
+            {
+              "type": "paragraph",
+              "en": "Di sisi permintaan, OIL bertanggung jawab atas sebagian besar penjualan dalam Grup. Oleh karena itu, hal ini bergantung pada volatilitas permintaan barang dan karenanya, menanggung risiko pasar sehubungan dengan permintaan barang tersebut."
+            },
+            {
+              "type": "paragraph",
+              "en": "Harga didorong oleh pasar dan oleh karena itu, fluktuasi pasokan atau permintaan akan mempengaruhi harga barang. Karena OIL membeli dan menjual berdasarkan harga pasar, maka segala fluktuasi harga akan ditanggung oleh OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.3. Risiko harga"
+            },
+            {
+              "type": "paragraph",
+              "en": "Harga komoditas pertanian akan bervariasi antara saat penetapan harga pembelian dan saat penjualan. Karena OIL melakukan perdagangan fisik dengan pihak rekanan, maka OIL menanggung risiko harga pasar awal. Risiko kerugian secara praktis tidak terbatas dan dikelola oleh OIL melalui lindung nilai di bursa komoditas dunia, baik melalui derivatif maupun tender."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.4. Risiko nilai tukar mata uang asing"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL membeli dan menjual sebagian besar produknya dalam USD. Dalam kasus di mana transaksi dilakukan dalam mata uang selain USD, laporan valuta asing akan dihasilkan oleh sistem keuangan bersama ofi Group dan dikirim ke Tim Forex dalam OIL yang melakukan lindung nilai yang sesuai untuk mengelola paparan valuta asing dan risiko yang ditanggung oleh OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "Selain itu, OIL juga mengeluarkan sebagian biaya operasional lokal dalam SGD. Namun, jumlahnya minimal."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.5. Risiko kualitas"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL menanggung risiko kualitas ketika kualitas produk yang diproduksi berada di bawah ekspektasi pelanggan. Namun, OIL mengelola dan membatasi risiko kualitas dengan uji tuntas yang dilakukan baik oleh pedagang OIL maupun entitas terkait yang berlokasi di negara asal. Pihak terkait lokal dapat membantu OIL untuk memeriksa produk sebelum memilih dan mengontrak pemasok. Untuk produk yang bersumber dari perkebunan atau peternakan ofi Group, entitas lokal dapat melakukan pemeriksaan tingkat tinggi pada produk sebelum menjualnya ke OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.4.3.6. Risiko inventaris"
+            },
+            {
+              "type": "paragraph",
+              "en": "Untuk sebagian besar produk, OIL menanggung risiko inventaris di seluruh rantai nilai. OIL menyimpan inventaris produk pertanian. Untuk mengelola risiko inventaris, OIL terkadang mengadopsi proses penjualan back-to-back (berurutan) untuk meminimalkan kebutuhannya menahan inventaris. Seperti disebutkan sebelumnya, OIL mengelola risiko inventaris dengan membeli asuransi yang memberikan perlindungan inventaris."
+            },
+            {
+              "type": "paragraph",
+              "en": "3.5. Akuisisi dan divestasi"
+            },
+            {
+              "type": "paragraph",
+              "en": "Selama TA 2024, ofi Group tidak melakukan transaksi restrukturisasi bisnis, akuisisi, atau divestasi yang signifikan."
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "4. Intangibles - Aktiva Tidak Berwujud",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Bagian ini memberikan penjelasan umum tentang strategi keseluruhan ofi Group untuk pengembangan, kepemilikan dan eksploitasi aset tidak berwujud, termasuk lokasi fasilitas penelitian dan pengembangan utama."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1. Tinjauan Umum & Strategi Grup"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group memiliki banyak aset tidak berwujud (seperti merek dagang, nama dagang, dll.) di negara-negara di seluruh dunia. Sebagian besar nama dagang dan merek dagang dimiliki oleh entitas lokal dan dieksploitasi sebagian besar untuk kepentingan entitas yang beroperasi di negara yang sama."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1.1. Merek ofi dan AtSource 29"
+            },
+            {
+              "type": "paragraph",
+              "en": "Nama dagang dan logo ofi semuanya sebagian besar dimiliki oleh OIL dan Olam Brands B.V. IP ini dikembangkan untuk kepentingan Grup secara keseluruhan dan untuk meningkatkan posisi kompetitifnya dalam pasar bisnis-ke-bisnis (“B2B”). Aset tidak berwujud ini tidak dimaksudkan untuk menargetkan konsumen akhir di pasar bisnis-ke-konsumen (“B2C”). Pasar B2B merupakan mayoritas bisnis ofi Group, dan oleh karena itu, nama dagang ofi adalah IP utama yang diasosiasikan oleh pelanggan dengan ofi Group secara keseluruhan. Selain itu, OIL adalah pemilik daftar pemasok dan pelanggan untuk transaksi pembelian dan penjualannya sendiri. Demikian pula, entitas lokal memiliki daftar pemasok dan pelanggan untuk operasi lokal."
+            },
+            {
+              "type": "paragraph",
+              "en": "Selanjutnya, ofi Group memberikan wawasan keberlanjutan kepada pelanggan dengan AtSource, sistem manajemen keberlanjutan B2B milik ofi Group. AtSource memberikan ketertelusuran ke asal produk dan transparansi pada tantangan utama keberlanjutan rantai pasokan melalui data dan wawasan. Hal ini memungkinkan pelanggan untuk memetakan perjalanan keberlanjutan mereka yang unik, memantau kinerja, dan bermitra untuk menciptakan dampak melalui intervensi yang ditargetkan. Hal ini dapat meningkatkan efisiensi pemantauan, meningkatkan uji tuntas dengan jaminan eksternal, dan memastikan kepatuhan terhadap standar industri yang terus berkembang."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.1.2. Aset tidak berwujud lainnya dari bisnis"
+            },
+            {
+              "type": "paragraph",
+              "en": "Sepanjang tahun operasinya, ofi Group telah mengumpulkan kumpulan pengetahuan, keterampilan, dan jaringan hubungan yang telah memungkinkan kesuksesan ofi Group yang berkelanjutan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Secara garis besar, aset tidak berwujud ini dapat diklasifikasikan ke dalam Inovasi dan Rantai Pasokan IP:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• IP Inovasi terdiri dari teknologi, teknik pemrosesan, resep, kombinasi, rahasia dagang, dll. yang telah dibangun OIL selama bertahun-tahun, dan yang terbaru dari keluaran kolektif dari Organisasi Inovasi. IP Inovasi dapat dikarakterisasikan sebagai (i) teknologi bahan dan produk, (ii) proses dan keterampilan, dan (iii) resep, desain, dan skema."
+            },
+            {
+              "type": "paragraph",
+              "en": "• Kekayaan Intelektual (IP) Rantai Pasokan berkaitan dengan proses, prosedur, teknologi, kemampuan operasional, jaringan, hubungan, dan lain-lain yang ekstensif. Di seluruh rantai pasokan, termasuk jaringan global petani, pemasok, dan agen pengadaan yang luas, yang mana OIL dapat memanfaatkannya untuk mengoptimalkan keputusan pembelian dan pencarian produk yang dapat dijual ke pelanggan global dikarakterisasikan sebagai (i) proses, prosedur, dan teknologi, (ii) kemampuan operasional, dan (iii) jaringan dan hubungan."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.2. Organisasi Penelitian dan Pengembangan (R&D)"
+            },
+            {
+              "type": "paragraph",
+              "en": "ofi Group secara aktif terlibat dalam peluncuran produk baru melalui pengetahuan global dan pengalaman lokalnya. ofi Group memiliki tim khusus yang melakukan aktivitas penelitian dan pengembangan di berbagai aspek seperti yang digambarkan pada gambar di bawah ini."
+            },
+            {
+              "type": "image",
+              "src": "/exhibit-8.png",
+              "alt": "ofi Group research and development activities",
+              "caption": {
+                "en": "Exhibit 8: ofi Group research and development activities",
+                "id": "Exhibit 8: Kegiatan penelitian dan pengembangan ofi Group"
+              }
+            },
+            {
+              "type": "paragraph",
+              "en": "Grup ini berfokus pada pengembangan ilmu pengetahuan dan teknologi pertanian, yang merupakan hal mendasar untuk meningkatkan produktivitas pertanian, ketahanan pasokan ofi Group serta kualitas dan fungsi produk dan bahan ofi Group. 31 Lebih jauh lagi, ofi Group melakukan inovasi bahan dengan mempertimbangkan pelanggan dan konsumen. Hal ini termasuk berupaya meningkatkan fungsionalitas bahan, mengembangkan produk alami dan berlabel bersih dengan manfaat kesehatan, nutrisi dan kesejahteraan, serta memaksimalkan peluang valorisasi dan daur ulang (upcycling) dalam rantai pasokan produk. 32 Teknologi digital juga mempunyai peranan penting dalam ofi Group. Grup ini memiliki beberapa alat digital unik untuk membantu meningkatkan pertanian bagi semua pihak dalam rantai pasokannya. Beberapa contoh teknologi ini meliputi:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• AtSource: platform wawasan keberlanjutan digital\n• Olam Direct: platform yang memberikan akses lebih besar terhadap saran, pembiayaan, pasokan, dan dukungan penjualan\n• Olam Farmer Information System (“OFIS”): yang merupakan alat survei yang digunakan oleh tim lapangan ofi Group untuk mengumpulkan dan mencatat data (seperti lokasi infrastruktur pertanian dan masyarakat), mengelola kegiatan pelatihan, dan melacak pendanaan, distribusi input, dan pembelian secara tepat. 33"
+            },
+            {
+              "type": "paragraph",
+              "en": "4.3. Rincian aktiva tidak berwujud utama"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel di bawah ini berisi daftar aktiva tidak berwujud ofi Group yang penting untuk tujuan penetapan harga transfer."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Kepemilikan"
+                },
+                {
+                  "en": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Merek dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "IP Rantai Pasokan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Merek dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "IP Rantai Pasokan"
+                  }
+                ],
+                [
+                  {
+                    "en": "Universal Blanchers, L.L.C."
+                  },
+                  {
+                    "en": "Hubungan pelanggan untuk platform kacang yang dapat dimakan, perangkat lunak"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "4.4. Perjanjian penting dan kebijakan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "Selama TA 2024, ofi Group memiliki perjanjian berikut yang berkaitan dengan aset tidak berwujud:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Peserta kontribusi biaya"
+                },
+                {
+                  "en": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Merek ofi dan merek dagang"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Peserta Berbagi Biaya"
+                },
+                {
+                  "en": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "IP Inovasi"
+                  }
+                ],
+                [
+                  {
+                    "en": ""
+                  },
+                  {
+                    "en": "Olam Holdings, Inc dan entitas anak di AS yang terkait 34"
+                  },
+                  {
+                    "en": ""
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Olam Holdings, Inc dan entitas anak di AS yang terkait 35"
+                  },
+                  {
+                    "en": "IP Rantai Pasokan"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Pemberi sub-lisensi"
+                },
+                {
+                  "en": "Penerima sub-lisensi"
+                },
+                {
+                  "en": "Keterangan tidak berwujud"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Holdings, Inc"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Polska Sp. Z.o.o."
+                  },
+                  {
+                    "en": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Polska Sp. Z.o.o"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Food Ingredient Shanghai Limited"
+                  },
+                  {
+                    "en": "Merek dagang ofi"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Food Ingredient Shanghai Limited"
+                  },
+                  {
+                    "en": "Kekayaan Intelektual (AtSource)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Olam Services B.V."
+                  },
+                  {
+                    "en": "IP Inovasi"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "Kebijakan harga transfer sehubungan dengan R&D dan aktiva tidak berwujud ditetapkan sesuai dengan prinsip kewajaran dan kelaziman usaha."
+            },
+            {
+              "type": "paragraph",
+              "en": "4.5. Pengalihan penting atas aktiva tidak berwujud"
+            },
+            {
+              "type": "paragraph",
+              "en": "Selama tahun fiskal yang berakhir 31 Desember 2024, tidak ada pengalihan aset tidak berwujud dalam ofi Group."
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "5. Intercompany Financial Activities - Aktivitas Keuangan Antar Perusahaan",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "5.1. Tinjauan pembiayaan grup"
+            },
+            {
+              "type": "paragraph",
+              "en": "OIL, Olam Treasury Pte Ltd (“OTPL”) dan Olam Holdings B.V. (“OHBV”) memberikan pinjaman antar perusahaan kepada entitas-entitas ofi Group dengan meminjam melalui lembaga keuangan eksternal. OIL mendanai entitas-entitas ofi Group untuk memungkinkan pengadaan komoditas derivatif dan non-derivatif serta untuk pengeluaran modal. Entitas-entitas ofi Group dapat meminjam dari bank lokal secara langsung atau memperoleh dana dari OIL tergantung pada biaya dana yang optimal, dampak nilai tukar, model bisnis, dan strategi keseluruhan untuk penggunaan sumber daya yang optimal."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2. Pengaturan pembiayaan eksternal"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel di bawah ini memuat daftar 5 pengaturan pembiayaan paling penting dengan pemberi pinjaman yang tidak terkait selama TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Peminjam"
+                },
+                {
+                  "en": "Mata uang"
+                },
+                {
+                  "en": "Jumlah"
+                },
+                {
+                  "en": "Sifat pembiayaan"
+                },
+                {
+                  "en": "Bank / Pemberi Pinjaman"
+                },
+                {
+                  "en": "Tanggal perjanjian"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "OHBV"
+                  },
+                  {
+                    "en": "USD"
+                  },
+                  {
+                    "en": "1.975 Miliar"
+                  },
+                  {
+                    "en": "Jangka Panjang/Jangka Pendek"
+                  },
+                  {
+                    "en": "HSBC"
+                  },
+                  {
+                    "en": "29-Agt-22"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL"
+                  },
+                  {
+                    "en": "USD"
+                  },
+                  {
+                    "en": "1.9 Miliar"
+                  },
+                  {
+                    "en": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC"
+                  },
+                  {
+                    "en": "26-Jan-24"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL"
+                  },
+                  {
+                    "en": "USD"
+                  },
+                  {
+                    "en": "1.75 Miliar"
+                  },
+                  {
+                    "en": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC"
+                  },
+                  {
+                    "en": "31-Mar-21"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL"
+                  },
+                  {
+                    "en": "USD"
+                  },
+                  {
+                    "en": "1.75 Miliar"
+                  },
+                  {
+                    "en": "Jangka Pendek"
+                  },
+                  {
+                    "en": "HSBC"
+                  },
+                  {
+                    "en": "29-Agt-23"
+                  }
+                ],
+                [
+                  {
+                    "en": "OTPL"
+                  },
+                  {
+                    "en": "USD"
+                  },
+                  {
+                    "en": "1.2 Miliar"
+                  },
+                  {
+                    "en": "Jangka Panjang"
+                  },
+                  {
+                    "en": "HSBC"
+                  },
+                  {
+                    "en": "30-Agt-21"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.1. Cerukan bank dan pinjaman bank 40"
+            },
+            {
+              "type": "paragraph",
+              "en": "Di seluruh ofi Group, pinjaman bank dan cerukan bank harus dibayar kembali dalam jangka waktu 12 bulan dan menanggung tingkat bunga berkisar antara 0,06% hingga 30,31% per tahun (\"p.a.\") [1,95% hingga 42,00% p.a. untuk TA 2023]. Pinjaman bank yang diberikan kepada ofi Group umumnya tanpa agunan, kecuali untuk jumlah sebesar USD 0,2 juta [USD 0,3 juta pada TA 2023] yang dijamin dengan aset entitas ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.2. Pinjaman berjangka dari bank 41"
+            },
+            {
+              "type": "paragraph",
+              "en": "Pinjaman berjangka dari bank kepada entitas-entitas ofi Group menanggung tingkat suku bunga mengambang berkisar antara 5,40% hingga 29,50% p.a. [0,60% hingga 21,50% p.a. untuk TA 2023] dan dapat dibayar kembali antara satu hingga enam tahun. Di seluruh ofi Group, pinjaman berjangka umumnya tidak dijamin, kecuali untuk jumlah sebesar USD 0,1 juta [USD 0,4 juta untuk TA 2023] yang dijamin dengan aset entitas-entitas ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.2.3. Surat utang jangka menengah 42"
+            },
+            {
+              "type": "paragraph",
+              "en": "Selain itu, ofi Group memiliki program surat utang jangka menengah (“MTN”) di mana mereka memiliki kewajiban lancar dan tidak lancar masing-masing sebesar USD 94,4 juta dan USD 1.144,4 juta. Penarikan dana dari program MTN tidak dijamin."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.3. Fungsi pembiayaan sentral"
+            },
+            {
+              "type": "paragraph",
+              "en": "OTPL berfungsi sebagai fungsi perbendaharaan terpusat, yang bertanggung jawab atas sebagian besar aktivitas pembiayaan ofi Group."
+            },
+            {
+              "type": "paragraph",
+              "en": "5.4. Pembiayaan antar perusahaan – kebijakan harga transfer"
+            },
+            {
+              "type": "paragraph",
+              "en": "Kebijakan harga transfer sehubungan dengan pendanaan antar perusahaan ditetapkan sesuai dengan prinsip kewajaran dan kelaziman usaha."
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "6. Important Service Agreements - Perjanjian Layanan Penting",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Bagian ini mencantumkan pengaturan layanan penting yang saat ini dapat diberlakukan (selain layanan penelitian dan pengembangan (“R&D”)) dan juga memberikan deskripsi singkat tentang pengaturan layanan ini antara entitas ofi Group. Ini mencakup deskripsi kapabilitas dari lokasi-lokasi utama yang menyediakan layanan-layanan penting dan kebijakan harga transfer untuk mengalokasikan biaya layanan dan menentukan harga yang harus dibayar untuk layanan-layanan antar perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Gambaran umum pengaturan layanan antar perusahaan utama (selain yang dijelaskan pada bagian 4.4) ditetapkan pada tabel di bawah ini:"
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Penyedia layanan"
+                },
+                {
+                  "en": "Penerima layanan"
+                },
+                {
+                  "en": "Yurisdiksi Pajak"
+                },
+                {
+                  "en": "Kebijakan harga transfer"
+                },
+                {
+                  "en": "Pengaturan layanan"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam Insurance Limited"
+                  },
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "Pendekatan basis biaya"
+                  },
+                  {
+                    "en": "Asuransi"
+                  }
+                ],
+                [
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Entitas-entitas ofi Group"
+                  },
+                  {
+                    "en": "Bermacam-macam"
+                  },
+                  {
+                    "en": "Cost plus"
+                  },
+                  {
+                    "en": "Manajemen dan Dukungan umum"
+                  }
+                ],
+                [
+                  {
+                    "en": "Entitas-entitas ofi Group (seperti Olam Services B.V., Olam Deutschland GmbH, Olam Europe B.V., Olam Suisse Sarl, dll.)"
+                  },
+                  {
+                    "en": "OIL"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "Cost plus"
+                  },
+                  {
+                    "en": "Layanan dukungan penjualan"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "7. Financial and tax position - Posisi keuangan dan perpajakan",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "7.1. Hasil keuangan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tabel berikut menyajikan hasil keuangan konsolidasi ofi Group untuk TA 2024."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": ""
+                },
+                {
+                  "en": "TA 2024\n(dalam jutaan USD)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Pendapatan dari kontrak dengan pelanggan"
+                  },
+                  {
+                    "en": "16.315,1"
+                  }
+                ],
+                [
+                  {
+                    "en": "Penghasilan lainnya"
+                  },
+                  {
+                    "en": "46,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Beban operasional - langsung"
+                  },
+                  {
+                    "en": "(14.357,4)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Keuntungan bersih dari perubahan nilai wajar aset biologis"
+                  },
+                  {
+                    "en": "66,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Depresiasi dan amortisasi"
+                  },
+                  {
+                    "en": "(320,5)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Beban lainnya"
+                  },
+                  {
+                    "en": "(1.044,2)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Penghasilan keuangan"
+                  },
+                  {
+                    "en": "190,9"
+                  }
+                ],
+                [
+                  {
+                    "en": "Biaya keuangan"
+                  },
+                  {
+                    "en": "(911,3)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Bagian hasil dari ventura bersama dan entitas asosiasi"
+                  },
+                  {
+                    "en": "(2,8)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Kerugian sebelum pajak"
+                  },
+                  {
+                    "en": "(16,6)"
+                  }
+                ],
+                [
+                  {
+                    "en": "Kredit pajak penghasilan"
+                  },
+                  {
+                    "en": "21,8"
+                  }
+                ],
+                [
+                  {
+                    "en": "Laba tahun buku berjalan dari operasi yang dilanjutkan"
+                  },
+                  {
+                    "en": "5,2"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "7.2. Perjanjian Harga di Muka (“APA”) dan peraturan perpajakan lainnya"
+            },
+            {
+              "type": "paragraph",
+              "en": "Sub-bagian ini mencantumkan dan menawarkan penjelasan singkat mengenai Perjanjian Penentuan Harga Di Muka (Advance Pricing Agreements atau “APA”) Sepihak yang ada di ofi Group, serta Keputusan Pajak di muka lainnya terkait dengan alokasi pendapatan antar negara yang dapat diberlakukan pada TA 2024. Daftar dari seluruh APA dan keputusan pajak yang telah dilaksanakan terkait ofi Group disediakan dalam tabel di bawah."
+            },
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Daftar APAs/keputusan pajak sepihak"
+                },
+                {
+                  "en": "Negara-negara"
+                },
+                {
+                  "en": "Entitas yang terlibat"
+                },
+                {
+                  "en": "Sifat kesepakatan/putusan"
+                },
+                {
+                  "en": "Jangka waktu perjanjian"
+                },
+                {
+                  "en": "Kebijakan TP"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "APA sepihak"
+                  },
+                  {
+                    "en": "Swiss"
+                  },
+                  {
+                    "en": "Olam Suisse Sarl"
+                  },
+                  {
+                    "en": "Konsultasi penjualan, dukungan perdagangan, dan layanan dukungan umum"
+                  },
+                  {
+                    "en": "16 Oktober 2015 dan seterusnya"
+                  },
+                  {
+                    "en": "Komisi / Biaya plus"
+                  }
+                ],
+                [
+                  {
+                    "en": "APA sepihak"
+                  },
+                  {
+                    "en": "India"
+                  },
+                  {
+                    "en": "Olam Food Ingredients India Private Limited"
+                  },
+                  {
+                    "en": "Bisnis Perdagangan Pedagang"
+                  },
+                  {
+                    "en": "Tahun fiskal 2021-2022 hingga 2025-2026"
+                  },
+                  {
+                    "en": "Metode Margin Bersih Transaksional"
+                  }
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "8. Scope - Ruang Lingkup",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "8.1. Ruang lingkup laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Tujuan laporan ini adalah untuk mendokumentasikan ikhtisar bisnis global ofi Group untuk TA 2024."
+            },
+            {
+              "type": "paragraph",
+              "en": "8.2. Pekerjaan dilakukan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Selama melakukan analisis ini, kami telah melakukan hal-hal berikut:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Berhubungan dengan OIL untuk mendapatkan latar belakang, keuangan dan informasi lain sehubungan dengan bisnis ofi Group;\n• Menelaah informasi relevan yang diperoleh dari OIL; dan\n• Mengkonfirmasi pemahaman kami tentang fungsi dan risiko ofi Group terhadap OIL."
+            },
+            {
+              "type": "paragraph",
+              "en": "8.3. Keterbatasan laporan"
+            },
+            {
+              "type": "paragraph",
+              "en": "Laporan ini disiapkan semata-mata untuk digunakan oleh OIL dan tidak boleh diandalkan oleh pihak lain mana pun untuk tujuan lain apa pun. Secara khusus, laporan ini disusun hanya dari sudut pandang OECD TP, sejalan dengan Pedoman OECD TP yang ada pada saat penyusunan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Selama penyusunan laporan ini, kami telah merujuk pada berbagai informasi keuangan dan non-keuangan. Berbagai database perusahaan publik dan swasta yang diterbitkan telah diandalkan untuk profil dan data keuangan perusahaan sebanding yang dipilih. Prosedur kami tidak mencakup verifikasi independen terhadap data keuangan yang terdapat pada database dan, sebagai konsekuensinya, kami tidak menyatakan pendapat apa pun atas informasi keuangan atau informasi lainnya yang dirujuk dalam laporan ini."
+            },
+            {
+              "type": "paragraph",
+              "en": "Secara khusus, analisis dan pelaporan tunduk pada hal-hal berikut:"
+            },
+            {
+              "type": "paragraph",
+              "en": "• Informasi, dokumen, dan fakta yang diberikan oleh OIL;\n• Asumsi kami bahwa informasi yang diberikan adalah lengkap dan benar;\n• Pemahaman OIL bahwa salah saji, kelalaian, atau perubahan apa pun atas informasi yang kami andalkan dapat membuat kesimpulan kami dalam laporan tersebut tidak sah atau mengharuskan (atas permintaan OIL) mempertimbangkan kembali laporan tersebut;\n• Undang-undang, peraturan, kasus, keputusan, dan otoritas pajak lainnya yang berlaku pada tanggal laporan. Setiap perubahan material terhadap otoritas pajak tersebut (yang kami tidak bertanggung jawab untuk memberikan nasihat kepada OIL) dapat membuat kesimpulan kami dalam laporan tersebut tidak sah atau mengharuskan (atas permintaan OIL) untuk mempertimbangkan kembali laporan tersebut;\n• Pemahaman OIL bahwa kesimpulan dalam laporan kami tidak mengikat otoritas pajak atau pengadilan dan tidak boleh dianggap sebagai representasi bahwa otoritas pajak atau pengadilan akan menyetujui kesimpulan kami;\n• Pemahaman OIL bahwa ruang lingkup layanan kami mengecualikan penampilan kami di hadapan otoritas pajak, di pengadilan atau dalam proses arbitrase, memberikan kesaksian sebagai saksi ahli atau keterlibatan lain dalam proses hukum; dan\n• Pemahaman OIL bahwa tanggung jawab kami atas laporan ini dan kesimpulan kami terbatas pada transaksi yang ditinjau dan bahwa pekerjaan kami tidak boleh diandalkan, diungkapkan kepada, atau disalin oleh siapa pun tanpa persetujuan tertulis kami sebelumnya. Tidak ada tanggung jawab yang akan diterima atas kerugian yang ditimbulkan pada pihak lain mana pun yang bertindak atas atau menahan diri dari tindakan yang disebabkan oleh pekerjaan kami."
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "Disclaimer - Penafian",
+          "content": [
+            {
+              "type": "paragraph",
+              "en": "Deloitte merujuk pada satu atau lebih dari Deloitte Touche Tohmatsu Limited (“DTTL”), jaringan firma anggota globalnya, dan entitas terkaitnya (secara kolektif, “organisasi Deloitte”). DTTL (juga disebut sebagai “Deloitte Global”) dan masing-masing firma anggota dan entitas terkaitnya adalah entitas yang terpisah dan independen secara hukum, yang tidak dapat mewajibkan atau mengikat satu sama lain sehubungan dengan pihak ketiga. DTTL dan masing-masing firma anggota DTTL dan entitas terkait hanya bertanggung jawab atas tindakan dan kelalaiannya sendiri, dan bukan atas tindakan dan kelalaian masing-masing pihak lainnya. DTTL tidak memberikan layanan kepada klien. Silakan lihat www.deloitte.com/about untuk mempelajari lebih lanjut."
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Asia Pacific Limited adalah perseroan terbatas dengan jaminan dan firma anggota DTTL. Anggota Deloitte Asia Pacific Limited dan entitas terkait, yang masing-masing merupakan badan hukum terpisah dan independen, memberikan layanan dari lebih dari 100 kota di seluruh wilayah, termasuk Auckland, Bangkok, Beijing, Hanoi, Hong Kong, Jakarta, Kuala Lumpur, Manila, Melbourne, Osaka, Seoul, Shanghai, Singapura, Sydney, Taipei, dan Tokyo."
+            },
+            {
+              "type": "paragraph",
+              "en": "Tentang Deloitte Singapura\nDi Singapura, layanan perpajakan disediakan oleh Deloitte Tax Solutions Pte. Ltd. dan layanan lainnya (jika berlaku) dapat dilakukan oleh anak perusahaan dan/atau afiliasinya."
+            },
+            {
+              "type": "paragraph",
+              "en": "Deloitte Tax Solutions Pte. Ltd. (Nomor entitas unik: 202008330C) adalah perusahaan yang didirikan di Singapura berdasarkan Undang-Undang Perusahaan."
+            },
+            {
+              "type": "paragraph",
+              "en": "Penafian\nKomunikasi ini hanya memuat informasi umum, dan tidak satupun dari Deloitte Touche Tohmatsu Limited (“DTTL”), jaringan firma anggota globalnya atau entitas terkaitnya (secara kolektif, “organisasi Deloitte”) melalui komunikasi ini, yang memberikan nasihat atau layanan profesional. Sebelum membuat keputusan atau mengambil tindakan apa pun yang dapat memengaruhi keuangan atau bisnis Anda, Anda harus berkonsultasi dengan penasihat profesional yang berkualifikasi. Tidak ada representasi, jaminan, atau usaha (tersurat maupun tersirat) yang diberikan mengenai keakuratan atau kelengkapan informasi dalam komunikasi ini, dan baik DTTL, firma anggota, entitas terkait, karyawan, atau agennya tidak akan dimintai pertanggungjawaban atau bertanggung jawab atas kerugian apa pun atau kerusakan apa pun yang timbul secara langsung atau tidak langsung sehubungan dengan siapa pun yang mengandalkan komunikasi ini. DTTL dan masing-masing firma anggotanya, serta entitas terkaitnya, adalah entitas yang terpisah dan independen secara hukum."
+            },
+            {
+              "type": "paragraph",
+              "en": "© 2025 Deloitte Tax Solutions Pte. Ltd."
+            }
+          ]
+        },
+        {
+          "id": "appendix-a",
+          "title": "Lampiran A. Grup ofi – Struktur hukum dan kepemilikan",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Nama Entitas"
+                },
+                {
+                  "en": "Negara"
+                },
+                {
+                  "en": "% yang dimiliki oleh Grup"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "EURL Agri Commodities"
+                  },
+                  {
+                    "en": "Aljazair"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Almonds Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Australia Proprietary Limited"
+                  },
+                  {
+                    "en": "Australia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Orchards Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agricola Ltda"
+                  },
+                  {
+                    "en": "Brasil"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Armazens Gerais Ltda"
+                  },
+                  {
+                    "en": "Brasil"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Burkina Sarl"
+                  },
+                  {
+                    "en": "Burkina Faso"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Ikawa Nziza Sprl"
+                  },
+                  {
+                    "en": "Burundi"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Outspan (Cambodia) Co., Ltd."
+                  },
+                  {
+                    "en": "Kamboja"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Cameroon S.A."
+                  },
+                  {
+                    "en": "Kamerun"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Club Coffee Company Inc."
+                  },
+                  {
+                    "en": "Kanada"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Club Coffee L.P."
+                  },
+                  {
+                    "en": "Kanada"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Northern Lights Research Inc."
+                  },
+                  {
+                    "en": "Kanada"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Canada Inc."
+                  },
+                  {
+                    "en": "Kanada"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Squirrel (Wuhu) Co Ltd"
+                  },
+                  {
+                    "en": "Tiongkok"
+                  },
+                  {
+                    "en": "80"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Shanghai Limited"
+                  },
+                  {
+                    "en": "Tiongkok"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Shandong Key Foods Co. Ltd"
+                  },
+                  {
+                    "en": "Tiongkok"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Ofi (Wuhu) Co.,Ltd"
+                  },
+                  {
+                    "en": "Tiongkok"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Colombia SAS"
+                  },
+                  {
+                    "en": "Kolombia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Virunga Coffee SARL"
+                  },
+                  {
+                    "en": "Republik Demokratik Kongo"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ecuador SA"
+                  },
+                  {
+                    "en": "Ekuador"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Agri Commodities L.L.C."
+                  },
+                  {
+                    "en": "Mesir"
+                  },
+                  {
+                    "en": "99.995"
+                  }
+                ],
+                [
+                  {
+                    "en": "Dehydro Foods S.A.E."
+                  },
+                  {
+                    "en": "Mesir"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Georgia LLC"
+                  },
+                  {
+                    "en": "Georgia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch Importhandels GmbH"
+                  },
+                  {
+                    "en": "Jerman"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch International GmbH"
+                  },
+                  {
+                    "en": "Jerman"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Deutschland GmbH"
+                  },
+                  {
+                    "en": "Jerman"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Deutschland GmbH"
+                  },
+                  {
+                    "en": "Jerman"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Ghana Limited"
+                  },
+                  {
+                    "en": "Ghana"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ghana Ltd"
+                  },
+                  {
+                    "en": "Ghana"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Guatemala SA"
+                  },
+                  {
+                    "en": "Guatemala"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Honduras S.A. de C.V"
+                  },
+                  {
+                    "en": "Honduras"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Enterprises India Private Limited"
+                  },
+                  {
+                    "en": "India"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro India Private Limited)"
+                  },
+                  {
+                    "en": "India"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Innovation Centre India Private Limited"
+                  },
+                  {
+                    "en": "India"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Bumitangerang Mesindotama"
+                  },
+                  {
+                    "en": "Indonesia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Dipankara Dhanya Indonesia"
+                  },
+                  {
+                    "en": "Indonesia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Cocoa Indonesia"
+                  },
+                  {
+                    "en": "Indonesia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Indonesia"
+                  },
+                  {
+                    "en": "Indonesia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Insurance Limited"
+                  },
+                  {
+                    "en": "Isle of Man"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Italia S.R.L"
+                  },
+                  {
+                    "en": "Italia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Blenda SRL"
+                  },
+                  {
+                    "en": "Italia"
+                  },
+                  {
+                    "en": "70"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Cote d Ivoire"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ivoire Sarl"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Ivoire"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Bolovens Limited"
+                  },
+                  {
+                    "en": "Republik Demokratik Rakyat Laos"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa (Sabah) Sdn. Bhd."
+                  },
+                  {
+                    "en": "Malaysia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Malaysia Sdn. Bhd."
+                  },
+                  {
+                    "en": "Malaysia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI MALAYSIA SDN. BHD"
+                  },
+                  {
+                    "en": "Malaysia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Investments Limited"
+                  },
+                  {
+                    "en": "Mauritius"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Mexico S.A. de C.V."
+                  },
+                  {
+                    "en": "Meksiko"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Brands B.V."
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa B.V."
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa International B.V."
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Europe B.V"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holding BV"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Services B.V"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Holdings BV"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Brands BV"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi AtSource BV"
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury B.V."
+                  },
+                  {
+                    "en": "Belanda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients New Zealand Limited"
+                  },
+                  {
+                    "en": "Selandia Baru"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Nicaragua S.A."
+                  },
+                  {
+                    "en": "Nikaragua"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Nigeria Ltd"
+                  },
+                  {
+                    "en": "Nigeria"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan PNG Limited"
+                  },
+                  {
+                    "en": "Papua Nugini"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agro Peru SAC"
+                  },
+                  {
+                    "en": "Peru"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Philippines Inc"
+                  },
+                  {
+                    "en": "Filipina"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Polska Sp. Z.o.o."
+                  },
+                  {
+                    "en": "Polandia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Agrohub Commodities Pte Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Pte Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Vietnam Pte. Ltd."
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam International Limited"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury Pte Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "YTS Holdings Pte Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Spain S.L."
+                  },
+                  {
+                    "en": "Spanyol"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seda Outspan Iberia S.L (Sociedad Unipersonal)"
+                  },
+                  {
+                    "en": "Spanyol"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Suisse Sarl"
+                  },
+                  {
+                    "en": "Swiss"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Schluter SA"
+                  },
+                  {
+                    "en": "Swiss"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Aviv Tanzania Limited"
+                  },
+                  {
+                    "en": "Tanzania"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Agro Timor Unipessoal LDA"
+                  },
+                  {
+                    "en": "Timor Leste"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "ofi Tarim Sanayi ve Ticaret A.Ş (f.k.a. Progıda Tarım Űrűnleri Sanayi ve Ticaret A.Ş.)"
+                  },
+                  {
+                    "en": "Turki"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Tarim Urunleri Yem Maddeleri Sanayi ve Ticaret Limited Sirketi"
+                  },
+                  {
+                    "en": "Turki"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam (Uganda) Limited"
+                  },
+                  {
+                    "en": "Uganda"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ukraine LLC"
+                  },
+                  {
+                    "en": "Ukraina"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients DMCC"
+                  },
+                  {
+                    "en": "Uni Emirat Arab"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Middle East (L.L.C.)"
+                  },
+                  {
+                    "en": "Uni Emirat Arab"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Covoya Ltd (f.k.a.Olam Specialty Coffee Europe)"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Marsch Import Ltd"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Group Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Europe Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients UK Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam International UK Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Storage & Distribution Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OFI Group Nominees Limited"
+                  },
+                  {
+                    "en": "Inggris Raya"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Gel Spice Co, Inc"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Gel Spice Co, LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Hughson Nut, Inc"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Americas, LLC."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Chile Peppers, LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Farming, Inc."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings Inc."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam OT Holdings, LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Peanut Shelling Company Inc"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam US Holdings, Inc."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam West Coast Inc."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olde Thompson, LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Acquisition Co. LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Borrower LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Guarantor LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Holdings Corp."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "OT Intermediate LLC"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seabrook Enterprises Inc."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Universal Blanchers, L.L.C."
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Cafe Outspan Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Food Processing Company Limited"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Truong Thinh Investment and Construction Joint Stock Company"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Northern Coffee Corporation Limited"
+                  },
+                  {
+                    "en": "Zambia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Zambia Limited"
+                  },
+                  {
+                    "en": "Zambia"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "Daftar anak perusahaan per 31.12.2024"
+            }
+          ]
+        },
+        {
+          "id": "appendix-b",
+          "title": "Lampiran B. Daftar entitas utama Grup ofi",
+          "content": [
+            {
+              "type": "table",
+              "headers": [
+                {
+                  "en": "Entitas operasi"
+                },
+                {
+                  "en": "Lokasi geografis"
+                },
+                {
+                  "en": "Aktivitas utama"
+                },
+                {
+                  "en": "Persentase efektif ekuitas yang dimiliki oleh Grup pada TA 2024 (%)"
+                }
+              ],
+              "rows": [
+                [
+                  {
+                    "en": "Olam International Limited"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "(a), (b)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Treasury Pte. Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "(d)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Pte. Ltd"
+                  },
+                  {
+                    "en": "Singapura"
+                  },
+                  {
+                    "en": "(a), (b)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Ghana Limited"
+                  },
+                  {
+                    "en": "Ghana"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients Ghana Ltd"
+                  },
+                  {
+                    "en": "Ghana"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Ivoire SA"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Ivoire SA"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Cocoa Processing Cote d’ Ivoire"
+                  },
+                  {
+                    "en": "Pantai Gading"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Outspan Nigeria Limited"
+                  },
+                  {
+                    "en": "Nigeria"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Café Outspan Vietnam Limited"
+                  },
+                  {
+                    "en": "Vietnam"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "PT Olam Indonesia"
+                  },
+                  {
+                    "en": "Indonesia"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients India Private Limited (f.k.a Olam Agro  India Private Limited)"
+                  },
+                  {
+                    "en": "India"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Agricola Ltda."
+                  },
+                  {
+                    "en": "Brasil"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Holdings Inc"
+                  },
+                  {
+                    "en": "Amerika Serikat"
+                  },
+                  {
+                    "en": "(b), (d)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Orchards Australia Pty Ltd"
+                  },
+                  {
+                    "en": "Australia"
+                  },
+                  {
+                    "en": "(a), (c)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Olam Food Ingredients New Zealand Limited"
+                  },
+                  {
+                    "en": "Selandia Baru"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ],
+                [
+                  {
+                    "en": "Seda Outspan Iberia S.L."
+                  },
+                  {
+                    "en": "Spanyol"
+                  },
+                  {
+                    "en": "(a)"
+                  },
+                  {
+                    "en": "100"
+                  }
+                ]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "en": "Sumber: Laporan Tahunan Olam Group Limited 2024 (halaman 217)\n(a) Pengadaan, pemrosesan, pengemasan, dan perdagangan produk serta input pertanian\n(b) Perusahaan induk investasi\n(c) Operasi pertanian\n(d) Aktivitas perbendaharaan"
+            }
+          ]
+        }
       ]
     }
   },
