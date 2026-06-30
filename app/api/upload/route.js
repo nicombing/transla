@@ -1,5 +1,8 @@
 import { NextResponse } from 'next/server';
 
+// Vercel serverless function max duration (in seconds)
+export const maxDuration = 60;
+
 export async function POST(request) {
   try {
     const formData = await request.formData();
