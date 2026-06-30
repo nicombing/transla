@@ -68,9 +68,9 @@ Important Rules:
 
     console.log("Sending file to Gemini...");
     
-    // Generate content using gemini-1.5-pro for best multimodal support
+    // Generate content using gemini-3.1-pro-preview for best multimodal support
     const response = await ai.models.generateContent({
-        model: 'gemini-1.5-pro-latest',
+        model: 'gemini-3.1-pro-preview',
         contents: [
             prompt,
             {
