@@ -1,7 +1,4 @@
 export const documentLibrary = {
-  "AcmeCorp_2023": {
-    name: "Acme Corp Master File 2023",
-    versions: {
   'Journey2Quit': {
     name: 'Journey2Quit Workbook',
     versions: {
