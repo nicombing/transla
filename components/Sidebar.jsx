@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { documentLibrary } from './data';
-import { X, ChevronDown, ChevronRight, FileText, Folder, SplitSquareHorizontal } from 'lucide-react';
+import { X, ChevronDown, ChevronRight, FileText, Folder, SplitSquareHorizontal, Home } from 'lucide-react';
 
 const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersionId, setActiveVersionId, viewMode, setViewMode }) => {
   // Track which document folders are expanded
@@ -62,6 +62,15 @@ const Sidebar = ({ isOpen, setIsOpen, activeDocId, setActiveDocId, activeVersion
 
         <nav className="p-4 overflow-y-auto flex-1">
           <div className="mb-4 pb-4 border-b border-gray-200 space-y-2">
+            <button
+              onClick={() => { setViewMode('home'); setActiveDocId(null); setActiveVersionId(null); if(window.innerWidth < 1024) setIsOpen(false); }}
+              className={`w-full flex items-center text-left font-sans text-sm font-semibold px-2 py-2 rounded-md transition-colors ${
+                viewMode === 'home' ? 'bg-blue-100 text-blue-700' : 'text-gray-800 hover:bg-gray-200'
+              }`}
+            >
+              <Home size={16} className={`mr-2 ${viewMode === 'home' ? 'text-blue-600' : 'text-blue-500'}`} />
+              Home
+            </button>
             <button
               onClick={() => { setViewMode('comparison'); if(window.innerWidth < 1024) setIsOpen(false); }}
               className={`w-full flex items-center text-left font-sans text-sm font-semibold px-2 py-2 rounded-md transition-colors ${

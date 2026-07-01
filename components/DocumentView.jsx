@@ -11,7 +11,7 @@ const DocumentView = ({ activeDocId, activeVersionId, isSidebarOpen }) => {
       <div className="max-w-3xl mx-auto mt-16 lg:mt-0">
         <header className="mb-12">
           <h1 className="text-3xl lg:text-4xl font-sans font-bold text-gray-900 mb-4">
-            Transfer Pricing Document {activeDocId}
+            {documentLibrary[activeDocId]?.name || activeDocId}
           </h1>
           <div className="flex items-center text-gray-500 font-sans text-sm space-x-4">
             <span className="bg-gray-100 px-3 py-1 rounded-full font-medium">Version: {activeVersionId}</span>

@@ -5,13 +5,14 @@ import Sidebar from '../components/Sidebar';
 import DocumentView from '../components/DocumentView';
 import ComparisonView from '../components/ComparisonView';
 import UploadView from '../components/UploadView';
+import HomeView from '../components/HomeView';
 import { Menu } from 'lucide-react';
 
 export default function Home() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(true);
-  const [activeDocId, setActiveDocId] = useState('TR25');
-  const [activeVersionId, setActiveVersionId] = useState('V1 Side by side');
-  const [viewMode, setViewMode] = useState('document'); // default to 'document' for private viewer
+  const [activeDocId, setActiveDocId] = useState(null);
+  const [activeVersionId, setActiveVersionId] = useState(null);
+  const [viewMode, setViewMode] = useState('home'); // default to 'home'
 
   useEffect(() => {
     setIsSidebarOpen(window.innerWidth >= 1024);
@@ -29,7 +30,7 @@ export default function Home() {
           <Menu size={24} />
         </button>
         <span className="ml-4 font-bold text-gray-800 font-sans truncate">
-          {viewMode === 'upload' ? 'Upload Document' : viewMode === 'comparison' ? 'Comparison Analysis' : `Transla - ${activeDocId}`}
+          {viewMode === 'home' ? 'Transla Home' : viewMode === 'upload' ? 'Upload Document' : viewMode === 'comparison' ? 'Comparison Analysis' : `Transla - ${activeDocId}`}
         </span>
       </header>
 
@@ -55,7 +56,9 @@ export default function Home() {
         setViewMode={setViewMode}
       />
       
-      {viewMode === 'upload' ? (
+      {viewMode === 'home' ? (
+        <HomeView isSidebarOpen={isSidebarOpen} setViewMode={setViewMode} />
+      ) : viewMode === 'upload' ? (
         <UploadView 
           isSidebarOpen={isSidebarOpen} 
           setActiveDocId={setActiveDocId}
