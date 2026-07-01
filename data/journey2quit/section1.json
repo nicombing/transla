@@ -1,0 +1,209 @@
+[
+  {
+    "id": "title",
+    "title": "Title Page",
+    "content": [
+      { "type": "paragraph", "en": "Journey2Quit", "id": "Journey2Quit" },
+      { "type": "paragraph", "en": "A Workbook to Help You Quit Smoking", "id": "Buku Kerja untuk Membantu Anda Berhenti Merokok" }
+    ]
+  },
+  {
+    "id": "introduction",
+    "title": "Introduction",
+    "content": [
+      { "type": "paragraph", "en": "Congratulations!\nYou have decided to quit smoking.\nYou are taking a big step towards a healthier life.", "id": "Selamat!\nAnda telah memutuskan untuk berhenti merokok.\nAnda mengambil langkah besar menuju kehidupan yang lebih sehat." },
+      { "type": "paragraph", "en": "This guide is divided into three sections. It will help you get ready, get set and go on your journey to quit smoking. You can do it at your own speed and in your own way. Only you will know what is best for you. This guide is packed with ideas to help you make a quitting plan.", "id": "Panduan ini dibagi menjadi tiga bagian. Ini akan membantu Anda bersiap, bersedia, dan mulai dalam perjalanan Anda untuk berhenti merokok. Anda dapat melakukannya dengan kecepatan dan cara Anda sendiri. Hanya Anda yang tahu apa yang terbaik untuk Anda. Panduan ini dikemas dengan berbagai ide untuk membantu Anda membuat rencana berhenti." },
+      { "type": "paragraph", "en": "Quitting is not easy.\nSo take it one step at a time.\nDo it for you!", "id": "Berhenti merokok tidaklah mudah.\nJadi ambillah selangkah demi selangkah.\nLakukanlah demi diri Anda sendiri!" }
+    ]
+  },
+  {
+    "id": "content-toc",
+    "title": "Content",
+    "content": [
+      {
+        "type": "table",
+        "headers": [
+          { "en": "Page", "id": "Halaman" },
+          { "en": "Topic", "id": "Topik" },
+          { "en": "Section", "id": "Bagian" }
+        ],
+        "rows": [
+          [
+            { "en": "3", "id": "3" },
+            { "en": "Why do you smoke?\nWhy do you want to quit?", "id": "Mengapa Anda merokok?\nMengapa Anda ingin berhenti?" },
+            { "en": "Section 1: Get Ready!\nThis section will help you to get ready for your new life as a non-smoker. Getting ready for change is important. This section will help you to learn how you feel about quitting. Find out if you're ready to take a step towards a healthier life.", "id": "Bagian 1: Bersiaplah!\nBagian ini akan membantu Anda bersiap untuk kehidupan baru Anda sebagai seorang non-perokok. Bersiap untuk perubahan adalah hal yang penting. Bagian ini akan membantu Anda mempelajari bagaimana perasaan Anda tentang berhenti merokok. Cari tahu apakah Anda siap untuk mengambil langkah menuju kehidupan yang lebih sehat." }
+          ],
+          [
+            { "en": "4", "id": "4" },
+            { "en": "Tobacco Addiction", "id": "Kecanduan Tembakau" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "5", "id": "5" },
+            { "en": "Think about the Costs of Smoking", "id": "Pikirkan tentang Biaya Merokok" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "6", "id": "6" },
+            { "en": "Think about the Benefits of Quitting", "id": "Pikirkan tentang Manfaat Berhenti" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "8", "id": "8" },
+            { "en": "What to Expect when Quitting Smoking", "id": "Apa yang Diharapkan Saat Berhenti Merokok" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "10", "id": "10" },
+            { "en": "Weight Gain", "id": "Penambahan Berat Badan" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "11", "id": "11" },
+            { "en": "Stress", "id": "Stres" },
+            { "en": "", "id": "" }
+          ],
+          [
+            { "en": "12", "id": "12" },
+            { "en": "Imagine It", "id": "Bayangkan" },
+            { "en": "", "id": "" }
+          ]
+        ]
+      },
+      { "type": "paragraph", "en": "The Ontario Lung Association would like to thank and acknowledge the Centre for Addiction and Mental Health for their ongoing collaboration and review of the content of this workbook.", "id": "Ontario Lung Association ingin berterima kasih dan memberikan penghargaan kepada Centre for Addiction and Mental Health atas kolaborasi dan peninjauan konten buku kerja ini yang berkelanjutan." }
+    ]
+  },
+  {
+    "id": "section1-intro",
+    "title": "Section 1: GET READY!",
+    "content": [
+      { "type": "paragraph", "en": "Some people go back to smoking after quitting because they didn't plan ahead. You wouldn't run a race without training for it, right? You need training to quit smoking!", "id": "Beberapa orang kembali merokok setelah berhenti karena mereka tidak merencanakannya sebelumnya. Anda tidak akan berlari dalam perlombaan tanpa berlatih untuk itu, bukan? Anda perlu pelatihan untuk berhenti merokok!" },
+      { "type": "paragraph", "en": "Getting ready is an important part of quitting. It can also be the longest part. Take some time to get ready. Prepare your mind and body for this big change.", "id": "Bersiap adalah bagian penting dari berhenti merokok. Ini juga bisa menjadi bagian terlama. Luangkan waktu untuk bersiap. Siapkan pikiran dan tubuh Anda untuk perubahan besar ini." },
+      { "type": "paragraph", "en": "Here is what you can expect in this first section of your training!\n• Think about why you smoke and why you want to quit.\n• Learn more about your addiction to tobacco.\n• Think about the cons of smoking and the benefits of quitting.\n• Review what to expect when you quit.", "id": "Inilah yang dapat Anda harapkan pada bagian pertama pelatihan Anda ini!\n• Pikirkan tentang mengapa Anda merokok dan mengapa Anda ingin berhenti.\n• Pelajari lebih lanjut tentang kecanduan Anda pada tembakau.\n• Pikirkan tentang kerugian merokok dan manfaat berhenti merokok.\n• Tinjau apa yang diharapkan ketika Anda berhenti." },
+      { "type": "paragraph", "en": "\"Failing to prepare is preparing to fail.\"\nJohn Wooden\n\nYour journey begins now!", "id": "\"Gagal bersiap berarti bersiap untuk gagal.\"\nJohn Wooden\n\nPerjalanan Anda dimulai sekarang!" }
+    ]
+  },
+  {
+    "id": "why-smoke-quit",
+    "title": "Why do you smoke? Why do you want to quit?",
+    "content": [
+      { "type": "paragraph", "en": "You smoke for many reasons. To feel good about quitting, you need to know why you like smoking.\n\nFor example, you might smoke because you like the way it relaxes you. You might smoke because it helps you deal with your stress. Why do you smoke? List your reasons below.\n\nReasons to Smoke:\n________________________________________________________\n________________________________________________________\n________________________________________________________", "id": "Anda merokok karena banyak alasan. Untuk merasa baik tentang berhenti, Anda perlu tahu mengapa Anda suka merokok.\n\nSebagai contoh, Anda mungkin merokok karena Anda suka bagaimana hal itu membuat Anda rileks. Anda mungkin merokok karena hal itu membantu Anda mengatasi stres. Mengapa Anda merokok? Buatlah daftar alasan Anda di bawah ini.\n\nAlasan Merokok:\n________________________________________________________\n________________________________________________________\n________________________________________________________" },
+      { "type": "paragraph", "en": "You have good reasons to quit. Maybe you don't want to spend money on cigarettes. Maybe you don't like smoking outdoors when it's cold, rainy or snowy. Why do you want to quit smoking? List your reasons below.\n\nReasons to Quit:\n________________________________________________________\n________________________________________________________\n________________________________________________________", "id": "Anda memiliki alasan yang baik untuk berhenti. Mungkin Anda tidak ingin menghabiskan uang untuk rokok. Mungkin Anda tidak suka merokok di luar ruangan saat cuaca dingin, hujan, atau bersalju. Mengapa Anda ingin berhenti merokok? Buatlah daftar alasan Anda di bawah ini.\n\nAlasan Berhenti:\n________________________________________________________\n________________________________________________________\n________________________________________________________" },
+      { "type": "table", "headers": [ { "en": "Do you have more reasons to smoke?", "id": "Apakah Anda memiliki lebih banyak alasan untuk merokok?" }, { "en": "Do you have more reasons to quit?", "id": "Apakah Anda memiliki lebih banyak alasan untuk berhenti?" }, { "en": "Are the numbers of reasons equal?", "id": "Apakah jumlah alasannya sama?" } ], "rows": [ [ { "en": "Smoking still ranks mainly on the positive side for you. You may see some of the negatives, but do they outweigh the positives? Are you really ready to say goodbye to all of those things you like about smoking? You may need to take more time to think about this before moving forward with your quit attempt. Keep reading, but come back to this list before moving on to the next section.", "id": "Merokok masih menempati peringkat terutama di sisi positif bagi Anda. Anda mungkin melihat beberapa hal negatif, tetapi apakah kerugiannya lebih besar daripada keuntungannya? Apakah Anda benar-benar siap untuk mengucapkan selamat tinggal pada semua hal yang Anda sukai tentang merokok? Anda mungkin perlu meluangkan lebih banyak waktu untuk memikirkan hal ini sebelum melanjutkan upaya berhenti Anda. Teruslah membaca, tetapi kembalilah ke daftar ini sebelum melanjutkan ke bagian berikutnya." }, { "en": "You feel that smoking does more harm than good in your life. Remember these reasons as you try to quit smoking.", "id": "Anda merasa bahwa merokok lebih banyak mendatangkan kerugian daripada kebaikan dalam hidup Anda. Ingatlah alasan-alasan ini saat Anda mencoba untuk berhenti merokok." }, { "en": "This is a good start. Make a new list later to see if one list grows longer than the other.", "id": "Ini adalah awal yang baik. Buat daftar baru nanti untuk melihat apakah salah satu daftar bertambah panjang daripada yang lain." } ] ] },
+      { "type": "paragraph", "en": "For help as you prepare to quit smoking, call the toll-free Lung Health Information Line at 1-888-344-LUNG (5864)", "id": "Untuk mendapatkan bantuan saat Anda bersiap untuk berhenti merokok, hubungi Saluran Informasi Kesehatan Paru bebas pulsa di 1-888-344-LUNG (5864)" }
+    ]
+  },
+  {
+    "id": "tobacco-addiction",
+    "title": "Tobacco Addiction",
+    "content": [
+      { "type": "paragraph", "en": "Tobacco and cigarettes contain nicotine. Nicotine is very addictive.\nWhen nicotine enters your body, it goes straight to your brain and makes you feel good. But, the good feeling soon goes away. You want more cigarettes to feel good again. Always wanting to smoke means you have an addiction.", "id": "Tembakau dan rokok mengandung nikotin. Nikotin sangat membuat kecanduan.\nSaat nikotin memasuki tubuh Anda, ia langsung masuk ke otak dan membuat Anda merasa nyaman. Namun, perasaan nyaman itu segera hilang. Anda menginginkan lebih banyak rokok untuk merasa nyaman kembali. Selalu ingin merokok berarti Anda memiliki kecanduan." },
+      { "type": "paragraph", "en": "Understanding your addiction is important. Some people are more addicted to tobacco than others. Being more addicted makes it harder to quit smoking. Think about how addicted you are. This will help you when you try to quit smoking.", "id": "Memahami kecanduan Anda adalah hal yang penting. Beberapa orang lebih kecanduan tembakau daripada yang lain. Menjadi lebih kecanduan membuat proses berhenti merokok menjadi lebih sulit. Pikirkan seberapa kecanduannya Anda. Hal ini akan membantu Anda saat Anda mencoba untuk berhenti merokok." },
+      { "type": "paragraph", "en": "Take this short quiz to learn how your addiction affects you. Read each question, and circle an answer for each one.", "id": "Ikuti kuis singkat ini untuk mempelajari bagaimana kecanduan Anda memengaruhi Anda. Baca setiap pertanyaan, dan lingkari jawaban untuk setiap pertanyaan." },
+      {
+        "type": "table",
+        "headers": [ { "en": "Question", "id": "Pertanyaan" }, { "en": "Answer / Points", "id": "Jawaban / Poin" } ],
+        "rows": [
+          [ { "en": "1. How soon after you wake up do you smoke your first cigarette?", "id": "1. Seberapa cepat setelah bangun tidur Anda menghisap rokok pertama Anda?" }, { "en": "Less than 5 minutes (3)\n6-30 minutes (2)\n31-60 minutes (1)\nAfter 60 minutes (0)", "id": "Kurang dari 5 menit (3)\n6-30 menit (2)\n31-60 menit (1)\nSetelah 60 menit (0)" } ],
+          [ { "en": "2. Smoking is not allowed in some places. Is it hard for you to visit places where you cannot smoke?", "id": "2. Merokok tidak diperbolehkan di beberapa tempat. Apakah sulit bagi Anda untuk mengunjungi tempat-tempat di mana Anda tidak boleh merokok?" }, { "en": "Yes (1)\nNo (0)", "id": "Ya (1)\nTidak (0)" } ],
+          [ { "en": "3. Which cigarette do you need most?", "id": "3. Rokok mana yang paling Anda butuhkan?" }, { "en": "The first smoke in the morning (1)\nAny other cigarette (0)", "id": "Rokok pertama di pagi hari (1)\nRokok lainnya (0)" } ],
+          [ { "en": "4. How many cigarettes do you smoke?", "id": "4. Berapa banyak rokok yang Anda hisap?" }, { "en": "1-10 in a day (0)\n11-20 in a day (1)\n21-30 in a day (2)\n30 or more in a day (3)", "id": "1-10 dalam sehari (0)\n11-20 dalam sehari (1)\n21-30 dalam sehari (2)\n30 atau lebih dalam sehari (3)" } ],
+          [ { "en": "5. Do you smoke more first thing in the morning than during the rest of the day?", "id": "5. Apakah Anda lebih banyak merokok pada waktu pertama di pagi hari dibandingkan pada waktu lain di siang hari?" }, { "en": "Yes (1)\nNo (0)", "id": "Ya (1)\nTidak (0)" } ],
+          [ { "en": "6. Do you smoke when you are sick?", "id": "6. Apakah Anda merokok saat Anda sakit?" }, { "en": "Yes (1)\nNo (0)", "id": "Ya (1)\nTidak (0)" } ],
+          [ { "en": "Add up the numbers beside the answers you circled.", "id": "Tambahkan angka di samping jawaban yang Anda lingkari." }, { "en": "MY TOTAL IS: ____", "id": "TOTAL SAYA: ____" } ]
+        ]
+      },
+      { "type": "paragraph", "en": "Total is under 5 – Your addiction is low. Act now before you become more addicted. It doesn't take long to become very addicted.\n\nTotal is 5 – You are addicted. If you do not quit now your addiction will grow stronger. It will be harder to quit later.\n\nTotal is more than 7 – You are very addicted. Your addiction is controlling you! It's time to make a change.", "id": "Total di bawah 5 – Kecanduan Anda rendah. Bertindaklah sekarang sebelum Anda menjadi lebih kecanduan. Tidak butuh waktu lama untuk menjadi sangat kecanduan.\n\nTotal adalah 5 – Anda kecanduan. Jika Anda tidak berhenti sekarang, kecanduan Anda akan tumbuh lebih kuat. Akan lebih sulit untuk berhenti nanti.\n\nTotal lebih dari 7 – Anda sangat kecanduan. Kecanduan Anda mengendalikan Anda! Sudah waktunya untuk membuat perubahan." },
+      { "type": "paragraph", "en": "Adapted from: Heatherton TF, Kozlowski LT, Frecker RC, Fagerström KO. The Fagerström test for nicotine dependence: a revision of the Fagerström tolerance questionnaire. British Journal of Addiction 1991; 86(9):1119-1127.", "id": "Diadaptasi dari: Heatherton TF, Kozlowski LT, Frecker RC, Fagerström KO. Tes Fagerström untuk ketergantungan nikotin: revisi dari kuesioner toleransi Fagerström. Jurnal Ketergantungan Inggris 1991; 86(9):1119-1127." }
+    ]
+  },
+  {
+    "id": "costs-of-smoking",
+    "title": "Think about the Costs of Smoking",
+    "content": [
+      { "type": "paragraph", "en": "You already know that smoking costs money. You also know that smoking can harm your health. Here are some examples:\n• Up to half of all smokers will die because of smoking.\n• A smoker will die about eight years earlier than a non-smoker.\n• Smoking makes you 20 times more likely to die of lung cancer.\n• Smoking is the primary cause of 80–90% of COPD (Chronic Obstructive Pulmonary Disease).\n• Smoking kills 13,000 people in Ontario every year.", "id": "Anda sudah tahu bahwa merokok menghabiskan uang. Anda juga tahu bahwa merokok dapat membahayakan kesehatan Anda. Berikut adalah beberapa contoh:\n• Hingga setengah dari seluruh perokok akan meninggal karena merokok.\n• Seorang perokok akan meninggal sekitar delapan tahun lebih awal dari non-perokok.\n• Merokok membuat Anda 20 kali lebih mungkin meninggal karena kanker paru-paru.\n• Merokok adalah penyebab utama dari 80–90% PPOK (Penyakit Paru Obstruktif Kronis).\n• Merokok membunuh 13.000 orang di Ontario setiap tahun." },
+      { "type": "paragraph", "en": "List other health concerns you have:\n________________________________________________________\n________________________________________________________", "id": "Sebutkan masalah kesehatan lain yang Anda miliki:\n________________________________________________________\n________________________________________________________" },
+      { "type": "paragraph", "en": "Smoking is expensive. The money you spend goes to the Tobacco Industry. If you smoke a pack a day, you can spend more than $4,000 a year on cigarettes.\n\nFigure out how much smoking costs you each year.\nDo the math!\n____ packs per week X $ _____ price / pack X 52 = ____", "id": "Merokok itu mahal. Uang yang Anda habiskan disalurkan ke Industri Tembakau. Jika Anda merokok sebungkus sehari, Anda bisa menghabiskan lebih dari $4.000 setahun untuk rokok.\n\nCari tahu berapa banyak biaya merokok yang Anda keluarkan setiap tahun.\nLakukan perhitungan!\n____ bungkus per minggu X $ _____ harga / bungkus X 52 = ____" },
+      { "type": "paragraph", "en": "What could you do with that money when you quit smoking? List your ideas:\n________________________________________________________\n________________________________________________________", "id": "Apa yang bisa Anda lakukan dengan uang itu ketika Anda berhenti merokok? Buatlah daftar ide-ide Anda:\n________________________________________________________\n________________________________________________________" }
+    ]
+  },
+  {
+    "id": "benefits-of-quitting",
+    "title": "Think about the Benefits of Quitting",
+    "content": [
+      { "type": "paragraph", "en": "Quitting smoking is one of the best things you can do to improve your health and your life.\n\nYou don't have to wait long before good things happen!", "id": "Berhenti merokok adalah salah satu hal terbaik yang dapat Anda lakukan untuk meningkatkan kesehatan dan kehidupan Anda.\n\nAnda tidak perlu menunggu lama sebelum hal-hal baik terjadi!" },
+      { "type": "paragraph", "en": "Within 8 hours, the carbon monoxide level drops in your body. (Carbon monoxide is a toxic gas that enters your blood when you smoke.) The oxygen level in your blood increases to normal.\n\nWithin 48 hours, your chances of having a heart attack go down. Your sense of smell and taste get better.\n\nWithin 72 hours, breathing is easier.\n\nWithin 2 weeks to 3 months, blood circulation improves. Your lungs will work up to 30% better.\n\nWithin 6 months, coughing, sinus congestion, tiredness and shortness of breath improve.\n\nWithin 1 year, your risk of suffering a smoking-related heart attack is cut in half.\n\nWithin 10 years, the risk of dying from lung cancer is cut in half.\n\nWithin 15 years, the risk of dying from a heart attack is equal to a person who never smoked.", "id": "Dalam 8 jam, kadar karbon monoksida dalam tubuh Anda turun. (Karbon monoksida adalah gas beracun yang masuk ke dalam darah Anda ketika Anda merokok). Kadar oksigen dalam darah Anda meningkat menjadi normal.\n\nDalam 48 jam, kemungkinan Anda mengalami serangan jantung turun. Indera penciuman dan pengecap Anda membaik.\n\nDalam 72 jam, pernapasan menjadi lebih mudah.\n\nDalam 2 minggu hingga 3 bulan, sirkulasi darah membaik. Paru-paru Anda akan bekerja hingga 30% lebih baik.\n\nDalam 6 bulan, batuk, hidung tersumbat, kelelahan dan sesak napas membaik.\n\nDalam 1 tahun, risiko Anda mengalami serangan jantung terkait merokok berkurang setengahnya.\n\nDalam 10 tahun, risiko kematian akibat kanker paru-paru berkurang setengahnya.\n\nDalam 15 tahun, risiko kematian akibat serangan jantung sama dengan orang yang tidak pernah merokok." },
+      { "type": "paragraph", "en": "\"A year from now you will wish you had started today.\"\nKaren Lamb", "id": "\"Setahun dari sekarang Anda akan berharap Anda telah memulainya hari ini.\"\nKaren Lamb" },
+      { "type": "paragraph", "en": "Don't forget about some of the other great benefits of quitting:\n• You will save money.\n• Your sense of smell and taste will come back. Your food will taste better!\n• People will stop asking you to quit. Finally!\n• You will look and feel younger. Smoking causes wrinkles and ages your skin.\n\nWhat other benefits can you add to this list?\n________________________________________________________\n________________________________________________________\n________________________________________________________", "id": "Jangan lupakan beberapa manfaat besar lainnya dari berhenti merokok:\n• Anda akan menghemat uang.\n• Indera penciuman dan pengecap Anda akan kembali. Makanan Anda akan terasa lebih enak!\n• Orang-orang akan berhenti meminta Anda untuk berhenti merokok. Akhirnya!\n• Anda akan terlihat dan merasa lebih muda. Merokok menyebabkan keriput dan menua pada kulit Anda.\n\nApa manfaat lain yang dapat Anda tambahkan ke daftar ini?\n________________________________________________________\n________________________________________________________\n________________________________________________________" }
+    ]
+  },
+  {
+    "id": "what-to-expect",
+    "title": "What to Expect when Quitting",
+    "content": [
+      { "type": "paragraph", "en": "Withdrawal is your body's response to being without nicotine. Everyone may feel different withdrawal symptoms. If you have tried to quit before, you know how you may feel. If this is your first time quitting, the symptoms can begin a few hours after you quit.\n\nSome of these symptoms can make you uncomfortable. Cravings can be hard to deal with. Remember that your body is healing itself from the damage caused by smoking.", "id": "Gejala penarikan (withdrawal) adalah respons tubuh Anda karena tidak ada nikotin. Setiap orang mungkin merasakan gejala penarikan yang berbeda. Jika Anda pernah mencoba berhenti sebelumnya, Anda tahu bagaimana perasaan Anda. Jika ini adalah pertama kalinya Anda berhenti, gejalanya bisa dimulai beberapa jam setelah Anda berhenti.\n\nBeberapa dari gejala ini dapat membuat Anda tidak nyaman. Menginginkan rokok bisa sangat sulit untuk ditangani. Ingatlah bahwa tubuh Anda sedang menyembuhkan dirinya sendiri dari kerusakan yang disebabkan oleh merokok." },
+      {
+        "type": "table",
+        "headers": [ { "en": "Withdrawal Symptoms", "id": "Gejala Penarikan" }, { "en": "Why you're feeling it", "id": "Mengapa Anda merasakannya" } ],
+        "rows": [
+          [ { "en": "You want a cigarette - it's all you can think about.", "id": "Anda menginginkan rokok - hanya itu yang dapat Anda pikirkan." }, { "en": "Your brain is craving nicotine. It is a very addictive drug.", "id": "Otak Anda mendambakan nikotin. Ini adalah obat yang sangat adiktif." } ],
+          [ { "en": "You feel dizzy.", "id": "Anda merasa pusing." }, { "en": "Your body is getting more oxygen now. This is good! But your body needs to get used to it.", "id": "Tubuh Anda mendapatkan lebih banyak oksigen sekarang. Ini bagus! Tapi tubuh Anda harus terbiasa dengan hal itu." } ],
+          [ { "en": "You've got:\n- a dry throat\n- a cough\n- post-nasal drip. This is mucus that drips from the back of your nose into your throat.", "id": "Anda mengalami:\n- tenggorokan kering\n- batuk\n- post-nasal drip. Ini adalah lendir yang menetes dari bagian belakang hidung ke tenggorokan Anda." }, { "en": "When you first quit, you might notice a lot of coughing and mucus. This is a good sign. Your lungs are clearing out the tar and dirt trapped inside. Help your lungs by allowing yourself to cough and bring it up.", "id": "Saat pertama kali berhenti, Anda mungkin melihat banyak batuk dan lendir. Ini adalah pertanda baik. Paru-paru Anda sedang membersihkan tar dan kotoran yang terperangkap di dalamnya. Bantu paru-paru Anda dengan membiarkan diri Anda batuk dan mengeluarkannya." } ],
+          [ { "en": "You have trouble sleeping.", "id": "Anda mengalami kesulitan tidur." }, { "en": "Nicotine has affected your brain and sleep patterns. Your brain is changing to new sleep patterns.", "id": "Nikotin telah mempengaruhi otak dan pola tidur Anda. Otak Anda sedang berubah ke pola tidur yang baru." } ],
+          [ { "en": "You have trouble concentrating.", "id": "Anda kesulitan berkonsentrasi." }, { "en": "Your brain is used to getting a buzz from nicotine. Now it's learning to stay alert without nicotine.", "id": "Otak Anda sudah terbiasa mendapatkan rangsangan dari nikotin. Sekarang ia sedang belajar untuk tetap waspada tanpa nikotin." } ],
+          [ { "en": "Your chest is tight.", "id": "Dada Anda terasa sesak." }, { "en": "You may have sore muscles from coughing. You have tense muscles from nicotine cravings.", "id": "Otot Anda mungkin terasa sakit akibat batuk. Otot Anda menjadi tegang akibat hasrat terhadap nikotin." } ],
+          [ { "en": "You have gas, stomach pain, and constipation.", "id": "Anda mengalami gas, sakit perut, dan sembelit." }, { "en": "Your bowels may move less often than before. This won't last forever. Give your body time to change. Your bowel movements will be regular again.", "id": "Buang air besar Anda mungkin lebih jarang dari sebelumnya. Hal ini tidak akan berlangsung selamanya. Beri tubuh Anda waktu untuk berubah. Buang air besar Anda akan kembali teratur." } ],
+          [ { "en": "You're in a bad mood.", "id": "Anda sedang dalam suasana hati yang buruk." }, { "en": "Your body craves nicotine.", "id": "Tubuh Anda mendambakan nikotin." } ],
+          [ { "en": "You feel tired and have low energy.", "id": "Anda merasa lelah dan kurang bertenaga." }, { "en": "Nicotine is a stimulant. It keeps your body and brain alert. Your body is now learning how to stay alert without nicotine.", "id": "Nikotin adalah stimulan. Ia membuat tubuh dan otak Anda tetap waspada. Tubuh Anda sekarang sedang belajar bagaimana tetap waspada tanpa nikotin." } ],
+          [ { "en": "You feel hungry.", "id": "Anda merasa lapar." }, { "en": "Your brain is confusing a nicotine craving for hunger.", "id": "Otak Anda mengacaukan hasrat nikotin dengan rasa lapar." } ]
+        ]
+      },
+      { "type": "paragraph", "en": "They can last a short while or longer than you'd like. But they don't last forever! Here are some examples of what you can expect.", "id": "Gejala tersebut bisa berlangsung sebentar atau lebih lama dari yang Anda inginkan. Tapi hal itu tidak akan berlangsung selamanya! Berikut adalah beberapa contoh dari apa yang dapat Anda harapkan." },
+      {
+        "type": "table",
+        "headers": [ { "en": "How long it lasts", "id": "Berapa lama gejala berlangsung" }, { "en": "What you can do", "id": "Apa yang dapat Anda lakukan" } ],
+        "rows": [
+          [ { "en": "Cravings are strongest in the first few days after quitting. People may have cravings months or years later.", "id": "Keinginan/hasrat paling kuat terjadi pada beberapa hari pertama setelah berhenti. Seseorang mungkin mengalami hasrat tersebut beberapa bulan atau tahun kemudian." }, { "en": "Wait. Your strong craving will last a few minutes. Try another activity. Have a drink of water. Take a walk or call a friend.", "id": "Tunggu. Keinginan/hasrat kuat Anda akan berlangsung selama beberapa menit. Cobalah aktivitas lain. Minumlah air putih. Berjalan-jalanlah atau hubungi seorang teman." } ],
+          [ { "en": "1 or 2 days", "id": "1 atau 2 hari" }, { "en": "When you get up from sitting or lying down, get up slowly.", "id": "Saat Anda bangun dari duduk atau berbaring, bangunlah secara perlahan." } ],
+          [ { "en": "A few days", "id": "Beberapa hari" }, { "en": "Drink lots of water to thin out the mucus.", "id": "Minum banyak air untuk mengencerkan lendir." } ],
+          [ { "en": "1 week", "id": "1 minggu" }, { "en": "Don't drink caffeine such as coffee or cola. When you're quitting, your body is more sensitive to caffeine. One cup of coffee may feel like five.", "id": "Jangan minum kafein seperti kopi atau kola. Saat Anda berhenti merokok, tubuh Anda lebih sensitif terhadap kafein. Satu cangkir kopi mungkin terasa seperti lima cangkir." } ],
+          [ { "en": "A few weeks", "id": "Beberapa minggu" }, { "en": "Take lots of breaks if working on a task.", "id": "Ambil banyak istirahat jika sedang mengerjakan suatu tugas." } ],
+          [ { "en": "A few weeks", "id": "Beberapa minggu" }, { "en": "Take some deep, slow breaths.", "id": "Tarik napas dalam dan perlahan beberapa kali." } ],
+          [ { "en": "A few weeks", "id": "Beberapa minggu" }, { "en": "Drink lots of water. Eat high-fibre foods like fruits and vegetables.", "id": "Minum banyak air. Konsumsi makanan berserat tinggi seperti buah-buahan dan sayuran." } ],
+          [ { "en": "2-4 weeks", "id": "2-4 minggu" }, { "en": "Take a walk or do some exercise. Try to relax. Take a hot bath. Listen to soft music, stretch, or take a drive.", "id": "Berjalan-jalanlah atau lakukan beberapa latihan fisik. Cobalah untuk bersantai. Mandi air hangat. Dengarkan musik yang lembut, lakukan peregangan, atau berkendaralah." } ],
+          [ { "en": "2-4 weeks", "id": "2-4 minggu" }, { "en": "Take a nap if you're tired. Don't push yourself.", "id": "Tidurlah sejenak jika Anda lelah. Jangan memaksakan diri." } ],
+          [ { "en": "2-4 weeks", "id": "2-4 minggu" }, { "en": "Eat healthy meals and snacks. Try crunchy snacks like raw vegetables, pretzels, popcorn, and fruit. Drink lots of water. Chew sugar-free gum.", "id": "Makanlah makanan dan camilan yang sehat. Cobalah camilan renyah seperti sayuran mentah, pretzel, popcorn, dan buah. Minum banyak air. Kunyah permen karet bebas gula." } ]
+        ]
+      },
+      { "type": "paragraph", "en": "The symptoms won't last for long. The best way to deal with them is to prepare ahead of time. Once you're smoke-free, you'll be happy that you quit.", "id": "Gejala tersebut tidak akan bertahan lama. Cara terbaik untuk menghadapinya adalah dengan mempersiapkan diri sebelumnya. Setelah Anda bebas asap rokok, Anda akan merasa senang karena Anda telah berhenti." }
+    ]
+  },
+  {
+    "id": "weight-gain",
+    "title": "Weight Gain",
+    "content": [
+      { "type": "paragraph", "en": "You may be worried that you will gain weight when you quit smoking. Some people gain between five and ten pounds. Some people do not gain any weight.\n\nIf you do gain a little weight, don't let it stop you from quitting. Even if you gain a little weight, you will still be healthier than if you continued smoking!", "id": "Anda mungkin khawatir berat badan Anda akan naik saat Anda berhenti merokok. Beberapa orang bertambah antara lima hingga sepuluh pon. Beberapa orang tidak mengalami penambahan berat badan sama sekali.\n\nJika berat badan Anda sedikit bertambah, jangan biarkan hal itu menghentikan Anda untuk berhenti merokok. Bahkan jika berat badan Anda sedikit bertambah, Anda akan tetap lebih sehat daripada jika Anda terus merokok!" },
+      { "type": "paragraph", "en": "Tips to maintain a healthy weight\n\nAlthough most people only gain a little weight, you may not feel comfortable with the extra weight. Here are some tips to help you maintain your weight while still quitting smoking:\n\n• Be Active. Being active helps with withdrawal symptoms, cravings, and prevents weight gain.\n• Drink Lots of Water. It will help to flush the nicotine from your system. It can help you stop a craving. It also helps with food cravings.\n• Eat Well. Nicotine stops hunger. When you're quitting, you may feel hungry. Also, food can taste and smell better. Eat plenty of healthy foods such as fruits or vegetables to help with cravings.", "id": "Tips untuk menjaga berat badan yang sehat\n\nMeskipun kebanyakan orang hanya mengalami sedikit kenaikan berat badan, Anda mungkin merasa tidak nyaman dengan kelebihan berat badan tersebut. Berikut adalah beberapa tips untuk membantu Anda menjaga berat badan saat sedang dalam proses berhenti merokok:\n\n• Aktif secara Fisik. Aktif secara fisik dapat membantu mengatasi gejala penarikan, hasrat yang kuat (cravings), dan mencegah penambahan berat badan.\n• Minum Banyak Air. Ini akan membantu membuang nikotin dari sistem Anda. Hal ini dapat membantu Anda menghentikan keinginan/hasrat yang kuat. Ini juga membantu mengatasi keinginan/hasrat makan.\n• Makan dengan Baik. Nikotin menghentikan rasa lapar. Saat Anda berhenti merokok, Anda mungkin akan merasa lapar. Selain itu, makanan bisa terasa dan berbau lebih enak. Makanlah banyak makanan sehat seperti buah-buahan atau sayuran untuk membantu mengatasi keinginan (cravings) tersebut." },
+      { "type": "paragraph", "en": "\"Nothing diminishes anxiety faster than action.\"\nWalter Anderson", "id": "\"Tidak ada yang mengurangi kecemasan lebih cepat daripada sebuah tindakan.\"\nWalter Anderson" }
+    ]
+  },
+  {
+    "id": "stress",
+    "title": "Stress",
+    "content": [
+      { "type": "paragraph", "en": "Stress is a part of our daily lives. You may smoke to deal with stress. Even thinking about quitting smoking may cause you stress.\n\nHere are some ways to deal with stress:\n• Talk about it with someone.\n• Go for a walk or run.\n• Laugh!\n• Relax in a bath.\n• Cuddle with a loved one or a pet.", "id": "Stres adalah bagian dari kehidupan kita sehari-hari. Anda mungkin merokok untuk mengatasi stres. Bahkan dengan hanya memikirkan tentang berhenti merokok dapat menyebabkan Anda stres.\n\nBerikut adalah beberapa cara untuk mengatasi stres:\n• Bicarakan masalah ini dengan seseorang.\n• Pergi berjalan-jalan atau lari.\n• Tertawalah!\n• Bersantailah dengan mandi.\n• Berpelukan dengan orang yang Anda cintai atau hewan peliharaan." },
+      { "type": "paragraph", "en": "What other things could you add to this list?\n________________________________________________________\n________________________________________________________", "id": "Apa hal lain yang bisa Anda tambahkan ke daftar ini?\n________________________________________________________\n________________________________________________________" },
+      { "type": "paragraph", "en": "Think about some of the times, places and people that cause you stress. Write down how you will deal with these situations.\n\nI always crave a cigarette when...\n________________________________________\nI will deal with this situation by...\n________________________________________", "id": "Pikirkan tentang beberapa waktu, tempat, dan orang-orang yang menyebabkan Anda stres. Tuliskan bagaimana Anda akan menghadapi situasi-situasi ini.\n\nSaya selalu menginginkan rokok ketika...\n________________________________________\nSaya akan menghadapi situasi ini dengan cara...\n________________________________________" },
+      { "type": "paragraph", "en": "I always crave a cigarette when...\n________________________________________\nI will deal with this situation by...\n________________________________________", "id": "Saya selalu menginginkan rokok ketika...\n________________________________________\nSaya akan menghadapi situasi ini dengan cara...\n________________________________________" }
+    ]
+  },
+  {
+    "id": "imagine-it",
+    "title": "Imagine It",
+    "content": [
+      { "type": "paragraph", "en": "Can you see it? It's you, but you've quit smoking! Does it seem real?\n\nImagine:\nFamily and friends congratulating you for quitting!\nYour breath and clothing smell better, fresher!\nYou are free from your addiction!\nHaving extra money to treat yourself!", "id": "Dapatkah Anda membayangkannya? Itu Anda, tetapi Anda sudah berhenti merokok! Apakah itu tampak nyata?\n\nBayangkan:\nKeluarga dan teman-teman mengucapkan selamat kepada Anda karena telah berhenti merokok!\nNapas dan pakaian Anda berbau lebih baik, lebih segar!\nAnda bebas dari kecanduan Anda!\nMemiliki uang ekstra untuk merawat diri sendiri!" },
+      { "type": "paragraph", "en": "Are you ready to take the next step?\n\nIf you're ready to quit, continue to the next section to begin planning for your new smoke-free life.\n\nIf you're not ready, you may need more time to decide. This is a big decision. You need to quit when the time is right for you. Come back to this book when you are ready to quit. Read Section 1 again before starting Section 2. You might think that you need to quit, but are you ready to quit?", "id": "Apakah Anda siap untuk mengambil langkah berikutnya?\n\nJika Anda siap untuk berhenti merokok, lanjutkan ke bagian berikutnya untuk mulai merencanakan kehidupan baru Anda yang bebas asap rokok.\n\nJika Anda belum siap, Anda mungkin butuh lebih banyak waktu untuk memutuskannya. Ini adalah keputusan besar. Anda perlu berhenti ketika waktunya tepat bagi Anda. Kembalilah ke buku ini ketika Anda siap untuk berhenti. Baca Bagian 1 lagi sebelum memulai Bagian 2. Anda mungkin berpikir bahwa Anda perlu berhenti, tetapi apakah Anda siap untuk berhenti?" },
+      { "type": "paragraph", "en": "For help as you prepare to quit smoking, call the toll-free Lung Health Information Line at 1-888-344-LUNG (5864)", "id": "Untuk bantuan selagi Anda bersiap berhenti merokok, hubungi Saluran Informasi Kesehatan Paru bebas pulsa di 1-888-344-LUNG (5864)" }
+    ]
+  }
+]

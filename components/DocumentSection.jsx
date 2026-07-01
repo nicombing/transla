@@ -12,7 +12,7 @@ const DocumentSection = ({ section, docId, versionId }) => {
       <div>
         {section.content.map((block, index) => {
           if (block.type === 'table') {
-            return <TablePair key={index} headers={block.headers} rows={block.rows} />;
+            return <TablePair key={index} headers={block.headers} rows={block.rows} versionId={versionId} />;
           }
           if (block.type === 'image') {
             return <ImagePair key={index} src={block.src} alt={block.alt} caption={block.caption} />;
